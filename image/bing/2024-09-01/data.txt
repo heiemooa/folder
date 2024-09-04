@@ -1,0 +1,21 @@
+{
+  "title": "小船轻轻划过泰晤士河",
+  "copyright": "泰晤士河，伦敦，英国 (© Puthipong Worasaran/Getty Images)",
+  "time": "2024-09-01",
+  "base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRQBAwQEBQQFCQUFCRQNCw0UFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFP/AABEIAAkAEAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APHPh98SrpLt9OvfGWreH/nMUN6j77UsTlfMBKtGu3GTlsGsZ0KU1zSpp/n+B9RTzDEfw3V/K34ozPGPjLxJdXP2e51vUL4tF8kyXCvBcPgH905UBhkkdc9KulGjTWkeX1TMa+LxU9JT5vSx594s/wCRb0n/AK/Jf/QTV4b4n8jy6vQ9W+Lf/JOrb/r3t/5rWtf/AHf5HT9tH//Z",
+  "url": {
+    "hd": "/img/2024/09/01/2024-09-01_hd.jpg",
+    "uhd": "/img/2024/09/01/2024-09-01_uhd.jpg",
+    "greyscale": "/img/2024/09/01/2024-09-01_hd_greyscale.jpg",
+    "thumbnail": "/img/2024/09/01/2024-09-01_hd_thumbnail_480_270.jpg",
+    "gaussian": "/img/2024/09/01/2024-09-01_hd_gaussian_20.jpg"
+  },
+  "color": {
+    "Vibrant": "#c1672f",
+    "DarkVibrant": "#6c3a20",
+    "LightVibrant": "#e08370",
+    "Muted": "#95686c",
+    "DarkMuted": "#523a48",
+    "LightMuted": "#d3abae"
+  }
+}

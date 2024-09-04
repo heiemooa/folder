@@ -1,0 +1,21 @@
+{
+  "title": "尽享森林与水域之美",
+  "copyright": "卡塔丁森林和水域国家纪念碑，佩诺布斯科特县，缅因州，美国 (© Cavan Images/Alamy Stock Photo)",
+  "time": "2024-08-24",
+  "base64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRQBAwQEBQQFCQUFCRQNCw0UFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFP/AABEIAAkAEAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APmf4MfEHw/Z+NNNt4JLsi8udpg0+URTSJ0wrOQBnnqfWvFlTqRkqmuh0xjGTtc+m/i54Mi+JfgS1l8DX2qPq8MYmuNF1G9KGboAq5JXfjfn5sfnXXKd7XB0tND85fBP/I66d/vP/M13w+JHLLY/Q/4U/wDIW0v/AK7Rf0rxq3ws9aG6P//Z",
+  "url": {
+    "hd": "/img/2024/08/24/2024-08-24_hd.jpg",
+    "uhd": "/img/2024/08/24/2024-08-24_uhd.jpg",
+    "greyscale": "/img/2024/08/24/2024-08-24_hd_greyscale.jpg",
+    "thumbnail": "/img/2024/08/24/2024-08-24_hd_thumbnail_480_270.jpg",
+    "gaussian": "/img/2024/08/24/2024-08-24_hd_gaussian_20.jpg"
+  },
+  "color": {
+    "Vibrant": "#bc846c",
+    "DarkVibrant": "#44440c",
+    "LightVibrant": "#eed8be",
+    "Muted": "#8a8178",
+    "DarkMuted": "#494430",
+    "LightMuted": "#c5c0ba"
+  }
+}
