@@ -3,15 +3,16 @@
     "bing": [
       {
         "key": 1,
-        "time": "2023-10-23",
         "url": {
+          "gaussian": "image/bing/2023-10-23/gaussian.jpg",
+          "greyscale": "image/bing/2023-10-23/greyscale.jpg",
           "hd": "image/bing/2023-10-23/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-10-23/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-10-23/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-10-23/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-10-23/thumbnail.jpg",
           "uhd": "image/bing/2023-10-23/uhd.jpg"
         },
+        "time": "2023-10-23",
         "title": "塞勒斯堡的玉米迷宫，宾夕法尼亚州，美国 (© Alex Potemkin/Getty Images)",
+        "copyright": "塞勒斯堡的玉米迷宫，宾夕法尼亚州，美国 (© Alex Potemkin/Getty Images)",
         "color": {
           "Vibrant": "#dd9413",
           "DarkVibrant": "#70600e",
@@ -24,15 +25,16 @@
       },
       {
         "key": 2,
-        "time": "2023-10-24",
         "url": {
+          "gaussian": "image/bing/2023-10-24/gaussian.jpg",
+          "greyscale": "image/bing/2023-10-24/greyscale.jpg",
           "hd": "image/bing/2023-10-24/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-10-24/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-10-24/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-10-24/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-10-24/thumbnail.jpg",
           "uhd": "image/bing/2023-10-24/uhd.jpg"
         },
+        "time": "2023-10-24",
         "title": "桑佩伦山上的菲泽尔城堡，匈牙利 (© ZGPhotography/Alamy)",
+        "copyright": "桑佩伦山上的菲泽尔城堡，匈牙利 (© ZGPhotography/Alamy)",
         "color": {
           "Vibrant": "#c1735e",
           "DarkVibrant": "#773412",
@@ -45,15 +47,16 @@
       },
       {
         "key": 3,
-        "time": "2023-10-25",
         "url": {
+          "gaussian": "image/bing/2023-10-25/gaussian.jpg",
+          "greyscale": "image/bing/2023-10-25/greyscale.jpg",
           "hd": "image/bing/2023-10-25/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-10-25/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-10-25/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-10-25/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-10-25/thumbnail.jpg",
           "uhd": "image/bing/2023-10-25/uhd.jpg"
         },
+        "time": "2023-10-25",
         "title": "大阶梯埃斯卡兰特国家纪念区中的棉白杨树，犹他州，美国 (© Jeff Foott/Minden Pictures)",
+        "copyright": "大阶梯埃斯卡兰特国家纪念区中的棉白杨树，犹他州，美国 (© Jeff Foott/Minden Pictures)",
         "color": {
           "Vibrant": "#e1ac0a",
           "DarkVibrant": "#743c0a",
@@ -66,15 +69,16 @@
       },
       {
         "key": 4,
-        "time": "2023-10-26",
         "url": {
+          "gaussian": "image/bing/2023-10-26/gaussian.jpg",
+          "greyscale": "image/bing/2023-10-26/greyscale.jpg",
           "hd": "image/bing/2023-10-26/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-10-26/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-10-26/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-10-26/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-10-26/thumbnail.jpg",
           "uhd": "image/bing/2023-10-26/uhd.jpg"
         },
+        "time": "2023-10-26",
         "title": "美泉宫公园的秋叶，维也纳，奥地利 (© rusm/Getty Images)",
+        "copyright": "美泉宫公园的秋叶，维也纳，奥地利 (© rusm/Getty Images)",
         "color": {
           "Vibrant": "#dd8010",
           "DarkVibrant": "#981907",
@@ -87,15 +91,16 @@
       },
       {
         "key": 5,
-        "time": "2023-10-27",
         "url": {
+          "gaussian": "image/bing/2023-10-27/gaussian.jpg",
+          "greyscale": "image/bing/2023-10-27/greyscale.jpg",
           "hd": "image/bing/2023-10-27/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-10-27/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-10-27/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-10-27/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-10-27/thumbnail.jpg",
           "uhd": "image/bing/2023-10-27/uhd.jpg"
         },
+        "time": "2023-10-27",
         "title": "斯利加坎老桥，苏格兰斯凯岛 (© Aliaume Chapelle/Tandem Stills + Motion)",
+        "copyright": "斯利加坎老桥，苏格兰斯凯岛 (© Aliaume Chapelle/Tandem Stills + Motion)",
         "color": {
           "Vibrant": "#3c6c8c",
           "DarkVibrant": "#1c5172",
@@ -108,15 +113,16 @@
       },
       {
         "key": 6,
-        "time": "2023-10-28",
         "url": {
+          "gaussian": "image/bing/2023-10-28/gaussian.jpg",
+          "greyscale": "image/bing/2023-10-28/greyscale.jpg",
           "hd": "image/bing/2023-10-28/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-10-28/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-10-28/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-10-28/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-10-28/thumbnail.jpg",
           "uhd": "image/bing/2023-10-28/uhd.jpg"
         },
+        "time": "2023-10-28",
         "title": "卡斯蒂利亚-拉曼恰的风车，西班牙 (© Getty Images)",
+        "copyright": "卡斯蒂利亚-拉曼恰的风车，西班牙 (© Getty Images)",
         "color": {
           "Vibrant": "#c4641c",
           "DarkVibrant": "#674515",
@@ -129,15 +135,16 @@
       },
       {
         "key": 7,
-        "time": "2023-10-29",
         "url": {
+          "gaussian": "image/bing/2023-10-29/gaussian.jpg",
+          "greyscale": "image/bing/2023-10-29/greyscale.jpg",
           "hd": "image/bing/2023-10-29/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-10-29/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-10-29/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-10-29/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-10-29/thumbnail.jpg",
           "uhd": "image/bing/2023-10-29/uhd.jpg"
         },
+        "time": "2023-10-29",
         "title": "博纳温彻墓地，萨凡纳，佐治亚州，美国 (© Kelly vanDellen/Alamy)",
+        "copyright": "博纳温彻墓地，萨凡纳，佐治亚州，美国 (© Kelly vanDellen/Alamy)",
         "color": {
           "Vibrant": "#a69435",
           "DarkVibrant": "#585511",
@@ -150,15 +157,16 @@
       },
       {
         "key": 8,
-        "time": "2023-10-30",
         "url": {
+          "gaussian": "image/bing/2023-10-30/gaussian.jpg",
+          "greyscale": "image/bing/2023-10-30/greyscale.jpg",
           "hd": "image/bing/2023-10-30/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-10-30/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-10-30/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-10-30/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-10-30/thumbnail.jpg",
           "uhd": "image/bing/2023-10-30/uhd.jpg"
         },
+        "time": "2023-10-30",
         "title": "普通乌鸦坐在树枝上 (© WildMedia/Shutterstock)",
+        "copyright": "普通乌鸦坐在树枝上 (© WildMedia/Shutterstock)",
         "color": {
           "Vibrant": "#4576a0",
           "DarkVibrant": "#28445d",
@@ -171,15 +179,16 @@
       },
       {
         "key": 9,
-        "time": "2023-10-31",
         "url": {
+          "gaussian": "image/bing/2023-10-31/gaussian.jpg",
+          "greyscale": "image/bing/2023-10-31/greyscale.jpg",
           "hd": "image/bing/2023-10-31/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-10-31/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-10-31/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-10-31/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-10-31/thumbnail.jpg",
           "uhd": "image/bing/2023-10-31/uhd.jpg"
         },
+        "time": "2023-10-31",
         "title": "万圣节南瓜灯 (© Bing Image Creator)",
+        "copyright": "万圣节南瓜灯 (© Bing Image Creator)",
         "color": {
           "Vibrant": "#fa800a",
           "DarkVibrant": "#8e290e",
@@ -192,15 +201,16 @@
       },
       {
         "key": 10,
-        "time": "2023-11-01",
         "url": {
+          "gaussian": "image/bing/2023-11-01/gaussian.jpg",
+          "greyscale": "image/bing/2023-11-01/greyscale.jpg",
           "hd": "image/bing/2023-11-01/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-01/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-01/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-01/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-11-01/thumbnail.jpg",
           "uhd": "image/bing/2023-11-01/uhd.jpg"
         },
+        "time": "2023-11-01",
         "title": "上巴尔城堡，阿尔萨斯，法国 (© Andrea Pistolesi/Getty Images)",
+        "copyright": "上巴尔城堡，阿尔萨斯，法国 (© Andrea Pistolesi/Getty Images)",
         "color": {
           "Vibrant": "#137fd2",
           "DarkVibrant": "#72420e",
@@ -213,15 +223,16 @@
       },
       {
         "key": 11,
-        "time": "2023-11-02",
         "url": {
+          "gaussian": "image/bing/2023-11-02/gaussian.jpg",
+          "greyscale": "image/bing/2023-11-02/greyscale.jpg",
           "hd": "image/bing/2023-11-02/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-02/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-02/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-02/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-11-02/thumbnail.jpg",
           "uhd": "image/bing/2023-11-02/uhd.jpg"
         },
+        "time": "2023-11-02",
         "title": "恶水盆地的盐滩，死亡谷国家公园，加利福尼亚州，美国 (© Jim Patterson/Tandem Stills + Motion)",
+        "copyright": "恶水盆地的盐滩，死亡谷国家公园，加利福尼亚州，美国 (© Jim Patterson/Tandem Stills + Motion)",
         "color": {
           "Vibrant": "#d7974c",
           "DarkVibrant": "#23395c",
@@ -234,15 +245,16 @@
       },
       {
         "key": 12,
-        "time": "2023-11-03",
         "url": {
+          "gaussian": "image/bing/2023-11-03/gaussian.jpg",
+          "greyscale": "image/bing/2023-11-03/greyscale.jpg",
           "hd": "image/bing/2023-11-03/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-03/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-03/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-03/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-11-03/thumbnail.jpg",
           "uhd": "image/bing/2023-11-03/uhd.jpg"
         },
+        "time": "2023-11-03",
         "title": "卡梅尔海岸的太平洋海荨麻水母，加利福尼亚，美国 (© Jim Patterson/Tandem Stills + Motion)",
+        "copyright": "卡梅尔海岸的太平洋海荨麻水母，加利福尼亚，美国 (© Jim Patterson/Tandem Stills + Motion)",
         "color": {
           "Vibrant": "#c4ac1f",
           "DarkVibrant": "#0a7473",
@@ -255,15 +267,16 @@
       },
       {
         "key": 13,
-        "time": "2023-11-04",
         "url": {
+          "gaussian": "image/bing/2023-11-04/gaussian.jpg",
+          "greyscale": "image/bing/2023-11-04/greyscale.jpg",
           "hd": "image/bing/2023-11-04/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-04/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-04/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-04/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-11-04/thumbnail.jpg",
           "uhd": "image/bing/2023-11-04/uhd.jpg"
         },
+        "time": "2023-11-04",
         "title": "美洲野牛，黄石国家公园，怀俄明州，美国 (© Gary Gray/Getty Images)",
+        "copyright": "美洲野牛，黄石国家公园，怀俄明州，美国 (© Gary Gray/Getty Images)",
         "color": {
           "Vibrant": "#4e6fb1",
           "DarkVibrant": "#293a5c",
@@ -276,15 +289,16 @@
       },
       {
         "key": 14,
-        "time": "2023-11-05",
         "url": {
+          "gaussian": "image/bing/2023-11-05/gaussian.jpg",
+          "greyscale": "image/bing/2023-11-05/greyscale.jpg",
           "hd": "image/bing/2023-11-05/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-05/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-05/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-05/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-11-05/thumbnail.jpg",
           "uhd": "image/bing/2023-11-05/uhd.jpg"
         },
+        "time": "2023-11-05",
         "title": "石英岩地层，普拉亚德尔锡伦西奥，西班牙 (© Jean-Philippe Delobelle/Minden Pictures)",
+        "copyright": "石英岩地层，普拉亚德尔锡伦西奥，西班牙 (© Jean-Philippe Delobelle/Minden Pictures)",
         "color": {
           "Vibrant": "#c79420",
           "DarkVibrant": "#5d4610",
@@ -297,15 +311,16 @@
       },
       {
         "key": 15,
-        "time": "2023-11-06",
         "url": {
+          "gaussian": "image/bing/2023-11-06/gaussian.jpg",
+          "greyscale": "image/bing/2023-11-06/greyscale.jpg",
           "hd": "image/bing/2023-11-06/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-06/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-06/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-06/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-11-06/thumbnail.jpg",
           "uhd": "image/bing/2023-11-06/uhd.jpg"
         },
+        "time": "2023-11-06",
         "title": "佩霍湖，百内国家公园，智利南部 (© OST/Getty Images)",
+        "copyright": "佩霍湖，百内国家公园，智利南部 (© OST/Getty Images)",
         "color": {
           "Vibrant": "#fc8c24",
           "DarkVibrant": "#092b61",
@@ -318,15 +333,16 @@
       },
       {
         "key": 16,
-        "time": "2023-11-07",
         "url": {
+          "gaussian": "image/bing/2023-11-07/gaussian.jpg",
+          "greyscale": "image/bing/2023-11-07/greyscale.jpg",
           "hd": "image/bing/2023-11-07/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-07/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-07/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-07/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-11-07/thumbnail.jpg",
           "uhd": "image/bing/2023-11-07/uhd.jpg"
         },
+        "time": "2023-11-07",
         "title": "Kirkilai湖泊和瞭望塔，比尔扎伊地区公园，立陶宛 (© MNStudio/Shutterstock)",
+        "copyright": "Kirkilai湖泊和瞭望塔，比尔扎伊地区公园，立陶宛 (© MNStudio/Shutterstock)",
         "color": {
           "Vibrant": "#d2a322",
           "DarkVibrant": "#6f5f17",
@@ -339,15 +355,16 @@
       },
       {
         "key": 17,
-        "time": "2023-11-08",
         "url": {
+          "gaussian": "image/bing/2023-11-08/gaussian.jpg",
+          "greyscale": "image/bing/2023-11-08/greyscale.jpg",
           "hd": "image/bing/2023-11-08/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-08/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-08/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-08/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-11-08/thumbnail.jpg",
           "uhd": "image/bing/2023-11-08/uhd.jpg"
         },
+        "time": "2023-11-08",
         "title": "黄山的日落，安徽省，中国 (© Nantapon Pattamakijsakul/Getty Images)",
+        "copyright": "黄山的日落，安徽省，中国 (© Nantapon Pattamakijsakul/Getty Images)",
         "color": {
           "Vibrant": "#209fe9",
           "DarkVibrant": "#5b490f",
@@ -360,15 +377,16 @@
       },
       {
         "key": 18,
-        "time": "2023-11-09",
         "url": {
+          "gaussian": "image/bing/2023-11-09/gaussian.jpg",
+          "greyscale": "image/bing/2023-11-09/greyscale.jpg",
           "hd": "image/bing/2023-11-09/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-09/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-09/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-09/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-11-09/thumbnail.jpg",
           "uhd": "image/bing/2023-11-09/uhd.jpg"
         },
+        "time": "2023-11-09",
         "title": "秋天的白桦树，德拉门，挪威 (© Baac3nes/Getty Images)",
+        "copyright": "秋天的白桦树，德拉门，挪威 (© Baac3nes/Getty Images)",
         "color": {
           "Vibrant": "#cc8d39",
           "DarkVibrant": "#764d09",
@@ -381,15 +399,16 @@
       },
       {
         "key": 19,
-        "time": "2023-11-10",
         "url": {
+          "gaussian": "image/bing/2023-11-10/gaussian.jpg",
+          "greyscale": "image/bing/2023-11-10/greyscale.jpg",
           "hd": "image/bing/2023-11-10/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-10/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-10/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-10/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-11-10/thumbnail.jpg",
           "uhd": "image/bing/2023-11-10/uhd.jpg"
         },
+        "time": "2023-11-10",
         "title": "恶地国家公园，南达科他州，美国 (© Grant Ordelheide/Tandem Stills + Motion)",
+        "copyright": "恶地国家公园，南达科他州，美国 (© Grant Ordelheide/Tandem Stills + Motion)",
         "color": {
           "Vibrant": "#c14e2e",
           "DarkVibrant": "#933926",
@@ -402,15 +421,16 @@
       },
       {
         "key": 20,
-        "time": "2023-11-11",
         "url": {
+          "gaussian": "image/bing/2023-11-11/gaussian.jpg",
+          "greyscale": "image/bing/2023-11-11/greyscale.jpg",
           "hd": "image/bing/2023-11-11/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-11/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-11/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-11/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-11-11/thumbnail.jpg",
           "uhd": "image/bing/2023-11-11/uhd.jpg"
         },
+        "time": "2023-11-11",
         "title": "富内斯山谷，背景是多洛米蒂山，南蒂罗尔，意大利 (© Achim Thomae/Getty Images)",
+        "copyright": "富内斯山谷，背景是多洛米蒂山，南蒂罗尔，意大利 (© Achim Thomae/Getty Images)",
         "color": {
           "Vibrant": "#bfb341",
           "DarkVibrant": "#5a470b",
@@ -423,15 +443,16 @@
       },
       {
         "key": 21,
-        "time": "2023-11-12",
         "url": {
+          "gaussian": "image/bing/2023-11-12/gaussian.jpg",
+          "greyscale": "image/bing/2023-11-12/greyscale.jpg",
           "hd": "image/bing/2023-11-12/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-12/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-12/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-12/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-11-12/thumbnail.jpg",
           "uhd": "image/bing/2023-11-12/uhd.jpg"
         },
+        "time": "2023-11-12",
         "title": "秋天池塘里的两只绿头鸭 (© sun ok/Shutterstock)",
+        "copyright": "秋天池塘里的两只绿头鸭 (© sun ok/Shutterstock)",
         "color": {
           "Vibrant": "#ed9226",
           "DarkVibrant": "#236cb0",
@@ -444,15 +465,16 @@
       },
       {
         "key": 22,
-        "time": "2023-11-13",
         "url": {
+          "gaussian": "image/bing/2023-11-13/gaussian.jpg",
+          "greyscale": "image/bing/2023-11-13/greyscale.jpg",
           "hd": "image/bing/2023-11-13/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-13/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-13/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-13/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-11-13/thumbnail.jpg",
           "uhd": "image/bing/2023-11-13/uhd.jpg"
         },
+        "time": "2023-11-13",
         "title": "特拉蒙塔纳山中的老橄榄园，马略卡岛，西班牙 (© cinoby/Getty Images)",
+        "copyright": "特拉蒙塔纳山中的老橄榄园，马略卡岛，西班牙 (© cinoby/Getty Images)",
         "color": {
           "Vibrant": "#857a1c",
           "DarkVibrant": "#695e10",
@@ -465,15 +487,16 @@
       },
       {
         "key": 23,
-        "time": "2023-11-14",
         "url": {
+          "gaussian": "image/bing/2023-11-14/gaussian.jpg",
+          "greyscale": "image/bing/2023-11-14/greyscale.jpg",
           "hd": "image/bing/2023-11-14/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-14/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-14/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-14/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-11-14/thumbnail.jpg",
           "uhd": "image/bing/2023-11-14/uhd.jpg"
         },
+        "time": "2023-11-14",
         "title": "特卡波湖沿岸的鲁冰花，南岛，新西兰 (© Jeffrey Lewis/Tandem Stills + Motion)",
+        "copyright": "特卡波湖沿岸的鲁冰花，南岛，新西兰 (© Jeffrey Lewis/Tandem Stills + Motion)",
         "color": {
           "Vibrant": "#ce7c2d",
           "DarkVibrant": "#4f3f1e",
@@ -486,15 +509,16 @@
       },
       {
         "key": 24,
-        "time": "2023-11-15",
         "url": {
+          "gaussian": "image/bing/2023-11-15/gaussian.jpg",
+          "greyscale": "image/bing/2023-11-15/greyscale.jpg",
           "hd": "image/bing/2023-11-15/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-15/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-15/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-15/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-11-15/thumbnail.jpg",
           "uhd": "image/bing/2023-11-15/uhd.jpg"
         },
+        "time": "2023-11-15",
         "title": "萨雷克国家公园的拉帕谷，瑞典 (© Hans Strand/Getty Images)",
+        "copyright": "萨雷克国家公园的拉帕谷，瑞典 (© Hans Strand/Getty Images)",
         "color": {
           "Vibrant": "#c6821c",
           "DarkVibrant": "#834b04",
@@ -507,15 +531,16 @@
       },
       {
         "key": 25,
-        "time": "2023-11-16",
         "url": {
+          "gaussian": "image/bing/2023-11-16/gaussian.jpg",
+          "greyscale": "image/bing/2023-11-16/greyscale.jpg",
           "hd": "image/bing/2023-11-16/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-16/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-16/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-16/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-11-16/thumbnail.jpg",
           "uhd": "image/bing/2023-11-16/uhd.jpg"
         },
+        "time": "2023-11-16",
         "title": "雅典和卫城，希腊 (© Mlenny/Getty Images)",
+        "copyright": "雅典和卫城，希腊 (© Mlenny/Getty Images)",
         "color": {
           "Vibrant": "#e38a42",
           "DarkVibrant": "#195674",
@@ -528,15 +553,16 @@
       },
       {
         "key": 26,
-        "time": "2023-11-17",
         "url": {
+          "gaussian": "image/bing/2023-11-17/gaussian.jpg",
+          "greyscale": "image/bing/2023-11-17/greyscale.jpg",
           "hd": "image/bing/2023-11-17/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-17/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-17/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-17/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-11-17/thumbnail.jpg",
           "uhd": "image/bing/2023-11-17/uhd.jpg"
         },
+        "time": "2023-11-17",
         "title": "铜瀑布州立公园的巴德河，威斯康星州，美国 (© Big Joe/Getty Images)",
+        "copyright": "铜瀑布州立公园的巴德河，威斯康星州，美国 (© Big Joe/Getty Images)",
         "color": {
           "Vibrant": "#c47c0e",
           "DarkVibrant": "#045c77",
@@ -549,15 +575,16 @@
       },
       {
         "key": 27,
-        "time": "2023-11-18",
         "url": {
+          "gaussian": "image/bing/2023-11-18/gaussian.jpg",
+          "greyscale": "image/bing/2023-11-18/greyscale.jpg",
           "hd": "image/bing/2023-11-18/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-18/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-18/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-18/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-11-18/thumbnail.jpg",
           "uhd": "image/bing/2023-11-18/uhd.jpg"
         },
+        "time": "2023-11-18",
         "title": "北极熊妈妈和幼崽，丘吉尔城，曼尼托巴省，加拿大 (© Thorsten Milse/Getty Images)",
+        "copyright": "北极熊妈妈和幼崽，丘吉尔城，曼尼托巴省，加拿大 (© Thorsten Milse/Getty Images)",
         "color": {
           "Vibrant": "#7bb4c9",
           "DarkVibrant": "#264f5e",
@@ -570,15 +597,16 @@
       },
       {
         "key": 28,
-        "time": "2023-11-19",
         "url": {
+          "gaussian": "image/bing/2023-11-19/gaussian.jpg",
+          "greyscale": "image/bing/2023-11-19/greyscale.jpg",
           "hd": "image/bing/2023-11-19/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-19/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-19/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-19/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-11-19/thumbnail.jpg",
           "uhd": "image/bing/2023-11-19/uhd.jpg"
         },
+        "time": "2023-11-19",
         "title": "Alam-Pedja自然保护区，爱沙尼亚 (© Sven Zacek/Minden Pictures)",
+        "copyright": "Alam-Pedja自然保护区，爱沙尼亚 (© Sven Zacek/Minden Pictures)",
         "color": {
           "Vibrant": "#3a6f9e",
           "DarkVibrant": "#07446f",
@@ -591,15 +619,16 @@
       },
       {
         "key": 29,
-        "time": "2023-11-20",
         "url": {
+          "gaussian": "image/bing/2023-11-20/gaussian.jpg",
+          "greyscale": "image/bing/2023-11-20/greyscale.jpg",
           "hd": "image/bing/2023-11-20/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-20/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-20/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-20/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-11-20/thumbnail.jpg",
           "uhd": "image/bing/2023-11-20/uhd.jpg"
         },
+        "time": "2023-11-20",
         "title": "科奇城堡，Tongwynlais，卡迪夫，威尔士，英国，欧洲 (© Billy Stock/robertharding/Alamy Stock Photo)",
+        "copyright": "科奇城堡，Tongwynlais，卡迪夫，威尔士，英国，欧洲 (© Billy Stock/robertharding/Alamy Stock Photo)",
         "color": {
           "Vibrant": "#cf6f1b",
           "DarkVibrant": "#7c450b",
@@ -612,15 +641,16 @@
       },
       {
         "key": 30,
-        "time": "2023-11-21",
         "url": {
+          "gaussian": "image/bing/2023-11-21/gaussian.jpg",
+          "greyscale": "image/bing/2023-11-21/greyscale.jpg",
           "hd": "image/bing/2023-11-21/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-21/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-21/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-21/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-11-21/thumbnail.jpg",
           "uhd": "image/bing/2023-11-21/uhd.jpg"
         },
+        "time": "2023-11-21",
         "title": "英国诺福克海滩上的灰海豹幼崽 (© Vince Burton/Minden Pictures)",
+        "copyright": "英国诺福克海滩上的灰海豹幼崽 (© Vince Burton/Minden Pictures)",
         "color": {
           "Vibrant": "#b4914b",
           "DarkVibrant": "#5d4c27",
@@ -633,15 +663,16 @@
       },
       {
         "key": 31,
-        "time": "2023-11-22",
         "url": {
+          "gaussian": "image/bing/2023-11-22/gaussian.jpg",
+          "greyscale": "image/bing/2023-11-22/greyscale.jpg",
           "hd": "image/bing/2023-11-22/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-22/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-22/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-22/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-11-22/thumbnail.jpg",
           "uhd": "image/bing/2023-11-22/uhd.jpg"
         },
+        "time": "2023-11-22",
         "title": "大提顿国家公园，怀俄明州，美国 (© Westend61/Getty Images)",
+        "copyright": "大提顿国家公园，怀俄明州，美国 (© Westend61/Getty Images)",
         "color": {
           "Vibrant": "#047ac6",
           "DarkVibrant": "#08518a",
@@ -654,15 +685,16 @@
       },
       {
         "key": 32,
-        "time": "2023-11-23",
         "url": {
+          "gaussian": "image/bing/2023-11-23/gaussian.jpg",
+          "greyscale": "image/bing/2023-11-23/greyscale.jpg",
           "hd": "image/bing/2023-11-23/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-23/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-23/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-23/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-11-23/thumbnail.jpg",
           "uhd": "image/bing/2023-11-23/uhd.jpg"
         },
+        "time": "2023-11-23",
         "title": "泰德国家公园的日落，特内里费岛，加那利群岛, 西班牙 (© Javier Martínez Morán/Alamy)",
+        "copyright": "泰德国家公园的日落，特内里费岛，加那利群岛, 西班牙 (© Javier Martínez Morán/Alamy)",
         "color": {
           "Vibrant": "#d96906",
           "DarkVibrant": "#802409",
@@ -675,15 +707,16 @@
       },
       {
         "key": 33,
-        "time": "2023-11-24",
         "url": {
+          "gaussian": "image/bing/2023-11-24/gaussian.jpg",
+          "greyscale": "image/bing/2023-11-24/greyscale.jpg",
           "hd": "image/bing/2023-11-24/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-24/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-24/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-24/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-11-24/thumbnail.jpg",
           "uhd": "image/bing/2023-11-24/uhd.jpg"
         },
+        "time": "2023-11-24",
         "title": "奥林匹克国家公园霍河雨林中的苔藓大厅 ，华盛顿州，美国 (© James Randklev/Getty Images)",
+        "copyright": "奥林匹克国家公园霍河雨林中的苔藓大厅 ，华盛顿州，美国 (© James Randklev/Getty Images)",
         "color": {
           "Vibrant": "#578f10",
           "DarkVibrant": "#3b6e09",
@@ -696,15 +729,16 @@
       },
       {
         "key": 34,
-        "time": "2023-11-25",
         "url": {
+          "gaussian": "image/bing/2023-11-25/gaussian.jpg",
+          "greyscale": "image/bing/2023-11-25/greyscale.jpg",
           "hd": "image/bing/2023-11-25/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-25/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-25/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-25/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-11-25/thumbnail.jpg",
           "uhd": "image/bing/2023-11-25/uhd.jpg"
         },
+        "time": "2023-11-25",
         "title": "托莱多，西班牙 (© Carlos Fernandez/Getty Images)",
+        "copyright": "托莱多，西班牙 (© Carlos Fernandez/Getty Images)",
         "color": {
           "Vibrant": "#c89049",
           "DarkVibrant": "#1c4474",
@@ -717,15 +751,16 @@
       },
       {
         "key": 35,
-        "time": "2023-11-26",
         "url": {
+          "gaussian": "image/bing/2023-11-26/gaussian.jpg",
+          "greyscale": "image/bing/2023-11-26/greyscale.jpg",
           "hd": "image/bing/2023-11-26/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-26/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-26/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-26/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-11-26/thumbnail.jpg",
           "uhd": "image/bing/2023-11-26/uhd.jpg"
         },
+        "time": "2023-11-26",
         "title": "布拉德盖特公园的小鹿，莱斯特郡，英国 (© Chris Bainbridge/Alamy)",
+        "copyright": "布拉德盖特公园的小鹿，莱斯特郡，英国 (© Chris Bainbridge/Alamy)",
         "color": {
           "Vibrant": "#b59064",
           "DarkVibrant": "#553712",
@@ -738,15 +773,16 @@
       },
       {
         "key": 36,
-        "time": "2023-11-27",
         "url": {
+          "gaussian": "image/bing/2023-11-27/gaussian.jpg",
+          "greyscale": "image/bing/2023-11-27/greyscale.jpg",
           "hd": "image/bing/2023-11-27/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-27/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-27/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-27/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-11-27/thumbnail.jpg",
           "uhd": "image/bing/2023-11-27/uhd.jpg"
         },
+        "time": "2023-11-27",
         "title": "内格罗河，亚马逊河流域，巴西 (© Timothy Allen/Getty Images)",
+        "copyright": "内格罗河，亚马逊河流域，巴西 (© Timothy Allen/Getty Images)",
         "color": {
           "Vibrant": "#426ebe",
           "DarkVibrant": "#5c3c18",
@@ -759,15 +795,16 @@
       },
       {
         "key": 37,
-        "time": "2023-11-28",
         "url": {
+          "gaussian": "image/bing/2023-11-28/gaussian.jpg",
+          "greyscale": "image/bing/2023-11-28/greyscale.jpg",
           "hd": "image/bing/2023-11-28/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-28/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-28/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-28/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-11-28/thumbnail.jpg",
           "uhd": "image/bing/2023-11-28/uhd.jpg"
         },
+        "time": "2023-11-28",
         "title": "阿西尼博因山省级公园，加拿大 (© matt macpherson/500px/Getty Images)",
+        "copyright": "阿西尼博因山省级公园，加拿大 (© matt macpherson/500px/Getty Images)",
         "color": {
           "Vibrant": "#bf890e",
           "DarkVibrant": "#5a4918",
@@ -780,15 +817,16 @@
       },
       {
         "key": 38,
-        "time": "2023-11-29",
         "url": {
+          "gaussian": "image/bing/2023-11-29/gaussian.jpg",
+          "greyscale": "image/bing/2023-11-29/greyscale.jpg",
           "hd": "image/bing/2023-11-29/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-29/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-29/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-29/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-11-29/thumbnail.jpg",
           "uhd": "image/bing/2023-11-29/uhd.jpg"
         },
+        "time": "2023-11-29",
         "title": "什未林湖上的什未林城堡，梅克伦堡-前波美拉尼亚州，德国 (© Hannes Wendt/Shutterstock)",
+        "copyright": "什未林湖上的什未林城堡，梅克伦堡-前波美拉尼亚州，德国 (© Hannes Wendt/Shutterstock)",
         "color": {
           "Vibrant": "#c77631",
           "DarkVibrant": "#095163",
@@ -801,15 +839,16 @@
       },
       {
         "key": 39,
-        "time": "2023-11-30",
         "url": {
+          "gaussian": "image/bing/2023-11-30/gaussian.jpg",
+          "greyscale": "image/bing/2023-11-30/greyscale.jpg",
           "hd": "image/bing/2023-11-30/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-11-30/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-11-30/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-11-30/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-11-30/thumbnail.jpg",
           "uhd": "image/bing/2023-11-30/uhd.jpg"
         },
+        "time": "2023-11-30",
         "title": "斯托尔，斯凯岛上展露的岩石尖峰，苏格兰，英国 (© Juan Maria Coy Vergara/Getty Images)",
+        "copyright": "斯托尔，斯凯岛上展露的岩石尖峰，苏格兰，英国 (© Juan Maria Coy Vergara/Getty Images)",
         "color": {
           "Vibrant": "#d66f49",
           "DarkVibrant": "#674504",
@@ -822,15 +861,16 @@
       },
       {
         "key": 40,
-        "time": "2023-12-01",
         "url": {
+          "gaussian": "image/bing/2023-12-01/gaussian.jpg",
+          "greyscale": "image/bing/2023-12-01/greyscale.jpg",
           "hd": "image/bing/2023-12-01/hd.jpg",
-          "hd_gaussian_20": "image/bing/2023-12-01/hd_gaussian_20.jpg",
-          "hd_greyscale": "image/bing/2023-12-01/hd_greyscale.jpg",
-          "hd_thumbnail_480_270": "image/bing/2023-12-01/hd_thumbnail_480_270.jpg",
+          "thumbnail": "image/bing/2023-12-01/thumbnail.jpg",
           "uhd": "image/bing/2023-12-01/uhd.jpg"
         },
+        "time": "2023-12-01",
         "title": "罗斯海的冰山，南极洲 (© Michel Roggo/Minden Pictures)",
+        "copyright": "罗斯海的冰山，南极洲 (© Michel Roggo/Minden Pictures)",
         "color": {
           "Vibrant": "#3f759f",
           "DarkVibrant": "#244059",
@@ -843,7 +883,6 @@
       },
       {
         "key": 41,
-        "time": "2023-12-02",
         "url": {
           "gaussian": "image/bing/2023-12-02/gaussian.jpg",
           "greyscale": "image/bing/2023-12-02/greyscale.jpg",
@@ -851,7 +890,9 @@
           "thumbnail": "image/bing/2023-12-02/thumbnail.jpg",
           "uhd": "image/bing/2023-12-02/uhd.jpg"
         },
+        "time": "2023-12-02",
         "title": "瓜廖尔堡，中央邦，印度 (© Dmitry Rukhlenko-Photos of India/Alamy)",
+        "copyright": "瓜廖尔堡，中央邦，印度 (© Dmitry Rukhlenko-Photos of India/Alamy)",
         "color": {
           "Vibrant": "#1882c4",
           "DarkVibrant": "#075895",
@@ -864,7 +905,6 @@
       },
       {
         "key": 42,
-        "time": "2023-12-03",
         "url": {
           "gaussian": "image/bing/2023-12-03/gaussian.jpg",
           "greyscale": "image/bing/2023-12-03/greyscale.jpg",
@@ -872,7 +912,9 @@
           "thumbnail": "image/bing/2023-12-03/thumbnail.jpg",
           "uhd": "image/bing/2023-12-03/uhd.jpg"
         },
+        "time": "2023-12-03",
         "title": "砂岩岩层，红悬崖国家保护区，亚利桑那州，美国 (© Yva Momatiuk and John Eastcott/Minden Pictures)",
+        "copyright": "砂岩岩层，红悬崖国家保护区，亚利桑那州，美国 (© Yva Momatiuk and John Eastcott/Minden Pictures)",
         "color": {
           "Vibrant": "#3782c4",
           "DarkVibrant": "#08528f",
@@ -885,7 +927,6 @@
       },
       {
         "key": 43,
-        "time": "2023-12-04",
         "url": {
           "gaussian": "image/bing/2023-12-04/gaussian.jpg",
           "greyscale": "image/bing/2023-12-04/greyscale.jpg",
@@ -893,7 +934,9 @@
           "thumbnail": "image/bing/2023-12-04/thumbnail.jpg",
           "uhd": "image/bing/2023-12-04/uhd.jpg"
         },
+        "time": "2023-12-04",
         "title": "一只猎豹妈妈和她的幼崽，马赛马拉国家保护区，肯尼亚 (© Scott Davis/Tandem Stills + Motion)",
+        "copyright": "一只猎豹妈妈和她的幼崽，马赛马拉国家保护区，肯尼亚 (© Scott Davis/Tandem Stills + Motion)",
         "color": {
           "Vibrant": "#b99e49",
           "DarkVibrant": "#5c6c14",
@@ -906,7 +949,6 @@
       },
       {
         "key": 44,
-        "time": "2023-12-05",
         "url": {
           "gaussian": "image/bing/2023-12-05/gaussian.jpg",
           "greyscale": "image/bing/2023-12-05/greyscale.jpg",
@@ -914,7 +956,9 @@
           "thumbnail": "image/bing/2023-12-05/thumbnail.jpg",
           "uhd": "image/bing/2023-12-05/uhd.jpg"
         },
+        "time": "2023-12-05",
         "title": "天鹅堡和旧天鹅堡，巴伐利亚阿尔卑斯山，德国 (© Harald Nachtmann/Getty Images)",
+        "copyright": "天鹅堡和旧天鹅堡，巴伐利亚阿尔卑斯山，德国 (© Harald Nachtmann/Getty Images)",
         "color": {
           "Vibrant": "#bc9c6c",
           "DarkVibrant": "#223d61",
@@ -927,7 +971,6 @@
       },
       {
         "key": 45,
-        "time": "2023-12-06",
         "url": {
           "gaussian": "image/bing/2023-12-06/gaussian.jpg",
           "greyscale": "image/bing/2023-12-06/greyscale.jpg",
@@ -935,7 +978,9 @@
           "thumbnail": "image/bing/2023-12-06/thumbnail.jpg",
           "uhd": "image/bing/2023-12-06/uhd.jpg"
         },
+        "time": "2023-12-06",
         "title": "达尔达尼亚瀑布，博洛尼亚，意大利 (© Alberto Ghizzi Panizza/Minden)",
+        "copyright": "达尔达尼亚瀑布，博洛尼亚，意大利 (© Alberto Ghizzi Panizza/Minden)",
         "color": {
           "Vibrant": "#c2a016",
           "DarkVibrant": "#4c1c04",
@@ -948,7 +993,6 @@
       },
       {
         "key": 46,
-        "time": "2023-12-07",
         "url": {
           "gaussian": "image/bing/2023-12-07/gaussian.jpg",
           "greyscale": "image/bing/2023-12-07/greyscale.jpg",
@@ -956,7 +1000,9 @@
           "thumbnail": "image/bing/2023-12-07/thumbnail.jpg",
           "uhd": "image/bing/2023-12-07/uhd.jpg"
         },
+        "time": "2023-12-07",
         "title": "韦尔东峡谷的雾蒙蒙的早晨，普罗旺斯-阿尔卑斯-蓝色海岸大区，法国 (© Hemis/Alamy)",
+        "copyright": "韦尔东峡谷的雾蒙蒙的早晨，普罗旺斯-阿尔卑斯-蓝色海岸大区，法国 (© Hemis/Alamy)",
         "color": {
           "Vibrant": "#f8976c",
           "DarkVibrant": "#3c548c",
@@ -969,7 +1015,6 @@
       },
       {
         "key": 47,
-        "time": "2023-12-08",
         "url": {
           "gaussian": "image/bing/2023-12-08/gaussian.jpg",
           "greyscale": "image/bing/2023-12-08/greyscale.jpg",
@@ -977,7 +1022,9 @@
           "thumbnail": "image/bing/2023-12-08/thumbnail.jpg",
           "uhd": "image/bing/2023-12-08/uhd.jpg"
         },
+        "time": "2023-12-08",
         "title": "拉罗克港，圣克莱门特，泽西岛 (© Reinhard Schmid/Huber/eStock Photo)",
+        "copyright": "拉罗克港，圣克莱门特，泽西岛 (© Reinhard Schmid/Huber/eStock Photo)",
         "color": {
           "Vibrant": "#be5230",
           "DarkVibrant": "#884536",
@@ -990,7 +1037,6 @@
       },
       {
         "key": 48,
-        "time": "2023-12-09",
         "url": {
           "gaussian": "image/bing/2023-12-09/gaussian.jpg",
           "greyscale": "image/bing/2023-12-09/greyscale.jpg",
@@ -998,7 +1044,9 @@
           "thumbnail": "image/bing/2023-12-09/thumbnail.jpg",
           "uhd": "image/bing/2023-12-09/uhd.jpg"
         },
+        "time": "2023-12-09",
         "title": "原驼，冰川国家公园，阿根廷 (© Yva Momatiuk and John Eastcott/Minden Pictures)",
+        "copyright": "原驼，冰川国家公园，阿根廷 (© Yva Momatiuk and John Eastcott/Minden Pictures)",
         "color": {
           "Vibrant": "#2c9bdb",
           "DarkVibrant": "#073a68",
@@ -1011,7 +1059,6 @@
       },
       {
         "key": 49,
-        "time": "2023-12-10",
         "url": {
           "gaussian": "image/bing/2023-12-10/gaussian.jpg",
           "greyscale": "image/bing/2023-12-10/greyscale.jpg",
@@ -1019,7 +1066,9 @@
           "thumbnail": "image/bing/2023-12-10/thumbnail.jpg",
           "uhd": "image/bing/2023-12-10/uhd.jpg"
         },
+        "time": "2023-12-10",
         "title": "林帕达恩湖，斯诺登尼亚国家公园， 威尔士 (© Joe Daniel Price/Getty Images)",
+        "copyright": "林帕达恩湖，斯诺登尼亚国家公园， 威尔士 (© Joe Daniel Price/Getty Images)",
         "color": {
           "Vibrant": "#e5a06a",
           "DarkVibrant": "#332b08",
@@ -1032,7 +1081,6 @@
       },
       {
         "key": 50,
-        "time": "2023-12-11",
         "url": {
           "gaussian": "image/bing/2023-12-11/gaussian.jpg",
           "greyscale": "image/bing/2023-12-11/greyscale.jpg",
@@ -1040,7 +1088,9 @@
           "thumbnail": "image/bing/2023-12-11/thumbnail.jpg",
           "uhd": "image/bing/2023-12-11/uhd.jpg"
         },
+        "time": "2023-12-11",
         "title": "黄山的冬天，中国 (© Hung Chung Chih/Shutterstock)",
+        "copyright": "黄山的冬天，中国 (© Hung Chung Chih/Shutterstock)",
         "color": {
           "Vibrant": "#785c34",
           "DarkVibrant": "#6c5430",
@@ -1053,7 +1103,6 @@
       },
       {
         "key": 51,
-        "time": "2023-12-12",
         "url": {
           "gaussian": "image/bing/2023-12-12/gaussian.jpg",
           "greyscale": "image/bing/2023-12-12/greyscale.jpg",
@@ -1061,7 +1110,9 @@
           "thumbnail": "image/bing/2023-12-12/thumbnail.jpg",
           "uhd": "image/bing/2023-12-12/uhd.jpg"
         },
+        "time": "2023-12-12",
         "title": "一品红 (© Yarygin/Getty Images)",
+        "copyright": "一品红 (© Yarygin/Getty Images)",
         "color": {
           "Vibrant": "#f8063a",
           "DarkVibrant": "#7f061d",
@@ -1074,7 +1125,6 @@
       },
       {
         "key": 52,
-        "time": "2023-12-13",
         "url": {
           "gaussian": "image/bing/2023-12-13/gaussian.jpg",
           "greyscale": "image/bing/2023-12-13/greyscale.jpg",
@@ -1082,7 +1132,9 @@
           "thumbnail": "image/bing/2023-12-13/thumbnail.jpg",
           "uhd": "image/bing/2023-12-13/uhd.jpg"
         },
+        "time": "2023-12-13",
         "title": "传统钓鱼小屋，斯沃尔韦尔，罗弗敦群岛，挪威 (© Roberto Moiola/Sysaworld/Getty Images)",
+        "copyright": "传统钓鱼小屋，斯沃尔韦尔，罗弗敦群岛，挪威 (© Roberto Moiola/Sysaworld/Getty Images)",
         "color": {
           "Vibrant": "#1f85ba",
           "DarkVibrant": "#093957",
@@ -1095,7 +1147,6 @@
       },
       {
         "key": 53,
-        "time": "2023-12-14",
         "url": {
           "gaussian": "image/bing/2023-12-14/gaussian.jpg",
           "greyscale": "image/bing/2023-12-14/greyscale.jpg",
@@ -1103,7 +1154,9 @@
           "thumbnail": "image/bing/2023-12-14/thumbnail.jpg",
           "uhd": "image/bing/2023-12-14/uhd.jpg"
         },
+        "time": "2023-12-14",
         "title": "北方猫头鹰，萨斯喀彻温省，加拿大 (© Nick Saunders/Minden Pictures)",
+        "copyright": "北方猫头鹰，萨斯喀彻温省，加拿大 (© Nick Saunders/Minden Pictures)",
         "color": {
           "Vibrant": "#ad5926",
           "DarkVibrant": "#5f220a",
@@ -1116,7 +1169,6 @@
       },
       {
         "key": 54,
-        "time": "2023-12-15",
         "url": {
           "gaussian": "image/bing/2023-12-15/gaussian.jpg",
           "greyscale": "image/bing/2023-12-15/greyscale.jpg",
@@ -1124,7 +1176,9 @@
           "thumbnail": "image/bing/2023-12-15/thumbnail.jpg",
           "uhd": "image/bing/2023-12-15/uhd.jpg"
         },
+        "time": "2023-12-15",
         "title": "罗瓦涅米的圣诞老人公园，拉普兰德，芬兰 (© lukutin77/Getty Images)",
+        "copyright": "罗瓦涅米的圣诞老人公园，拉普兰德，芬兰 (© lukutin77/Getty Images)",
         "color": {
           "Vibrant": "#fb9f05",
           "DarkVibrant": "#0b364f",
@@ -1137,7 +1191,6 @@
       },
       {
         "key": 55,
-        "time": "2023-12-16",
         "url": {
           "gaussian": "image/bing/2023-12-16/gaussian.jpg",
           "greyscale": "image/bing/2023-12-16/greyscale.jpg",
@@ -1145,7 +1198,9 @@
           "thumbnail": "image/bing/2023-12-16/thumbnail.jpg",
           "uhd": "image/bing/2023-12-16/uhd.jpg"
         },
+        "time": "2023-12-16",
         "title": "大广场，布鲁塞尔，比利时 (© Richard Taylor/Sime/eStock Photo)",
+        "copyright": "大广场，布鲁塞尔，比利时 (© Richard Taylor/Sime/eStock Photo)",
         "color": {
           "Vibrant": "#14bef3",
           "DarkVibrant": "#0c41a8",
@@ -1158,7 +1213,6 @@
       },
       {
         "key": 56,
-        "time": "2023-12-17",
         "url": {
           "gaussian": "image/bing/2023-12-17/gaussian.jpg",
           "greyscale": "image/bing/2023-12-17/greyscale.jpg",
@@ -1166,7 +1220,9 @@
           "thumbnail": "image/bing/2023-12-17/thumbnail.jpg",
           "uhd": "image/bing/2023-12-17/uhd.jpg"
         },
+        "time": "2023-12-17",
         "title": "波西米亚太平鸟栖息在树枝上，加拿大 (© Jim Cumming/Shutterstock)",
+        "copyright": "波西米亚太平鸟栖息在树枝上，加拿大 (© Jim Cumming/Shutterstock)",
         "color": {
           "Vibrant": "#d18355",
           "DarkVibrant": "#995c47",
@@ -1179,7 +1235,6 @@
       },
       {
         "key": 57,
-        "time": "2023-12-18",
         "url": {
           "gaussian": "image/bing/2023-12-18/gaussian.jpg",
           "greyscale": "image/bing/2023-12-18/greyscale.jpg",
@@ -1187,7 +1242,9 @@
           "thumbnail": "image/bing/2023-12-18/thumbnail.jpg",
           "uhd": "image/bing/2023-12-18/uhd.jpg"
         },
+        "time": "2023-12-18",
         "title": "圆顶礁国家公园，犹他州，美国 (© Jeff Clay/Tandem Stills + Motion)",
+        "copyright": "圆顶礁国家公园，犹他州，美国 (© Jeff Clay/Tandem Stills + Motion)",
         "color": {
           "Vibrant": "#cc8250",
           "DarkVibrant": "#8e3412",
@@ -1200,7 +1257,6 @@
       },
       {
         "key": 58,
-        "time": "2023-12-19",
         "url": {
           "gaussian": "image/bing/2023-12-19/gaussian.jpg",
           "greyscale": "image/bing/2023-12-19/greyscale.jpg",
@@ -1208,7 +1264,9 @@
           "thumbnail": "image/bing/2023-12-19/thumbnail.jpg",
           "uhd": "image/bing/2023-12-19/uhd.jpg"
         },
+        "time": "2023-12-19",
         "title": "城堡广场的圣诞树，华沙古城，波兰 (© Panther Media GmbH/Alamy Stock Photo)",
+        "copyright": "城堡广场的圣诞树，华沙古城，波兰 (© Panther Media GmbH/Alamy Stock Photo)",
         "color": {
           "Vibrant": "#1c6bed",
           "DarkVibrant": "#134188",
@@ -1221,7 +1279,6 @@
       },
       {
         "key": 59,
-        "time": "2023-12-20",
         "url": {
           "gaussian": "image/bing/2023-12-20/gaussian.jpg",
           "greyscale": "image/bing/2023-12-20/greyscale.jpg",
@@ -1229,7 +1286,9 @@
           "thumbnail": "image/bing/2023-12-20/thumbnail.jpg",
           "uhd": "image/bing/2023-12-20/uhd.jpg"
         },
+        "time": "2023-12-20",
         "title": "圣诞节期间的瓦尔加迪纳山谷的村庄，多洛米蒂山，意大利 (© Ingus Kruklitis/Getty Images)",
+        "copyright": "圣诞节期间的瓦尔加迪纳山谷的村庄，多洛米蒂山，意大利 (© Ingus Kruklitis/Getty Images)",
         "color": {
           "Vibrant": "#103ca2",
           "DarkVibrant": "#0c2494",
@@ -1242,7 +1301,6 @@
       },
       {
         "key": 60,
-        "time": "2023-12-21",
         "url": {
           "gaussian": "image/bing/2023-12-21/gaussian.jpg",
           "greyscale": "image/bing/2023-12-21/greyscale.jpg",
@@ -1250,7 +1308,9 @@
           "thumbnail": "image/bing/2023-12-21/thumbnail.jpg",
           "uhd": "image/bing/2023-12-21/uhd.jpg"
         },
+        "time": "2023-12-21",
         "title": "卢布尔雅那，斯洛文尼亚共和国 (© kasto80/Getty images)",
+        "copyright": "卢布尔雅那，斯洛文尼亚共和国 (© kasto80/Getty images)",
         "color": {
           "Vibrant": "#dd9344",
           "DarkVibrant": "#34657d",
@@ -1263,7 +1323,6 @@
       },
       {
         "key": 61,
-        "time": "2023-12-22",
         "url": {
           "gaussian": "image/bing/2023-12-22/gaussian.jpg",
           "greyscale": "image/bing/2023-12-22/greyscale.jpg",
@@ -1271,7 +1330,9 @@
           "thumbnail": "image/bing/2023-12-22/thumbnail.jpg",
           "uhd": "image/bing/2023-12-22/uhd.jpg"
         },
+        "time": "2023-12-22",
         "title": "天鹅泉湿地公园，伊犁，新疆，中国 (© 500px Asia/Getty images)",
+        "copyright": "天鹅泉湿地公园，伊犁，新疆，中国 (© 500px Asia/Getty images)",
         "color": {
           "Vibrant": "#416d96",
           "DarkVibrant": "#28435d",
@@ -1284,7 +1345,6 @@
       },
       {
         "key": 62,
-        "time": "2023-12-23",
         "url": {
           "gaussian": "image/bing/2023-12-23/gaussian.jpg",
           "greyscale": "image/bing/2023-12-23/greyscale.jpg",
@@ -1292,7 +1352,9 @@
           "thumbnail": "image/bing/2023-12-23/thumbnail.jpg",
           "uhd": "image/bing/2023-12-23/uhd.jpg"
         },
+        "time": "2023-12-23",
         "title": "帽带企鹅，南桑威奇群岛，南大西洋 (© Jan Vermeer/Minden Pictures)",
+        "copyright": "帽带企鹅，南桑威奇群岛，南大西洋 (© Jan Vermeer/Minden Pictures)",
         "color": {
           "Vibrant": "#e3681c",
           "DarkVibrant": "#602c0c",
@@ -1305,7 +1367,6 @@
       },
       {
         "key": 63,
-        "time": "2023-12-24",
         "url": {
           "gaussian": "image/bing/2023-12-24/gaussian.jpg",
           "greyscale": "image/bing/2023-12-24/greyscale.jpg",
@@ -1313,7 +1374,9 @@
           "thumbnail": "image/bing/2023-12-24/thumbnail.jpg",
           "uhd": "image/bing/2023-12-24/uhd.jpg"
         },
+        "time": "2023-12-24",
         "title": "市政厅广场，塔尔图，爱沙尼亚 (© Westend61/Getty Images)",
+        "copyright": "市政厅广场，塔尔图，爱沙尼亚 (© Westend61/Getty Images)",
         "color": {
           "Vibrant": "#046ab8",
           "DarkVibrant": "#045ca4",
@@ -1326,7 +1389,6 @@
       },
       {
         "key": 64,
-        "time": "2023-12-25",
         "url": {
           "gaussian": "image/bing/2023-12-25/gaussian.jpg",
           "greyscale": "image/bing/2023-12-25/greyscale.jpg",
@@ -1334,7 +1396,9 @@
           "thumbnail": "image/bing/2023-12-25/thumbnail.jpg",
           "uhd": "image/bing/2023-12-25/uhd.jpg"
         },
+        "time": "2023-12-25",
         "title": "驯鹿在雪中奔跑，阿拉斯加，美国 (© Michael Quinton/Minden Pictures)",
+        "copyright": "驯鹿在雪中奔跑，阿拉斯加，美国 (© Michael Quinton/Minden Pictures)",
         "color": {
           "Vibrant": "#b57a4a",
           "DarkVibrant": "#442e1c",
@@ -1347,7 +1411,6 @@
       },
       {
         "key": 65,
-        "time": "2023-12-26",
         "url": {
           "gaussian": "image/bing/2023-12-26/gaussian.jpg",
           "greyscale": "image/bing/2023-12-26/greyscale.jpg",
@@ -1355,7 +1418,9 @@
           "thumbnail": "image/bing/2023-12-26/thumbnail.jpg",
           "uhd": "image/bing/2023-12-26/uhd.jpg"
         },
+        "time": "2023-12-26",
         "title": "冬季日出，戴德姆，科尔切斯特，英格兰 (© George W Johnson/Getty Images)",
+        "copyright": "冬季日出，戴德姆，科尔切斯特，英格兰 (© George W Johnson/Getty Images)",
         "color": {
           "Vibrant": "#ba673c",
           "DarkVibrant": "#8a4b33",
@@ -1368,7 +1433,6 @@
       },
       {
         "key": 66,
-        "time": "2023-12-27",
         "url": {
           "gaussian": "image/bing/2023-12-27/gaussian.jpg",
           "greyscale": "image/bing/2023-12-27/greyscale.jpg",
@@ -1376,7 +1440,9 @@
           "thumbnail": "image/bing/2023-12-27/thumbnail.jpg",
           "uhd": "image/bing/2023-12-27/uhd.jpg"
         },
+        "time": "2023-12-27",
         "title": "教堂山，斯奈山半岛，冰岛 (© Ratnakorn Piyasirisorost/Getty Images)",
+        "copyright": "教堂山，斯奈山半岛，冰岛 (© Ratnakorn Piyasirisorost/Getty Images)",
         "color": {
           "Vibrant": "#04e8c7",
           "DarkVibrant": "#0b9b9a",
@@ -1389,7 +1455,6 @@
       },
       {
         "key": 67,
-        "time": "2023-12-28",
         "url": {
           "gaussian": "image/bing/2023-12-28/gaussian.jpg",
           "greyscale": "image/bing/2023-12-28/greyscale.jpg",
@@ -1397,7 +1462,9 @@
           "thumbnail": "image/bing/2023-12-28/thumbnail.jpg",
           "uhd": "image/bing/2023-12-28/uhd.jpg"
         },
+        "time": "2023-12-28",
         "title": "座头鲸，迪斯科湾，格陵兰 (© Paul Souders/DanitaDelimont.com)",
+        "copyright": "座头鲸，迪斯科湾，格陵兰 (© Paul Souders/DanitaDelimont.com)",
         "color": {
           "Vibrant": "#2c76b0",
           "DarkVibrant": "#1b476a",
@@ -1410,7 +1477,6 @@
       },
       {
         "key": 68,
-        "time": "2023-12-29",
         "url": {
           "gaussian": "image/bing/2023-12-29/gaussian.jpg",
           "greyscale": "image/bing/2023-12-29/greyscale.jpg",
@@ -1418,7 +1484,9 @@
           "thumbnail": "image/bing/2023-12-29/thumbnail.jpg",
           "uhd": "image/bing/2023-12-29/uhd.jpg"
         },
+        "time": "2023-12-29",
         "title": "旧西街区，阿姆斯特丹 ，荷兰 (© George Pachantouris/Getty Images)",
+        "copyright": "旧西街区，阿姆斯特丹 ，荷兰 (© George Pachantouris/Getty Images)",
         "color": {
           "Vibrant": "#4795b5",
           "DarkVibrant": "#086a8f",
@@ -1431,7 +1499,6 @@
       },
       {
         "key": 69,
-        "time": "2023-12-30",
         "url": {
           "gaussian": "image/bing/2023-12-30/gaussian.jpg",
           "greyscale": "image/bing/2023-12-30/greyscale.jpg",
@@ -1439,7 +1506,9 @@
           "thumbnail": "image/bing/2023-12-30/thumbnail.jpg",
           "uhd": "image/bing/2023-12-30/uhd.jpg"
         },
+        "time": "2023-12-30",
         "title": "卡塞里格石圈，湖区国家公园 ，坎布里亚，英国 (© John Finney Photography/Getty Images)",
+        "copyright": "卡塞里格石圈，湖区国家公园 ，坎布里亚，英国 (© John Finney Photography/Getty Images)",
         "color": {
           "Vibrant": "#d2962a",
           "DarkVibrant": "#542404",
@@ -1452,7 +1521,6 @@
       },
       {
         "key": 70,
-        "time": "2023-12-31",
         "url": {
           "gaussian": "image/bing/2023-12-31/gaussian.jpg",
           "greyscale": "image/bing/2023-12-31/greyscale.jpg",
@@ -1460,7 +1528,9 @@
           "thumbnail": "image/bing/2023-12-31/thumbnail.jpg",
           "uhd": "image/bing/2023-12-31/uhd.jpg"
         },
+        "time": "2023-12-31",
         "title": "帕那空奇里上空的烟花，碧武里府,泰国 (© noomcpk/Shutterstock)",
+        "copyright": "帕那空奇里上空的烟花，碧武里府,泰国 (© noomcpk/Shutterstock)",
         "color": {
           "Vibrant": "#bc8667",
           "DarkVibrant": "#6e3f19",
@@ -1473,7 +1543,6 @@
       },
       {
         "key": 71,
-        "time": "2024-01-01",
         "url": {
           "gaussian": "image/bing/2024-01-01/gaussian.jpg",
           "greyscale": "image/bing/2024-01-01/greyscale.jpg",
@@ -1481,7 +1550,9 @@
           "thumbnail": "image/bing/2024-01-01/thumbnail.jpg",
           "uhd": "image/bing/2024-01-01/uhd.jpg"
         },
+        "time": "2024-01-01",
         "title": "睡在雪地里的赤狐，阿布鲁佐，意大利 (© marco vancini/500px/Getty Images)",
+        "copyright": "睡在雪地里的赤狐，阿布鲁佐，意大利 (© marco vancini/500px/Getty Images)",
         "color": {
           "Vibrant": "#5176ae",
           "DarkVibrant": "#2a3d5a",
@@ -1494,7 +1565,6 @@
       },
       {
         "key": 72,
-        "time": "2024-01-02",
         "url": {
           "gaussian": "image/bing/2024-01-02/gaussian.jpg",
           "greyscale": "image/bing/2024-01-02/greyscale.jpg",
@@ -1502,7 +1572,9 @@
           "thumbnail": "image/bing/2024-01-02/thumbnail.jpg",
           "uhd": "image/bing/2024-01-02/uhd.jpg"
         },
+        "time": "2024-01-02",
         "title": "贾斯旺萨达陵墓和梅兰加尔古堡，焦特布尔，拉贾斯坦邦，印度 (© Twenty47studio/Getty images)",
+        "copyright": "贾斯旺萨达陵墓和梅兰加尔古堡，焦特布尔，拉贾斯坦邦，印度 (© Twenty47studio/Getty images)",
         "color": {
           "Vibrant": "#ce7726",
           "DarkVibrant": "#0c1726",
@@ -1515,7 +1587,6 @@
       },
       {
         "key": 73,
-        "time": "2024-01-03",
         "url": {
           "gaussian": "image/bing/2024-01-03/gaussian.jpg",
           "greyscale": "image/bing/2024-01-03/greyscale.jpg",
@@ -1523,7 +1594,9 @@
           "thumbnail": "image/bing/2024-01-03/thumbnail.jpg",
           "uhd": "image/bing/2024-01-03/uhd.jpg"
         },
+        "time": "2024-01-03",
         "title": "明尼汪卡湖，阿尔伯塔省，加拿大 (© Ken Phung/500px/Getty Images)",
+        "copyright": "明尼汪卡湖，阿尔伯塔省，加拿大 (© Ken Phung/500px/Getty Images)",
         "color": {
           "Vibrant": "#044bc4",
           "DarkVibrant": "#054c8a",
@@ -1536,7 +1609,6 @@
       },
       {
         "key": 74,
-        "time": "2024-01-04",
         "url": {
           "gaussian": "image/bing/2024-01-04/gaussian.jpg",
           "greyscale": "image/bing/2024-01-04/greyscale.jpg",
@@ -1544,7 +1616,9 @@
           "thumbnail": "image/bing/2024-01-04/thumbnail.jpg",
           "uhd": "image/bing/2024-01-04/uhd.jpg"
         },
+        "time": "2024-01-04",
         "title": "金门大桥，旧金山，加利福尼亚州，美国 (© Jim Patterson/Tandem Stills + Motion)",
+        "copyright": "金门大桥，旧金山，加利福尼亚州，美国 (© Jim Patterson/Tandem Stills + Motion)",
         "color": {
           "Vibrant": "#e98d1d",
           "DarkVibrant": "#08508d",
@@ -1557,7 +1631,6 @@
       },
       {
         "key": 75,
-        "time": "2024-01-05",
         "url": {
           "gaussian": "image/bing/2024-01-05/gaussian.jpg",
           "greyscale": "image/bing/2024-01-05/greyscale.jpg",
@@ -1565,7 +1638,9 @@
           "thumbnail": "image/bing/2024-01-05/thumbnail.jpg",
           "uhd": "image/bing/2024-01-05/uhd.jpg"
         },
+        "time": "2024-01-05",
         "title": "巴伐利亚阿尔卑斯山脉，德国 (© JFL Photography/Adobe Stock)",
+        "copyright": "巴伐利亚阿尔卑斯山脉，德国 (© JFL Photography/Adobe Stock)",
         "color": {
           "Vibrant": "#2671ac",
           "DarkVibrant": "#0863a3",
@@ -1578,7 +1653,6 @@
       },
       {
         "key": 76,
-        "time": "2024-01-06",
         "url": {
           "gaussian": "image/bing/2024-01-06/gaussian.jpg",
           "greyscale": "image/bing/2024-01-06/greyscale.jpg",
@@ -1586,7 +1660,9 @@
           "thumbnail": "image/bing/2024-01-06/thumbnail.jpg",
           "uhd": "image/bing/2024-01-06/uhd.jpg"
         },
+        "time": "2024-01-06",
         "title": "冬天，雄性苍头燕雀栖息在海棠果树上 (© Mark Hamblin/2020VISION/Minden Pictures)",
+        "copyright": "冬天，雄性苍头燕雀栖息在海棠果树上 (© Mark Hamblin/2020VISION/Minden Pictures)",
         "color": {
           "Vibrant": "#b05b4a",
           "DarkVibrant": "#813522",
@@ -1599,7 +1675,6 @@
       },
       {
         "key": 77,
-        "time": "2024-01-07",
         "url": {
           "gaussian": "image/bing/2024-01-07/gaussian.jpg",
           "greyscale": "image/bing/2024-01-07/greyscale.jpg",
@@ -1607,7 +1682,9 @@
           "thumbnail": "image/bing/2024-01-07/thumbnail.jpg",
           "uhd": "image/bing/2024-01-07/uhd.jpg"
         },
+        "time": "2024-01-07",
         "title": "魔鬼大理石保护区，澳大利亚 (© Yva Momatiuk and John Eastcott/Minden Pictures)",
+        "copyright": "魔鬼大理石保护区，澳大利亚 (© Yva Momatiuk and John Eastcott/Minden Pictures)",
         "color": {
           "Vibrant": "#c47325",
           "DarkVibrant": "#8c3c0c",
@@ -1620,7 +1697,6 @@
       },
       {
         "key": 78,
-        "time": "2024-01-08",
         "url": {
           "gaussian": "image/bing/2024-01-08/gaussian.jpg",
           "greyscale": "image/bing/2024-01-08/greyscale.jpg",
@@ -1628,7 +1704,9 @@
           "thumbnail": "image/bing/2024-01-08/thumbnail.jpg",
           "uhd": "image/bing/2024-01-08/uhd.jpg"
         },
+        "time": "2024-01-08",
         "title": "贝尔尼纳山口的滑雪场，格劳宾登州，瑞士 (© Francesco Bergamaschi/Getty Images)",
+        "copyright": "贝尔尼纳山口的滑雪场，格劳宾登州，瑞士 (© Francesco Bergamaschi/Getty Images)",
         "color": {
           "Vibrant": "#bca060",
           "DarkVibrant": "#5d4d27",
@@ -1641,7 +1719,6 @@
       },
       {
         "key": 79,
-        "time": "2024-01-09",
         "url": {
           "gaussian": "image/bing/2024-01-09/gaussian.jpg",
           "greyscale": "image/bing/2024-01-09/greyscale.jpg",
@@ -1649,7 +1726,9 @@
           "thumbnail": "image/bing/2024-01-09/thumbnail.jpg",
           "uhd": "image/bing/2024-01-09/uhd.jpg"
         },
+        "time": "2024-01-09",
         "title": "格兰德河上空的热气球，阿尔伯克基，新墨西哥州，美国 (© Jennifer MacCornack/Shutterstock)",
+        "copyright": "格兰德河上空的热气球，阿尔伯克基，新墨西哥州，美国 (© Jennifer MacCornack/Shutterstock)",
         "color": {
           "Vibrant": "#d99a31",
           "DarkVibrant": "#876939",
@@ -1662,7 +1741,6 @@
       },
       {
         "key": 80,
-        "time": "2024-01-10",
         "url": {
           "gaussian": "image/bing/2024-01-10/gaussian.jpg",
           "greyscale": "image/bing/2024-01-10/greyscale.jpg",
@@ -1670,7 +1748,9 @@
           "thumbnail": "image/bing/2024-01-10/thumbnail.jpg",
           "uhd": "image/bing/2024-01-10/uhd.jpg"
         },
+        "time": "2024-01-10",
         "title": "米罗伯塔莫斯海岸线上的楼梯，色萨利，希腊 (© Orestis Zoumpos/Amazing Aerial Agency)",
+        "copyright": "米罗伯塔莫斯海岸线上的楼梯，色萨利，希腊 (© Orestis Zoumpos/Amazing Aerial Agency)",
         "color": {
           "Vibrant": "#13848d",
           "DarkVibrant": "#046462",
@@ -1683,7 +1763,6 @@
       },
       {
         "key": 81,
-        "time": "2024-01-11",
         "url": {
           "gaussian": "image/bing/2024-01-11/gaussian.jpg",
           "greyscale": "image/bing/2024-01-11/greyscale.jpg",
@@ -1691,7 +1770,9 @@
           "thumbnail": "image/bing/2024-01-11/thumbnail.jpg",
           "uhd": "image/bing/2024-01-11/uhd.jpg"
         },
+        "time": "2024-01-11",
         "title": "雪中的欧亚猞猁 (© Jan Stria/Shutterstock)",
+        "copyright": "雪中的欧亚猞猁 (© Jan Stria/Shutterstock)",
         "color": {
           "Vibrant": "#8ca4cc",
           "DarkVibrant": "#293c5c",
@@ -1704,7 +1785,6 @@
       },
       {
         "key": 82,
-        "time": "2024-01-12",
         "url": {
           "gaussian": "image/bing/2024-01-12/gaussian.jpg",
           "greyscale": "image/bing/2024-01-12/greyscale.jpg",
@@ -1712,7 +1792,9 @@
           "thumbnail": "image/bing/2024-01-12/thumbnail.jpg",
           "uhd": "image/bing/2024-01-12/uhd.jpg"
         },
+        "time": "2024-01-12",
         "title": "北汉山国立公园，韩国 (© TRAVEL TAKE PHOTOS/Shutterstock)",
+        "copyright": "北汉山国立公园，韩国 (© TRAVEL TAKE PHOTOS/Shutterstock)",
         "color": {
           "Vibrant": "#2687e9",
           "DarkVibrant": "#0c4278",
@@ -1725,7 +1807,6 @@
       },
       {
         "key": 83,
-        "time": "2024-01-13",
         "url": {
           "gaussian": "image/bing/2024-01-13/gaussian.jpg",
           "greyscale": "image/bing/2024-01-13/greyscale.jpg",
@@ -1733,7 +1814,9 @@
           "thumbnail": "image/bing/2024-01-13/thumbnail.jpg",
           "uhd": "image/bing/2024-01-13/uhd.jpg"
         },
+        "time": "2024-01-13",
         "title": "哈纳之路，毛伊岛，夏威夷，美国 (© Matteo Colombo/Getty Images)",
+        "copyright": "哈纳之路，毛伊岛，夏威夷，美国 (© Matteo Colombo/Getty Images)",
         "color": {
           "Vibrant": "#afa82d",
           "DarkVibrant": "#042f65",
@@ -1746,7 +1829,6 @@
       },
       {
         "key": 84,
-        "time": "2024-01-14",
         "url": {
           "gaussian": "image/bing/2024-01-14/gaussian.jpg",
           "greyscale": "image/bing/2024-01-14/greyscale.jpg",
@@ -1754,7 +1836,9 @@
           "thumbnail": "image/bing/2024-01-14/thumbnail.jpg",
           "uhd": "image/bing/2024-01-14/uhd.jpg"
         },
+        "time": "2024-01-14",
         "title": "屈斜路湖的天鹅，日本 (© Darrell Gulin/DanitaDelimont.com)",
+        "copyright": "屈斜路湖的天鹅，日本 (© Darrell Gulin/DanitaDelimont.com)",
         "color": {
           "Vibrant": "#d49c74",
           "DarkVibrant": "#653c1f",
@@ -1767,7 +1851,6 @@
       },
       {
         "key": 85,
-        "time": "2024-01-15",
         "url": {
           "gaussian": "image/bing/2024-01-15/gaussian.jpg",
           "greyscale": "image/bing/2024-01-15/greyscale.jpg",
@@ -1775,7 +1858,9 @@
           "thumbnail": "image/bing/2024-01-15/thumbnail.jpg",
           "uhd": "image/bing/2024-01-15/uhd.jpg"
         },
+        "time": "2024-01-15",
         "title": "瓦茨曼山脚下的冰教堂，巴伐利亚，德国 (© Christian Bäck/eStock Photo)",
+        "copyright": "瓦茨曼山脚下的冰教堂，巴伐利亚，德国 (© Christian Bäck/eStock Photo)",
         "color": {
           "Vibrant": "#c9d15e",
           "DarkVibrant": "#8f9a4a",
@@ -1788,7 +1873,6 @@
       },
       {
         "key": 86,
-        "time": "2024-01-16",
         "url": {
           "gaussian": "image/bing/2024-01-16/gaussian.jpg",
           "greyscale": "image/bing/2024-01-16/greyscale.jpg",
@@ -1796,7 +1880,9 @@
           "thumbnail": "image/bing/2024-01-16/thumbnail.jpg",
           "uhd": "image/bing/2024-01-16/uhd.jpg"
         },
+        "time": "2024-01-16",
         "title": "路易斯湖，班夫国家公园，阿尔伯塔省，加拿大 (© Mr. Simon Paul/Shutterstock)",
+        "copyright": "路易斯湖，班夫国家公园，阿尔伯塔省，加拿大 (© Mr. Simon Paul/Shutterstock)",
         "color": {
           "Vibrant": "#097cd3",
           "DarkVibrant": "#0a3f72",
@@ -1809,7 +1895,6 @@
       },
       {
         "key": 87,
-        "time": "2024-01-17",
         "url": {
           "gaussian": "image/bing/2024-01-17/gaussian.jpg",
           "greyscale": "image/bing/2024-01-17/greyscale.jpg",
@@ -1817,7 +1902,9 @@
           "thumbnail": "image/bing/2024-01-17/thumbnail.jpg",
           "uhd": "image/bing/2024-01-17/uhd.jpg"
         },
+        "time": "2024-01-17",
         "title": "巴伐利亚森林国家公园里睡觉的狼，德国 (© Raimund Linke/Getty Images)",
+        "copyright": "巴伐利亚森林国家公园里睡觉的狼，德国 (© Raimund Linke/Getty Images)",
         "color": {
           "Vibrant": "#a66238",
           "DarkVibrant": "#664a17",
@@ -1830,7 +1917,6 @@
       },
       {
         "key": 88,
-        "time": "2024-01-18",
         "url": {
           "gaussian": "image/bing/2024-01-18/gaussian.jpg",
           "greyscale": "image/bing/2024-01-18/greyscale.jpg",
@@ -1838,7 +1924,9 @@
           "thumbnail": "image/bing/2024-01-18/thumbnail.jpg",
           "uhd": "image/bing/2024-01-18/uhd.jpg"
         },
+        "time": "2024-01-18",
         "title": "黄昏时分的亚历山大三世桥，巴黎，法国 (© Sizun Eye/Getty Images)",
+        "copyright": "黄昏时分的亚历山大三世桥，巴黎，法国 (© Sizun Eye/Getty Images)",
         "color": {
           "Vibrant": "#bb9062",
           "DarkVibrant": "#130c04",
@@ -1851,7 +1939,6 @@
       },
       {
         "key": 89,
-        "time": "2024-01-19",
         "url": {
           "gaussian": "image/bing/2024-01-19/gaussian.jpg",
           "greyscale": "image/bing/2024-01-19/greyscale.jpg",
@@ -1859,7 +1946,9 @@
           "thumbnail": "image/bing/2024-01-19/thumbnail.jpg",
           "uhd": "image/bing/2024-01-19/uhd.jpg"
         },
+        "time": "2024-01-19",
         "title": "十六湖国家公园，克罗地亚 (© Massimo_S8/Getty Images)",
+        "copyright": "十六湖国家公园，克罗地亚 (© Massimo_S8/Getty Images)",
         "color": {
           "Vibrant": "#5d95a2",
           "DarkVibrant": "#304d54",
@@ -1872,7 +1961,6 @@
       },
       {
         "key": 90,
-        "time": "2024-01-20",
         "url": {
           "gaussian": "image/bing/2024-01-20/gaussian.jpg",
           "greyscale": "image/bing/2024-01-20/greyscale.jpg",
@@ -1880,7 +1968,9 @@
           "thumbnail": "image/bing/2024-01-20/thumbnail.jpg",
           "uhd": "image/bing/2024-01-20/uhd.jpg"
         },
+        "time": "2024-01-20",
         "title": "马可罗尼企鹅，德雷克海峡，智利 (© Paul Souders/Getty Images)",
+        "copyright": "马可罗尼企鹅，德雷克海峡，智利 (© Paul Souders/Getty Images)",
         "color": {
           "Vibrant": "#0990c0",
           "DarkVibrant": "#043c84",
@@ -1893,7 +1983,6 @@
       },
       {
         "key": 91,
-        "time": "2024-01-21",
         "url": {
           "gaussian": "image/bing/2024-01-21/gaussian.jpg",
           "greyscale": "image/bing/2024-01-21/greyscale.jpg",
@@ -1901,7 +1990,9 @@
           "thumbnail": "image/bing/2024-01-21/thumbnail.jpg",
           "uhd": "image/bing/2024-01-21/uhd.jpg"
         },
+        "time": "2024-01-21",
         "title": "欧亚红松鼠，荷兰 (© Ernst Dirksen/Minden Pictures)",
+        "copyright": "欧亚红松鼠，荷兰 (© Ernst Dirksen/Minden Pictures)",
         "color": {
           "Vibrant": "#d8af21",
           "DarkVibrant": "#7d6e1b",
@@ -1914,7 +2005,6 @@
       },
       {
         "key": 92,
-        "time": "2024-01-22",
         "url": {
           "gaussian": "image/bing/2024-01-22/gaussian.jpg",
           "greyscale": "image/bing/2024-01-22/greyscale.jpg",
@@ -1922,7 +2012,9 @@
           "thumbnail": "image/bing/2024-01-22/thumbnail.jpg",
           "uhd": "image/bing/2024-01-22/uhd.jpg"
         },
+        "time": "2024-01-22",
         "title": "冬季日出，沃尔顿灯塔，圣克鲁斯, 加利福尼亚州, 美国 (© Jeff Lewis/Tandem Stills + Motion)",
+        "copyright": "冬季日出，沃尔顿灯塔，圣克鲁斯, 加利福尼亚州, 美国 (© Jeff Lewis/Tandem Stills + Motion)",
         "color": {
           "Vibrant": "#e44f2c",
           "DarkVibrant": "#662c23",
@@ -1935,7 +2027,6 @@
       },
       {
         "key": 93,
-        "time": "2024-01-23",
         "url": {
           "gaussian": "image/bing/2024-01-23/gaussian.jpg",
           "greyscale": "image/bing/2024-01-23/greyscale.jpg",
@@ -1943,7 +2034,9 @@
           "thumbnail": "image/bing/2024-01-23/thumbnail.jpg",
           "uhd": "image/bing/2024-01-23/uhd.jpg"
         },
+        "time": "2024-01-23",
         "title": "印度洋的环礁，马尔代夫 (© Amazing Aerial Premium/Shutterstock)",
+        "copyright": "印度洋的环礁，马尔代夫 (© Amazing Aerial Premium/Shutterstock)",
         "color": {
           "Vibrant": "#0f7cc0",
           "DarkVibrant": "#046ca0",
@@ -1956,7 +2049,6 @@
       },
       {
         "key": 94,
-        "time": "2024-01-24",
         "url": {
           "gaussian": "image/bing/2024-01-24/gaussian.jpg",
           "greyscale": "image/bing/2024-01-24/greyscale.jpg",
@@ -1964,7 +2056,9 @@
           "thumbnail": "image/bing/2024-01-24/thumbnail.jpg",
           "uhd": "image/bing/2024-01-24/uhd.jpg"
         },
+        "time": "2024-01-24",
         "title": "钻石冰沙滩，冰岛 (© Rachid Dahnoun/Tandem Stills + Motion)",
+        "copyright": "钻石冰沙滩，冰岛 (© Rachid Dahnoun/Tandem Stills + Motion)",
         "color": {
           "Vibrant": "#fce944",
           "DarkVibrant": "#04152d",
@@ -1977,7 +2071,6 @@
       },
       {
         "key": 95,
-        "time": "2024-01-25",
         "url": {
           "gaussian": "image/bing/2024-01-25/gaussian.jpg",
           "greyscale": "image/bing/2024-01-25/greyscale.jpg",
@@ -1985,7 +2078,9 @@
           "thumbnail": "image/bing/2024-01-25/thumbnail.jpg",
           "uhd": "image/bing/2024-01-25/uhd.jpg"
         },
+        "time": "2024-01-25",
         "title": "圣德温教堂的废墟，莫纳岛，威尔士，英国 (© Photos by R A Kearton/Getty Images)",
+        "copyright": "圣德温教堂的废墟，莫纳岛，威尔士，英国 (© Photos by R A Kearton/Getty Images)",
         "color": {
           "Vibrant": "#c4b24b",
           "DarkVibrant": "#748113",
@@ -1998,7 +2093,6 @@
       },
       {
         "key": 96,
-        "time": "2024-01-26",
         "url": {
           "gaussian": "image/bing/2024-01-26/gaussian.jpg",
           "greyscale": "image/bing/2024-01-26/greyscale.jpg",
@@ -2006,7 +2100,9 @@
           "thumbnail": "image/bing/2024-01-26/thumbnail.jpg",
           "uhd": "image/bing/2024-01-26/uhd.jpg"
         },
+        "time": "2024-01-26",
         "title": "北鹰鸮 (© Remo Savisaar/Alamy Stock Photo)",
+        "copyright": "北鹰鸮 (© Remo Savisaar/Alamy Stock Photo)",
         "color": {
           "Vibrant": "#89a3ca",
           "DarkVibrant": "#293d5c",
@@ -2019,7 +2115,6 @@
       },
       {
         "key": 97,
-        "time": "2024-01-27",
         "url": {
           "gaussian": "image/bing/2024-01-27/gaussian.jpg",
           "greyscale": "image/bing/2024-01-27/greyscale.jpg",
@@ -2027,7 +2122,9 @@
           "thumbnail": "image/bing/2024-01-27/thumbnail.jpg",
           "uhd": "image/bing/2024-01-27/uhd.jpg"
         },
+        "time": "2024-01-27",
         "title": "点嘴小巨嘴鸟，大西洋森林，巴西 (© aaprophoto/Getty Images)",
+        "copyright": "点嘴小巨嘴鸟，大西洋森林，巴西 (© aaprophoto/Getty Images)",
         "color": {
           "Vibrant": "#caa168",
           "DarkVibrant": "#3c6c04",
@@ -2040,7 +2137,6 @@
       },
       {
         "key": 98,
-        "time": "2024-01-28",
         "url": {
           "gaussian": "image/bing/2024-01-28/gaussian.jpg",
           "greyscale": "image/bing/2024-01-28/greyscale.jpg",
@@ -2048,7 +2144,9 @@
           "thumbnail": "image/bing/2024-01-28/thumbnail.jpg",
           "uhd": "image/bing/2024-01-28/uhd.jpg"
         },
+        "time": "2024-01-28",
         "title": "昆士兰州内陆海峡地区，澳大利亚 (© Southern Lightscapes-Australia/Getty Images)",
+        "copyright": "昆士兰州内陆海峡地区，澳大利亚 (© Southern Lightscapes-Australia/Getty Images)",
         "color": {
           "Vibrant": "#a09e30",
           "DarkVibrant": "#734e0b",
@@ -2061,7 +2159,6 @@
       },
       {
         "key": 99,
-        "time": "2024-01-29",
         "url": {
           "gaussian": "image/bing/2024-01-29/gaussian.jpg",
           "greyscale": "image/bing/2024-01-29/greyscale.jpg",
@@ -2069,7 +2166,9 @@
           "thumbnail": "image/bing/2024-01-29/thumbnail.jpg",
           "uhd": "image/bing/2024-01-29/uhd.jpg"
         },
+        "time": "2024-01-29",
         "title": "戈林格瀑布，泰嫩高，萨尔茨堡，奥地利 (© Frank Fischbach/Alamy Stock Photo)",
+        "copyright": "戈林格瀑布，泰嫩高，萨尔茨堡，奥地利 (© Frank Fischbach/Alamy Stock Photo)",
         "color": {
           "Vibrant": "#bc8c4e",
           "DarkVibrant": "#3f3410",
@@ -2082,7 +2181,6 @@
       },
       {
         "key": 100,
-        "time": "2024-01-30",
         "url": {
           "gaussian": "image/bing/2024-01-30/gaussian.jpg",
           "greyscale": "image/bing/2024-01-30/greyscale.jpg",
@@ -2090,7 +2188,9 @@
           "thumbnail": "image/bing/2024-01-30/thumbnail.jpg",
           "uhd": "image/bing/2024-01-30/uhd.jpg"
         },
+        "time": "2024-01-30",
         "title": "艾纳, 塞古拉山脉, 阿尔瓦塞特, 西班牙 (© Juan Maria Coy Vergara/Getty Images)",
+        "copyright": "艾纳, 塞古拉山脉, 阿尔瓦塞特, 西班牙 (© Juan Maria Coy Vergara/Getty Images)",
         "color": {
           "Vibrant": "#c68253",
           "DarkVibrant": "#8c2912",
@@ -2103,7 +2203,6 @@
       },
       {
         "key": 101,
-        "time": "2024-01-31",
         "url": {
           "gaussian": "image/bing/2024-01-31/gaussian.jpg",
           "greyscale": "image/bing/2024-01-31/greyscale.jpg",
@@ -2111,7 +2210,9 @@
           "thumbnail": "image/bing/2024-01-31/thumbnail.jpg",
           "uhd": "image/bing/2024-01-31/uhd.jpg"
         },
+        "time": "2024-01-31",
         "title": "布氏斑马妈妈和小马驹，里特弗雷自然保护区，南非 (© Richard Du Toit/Minden Pictures)",
+        "copyright": "布氏斑马妈妈和小马驹，里特弗雷自然保护区，南非 (© Richard Du Toit/Minden Pictures)",
         "color": {
           "Vibrant": "#bc5414",
           "DarkVibrant": "#5a3619",
@@ -2124,7 +2225,6 @@
       },
       {
         "key": 102,
-        "time": "2024-02-01",
         "url": {
           "gaussian": "image/bing/2024-02-01/gaussian.jpg",
           "greyscale": "image/bing/2024-02-01/greyscale.jpg",
@@ -2132,7 +2232,9 @@
           "thumbnail": "image/bing/2024-02-01/thumbnail.jpg",
           "uhd": "image/bing/2024-02-01/uhd.jpg"
         },
+        "time": "2024-02-01",
         "title": "吕根岛的萨斯尼茨灯塔，德国 (© Christian Back/eStock)",
+        "copyright": "吕根岛的萨斯尼茨灯塔，德国 (© Christian Back/eStock)",
         "color": {
           "Vibrant": "#74aeec",
           "DarkVibrant": "#104175",
@@ -2145,7 +2247,6 @@
       },
       {
         "key": 103,
-        "time": "2024-02-02",
         "url": {
           "gaussian": "image/bing/2024-02-02/gaussian.jpg",
           "greyscale": "image/bing/2024-02-02/greyscale.jpg",
@@ -2153,7 +2254,9 @@
           "thumbnail": "image/bing/2024-02-02/thumbnail.jpg",
           "uhd": "image/bing/2024-02-02/uhd.jpg"
         },
+        "time": "2024-02-02",
         "title": "从洞穴中探出头的土拨鼠 (© Scacciamosche/Getty Images)",
+        "copyright": "从洞穴中探出头的土拨鼠 (© Scacciamosche/Getty Images)",
         "color": {
           "Vibrant": "#f7ea18",
           "DarkVibrant": "#78a41d",
@@ -2166,7 +2269,6 @@
       },
       {
         "key": 104,
-        "time": "2024-02-03",
         "url": {
           "gaussian": "image/bing/2024-02-03/gaussian.jpg",
           "greyscale": "image/bing/2024-02-03/greyscale.jpg",
@@ -2174,7 +2276,9 @@
           "thumbnail": "image/bing/2024-02-03/thumbnail.jpg",
           "uhd": "image/bing/2024-02-03/uhd.jpg"
         },
+        "time": "2024-02-03",
         "title": "大运河与安康圣母大教堂，威尼斯，意大利 (© Rudy Balasko/Getty Images)",
+        "copyright": "大运河与安康圣母大教堂，威尼斯，意大利 (© Rudy Balasko/Getty Images)",
         "color": {
           "Vibrant": "#e18d13",
           "DarkVibrant": "#0c4e79",
@@ -2187,7 +2291,6 @@
       },
       {
         "key": 105,
-        "time": "2024-02-04",
         "url": {
           "gaussian": "image/bing/2024-02-04/gaussian.jpg",
           "greyscale": "image/bing/2024-02-04/greyscale.jpg",
@@ -2195,7 +2298,9 @@
           "thumbnail": "image/bing/2024-02-04/thumbnail.jpg",
           "uhd": "image/bing/2024-02-04/uhd.jpg"
         },
+        "time": "2024-02-04",
         "title": "德弗塔什卡洞, Devetaki村庄，保加利亚 (© Jasmine_K/Shutterstock)",
+        "copyright": "德弗塔什卡洞, Devetaki村庄，保加利亚 (© Jasmine_K/Shutterstock)",
         "color": {
           "Vibrant": "#834d16",
           "DarkVibrant": "#74340c",
@@ -2208,7 +2313,6 @@
       },
       {
         "key": 106,
-        "time": "2024-02-05",
         "url": {
           "gaussian": "image/bing/2024-02-05/gaussian.jpg",
           "greyscale": "image/bing/2024-02-05/greyscale.jpg",
@@ -2216,7 +2320,9 @@
           "thumbnail": "image/bing/2024-02-05/thumbnail.jpg",
           "uhd": "image/bing/2024-02-05/uhd.jpg"
         },
+        "time": "2024-02-05",
         "title": "从奥索伊尼察观景点看日出时的布莱德湖，斯洛文尼亚 (© Rasica/Getty Images)",
+        "copyright": "从奥索伊尼察观景点看日出时的布莱德湖，斯洛文尼亚 (© Rasica/Getty Images)",
         "color": {
           "Vibrant": "#f5781c",
           "DarkVibrant": "#2c2204",
@@ -2229,7 +2335,6 @@
       },
       {
         "key": 107,
-        "time": "2024-02-06",
         "url": {
           "gaussian": "image/bing/2024-02-06/gaussian.jpg",
           "greyscale": "image/bing/2024-02-06/greyscale.jpg",
@@ -2237,7 +2342,9 @@
           "thumbnail": "image/bing/2024-02-06/thumbnail.jpg",
           "uhd": "image/bing/2024-02-06/uhd.jpg"
         },
+        "time": "2024-02-06",
         "title": "盆景岩，太浩湖，内华达州，美国 (© Jim Patterson/Tandem Stills + Motion)",
+        "copyright": "盆景岩，太浩湖，内华达州，美国 (© Jim Patterson/Tandem Stills + Motion)",
         "color": {
           "Vibrant": "#3c56b2",
           "DarkVibrant": "#081c64",
@@ -2250,7 +2357,6 @@
       },
       {
         "key": 108,
-        "time": "2024-02-07",
         "url": {
           "gaussian": "image/bing/2024-02-07/gaussian.jpg",
           "greyscale": "image/bing/2024-02-07/greyscale.jpg",
@@ -2258,7 +2364,9 @@
           "thumbnail": "image/bing/2024-02-07/thumbnail.jpg",
           "uhd": "image/bing/2024-02-07/uhd.jpg"
         },
+        "time": "2024-02-07",
         "title": "圣詹姆斯潮汐池，开普敦，南非 (© AmazingAerialAgency/Adobe)",
+        "copyright": "圣詹姆斯潮汐池，开普敦，南非 (© AmazingAerialAgency/Adobe)",
         "color": {
           "Vibrant": "#b46c3c",
           "DarkVibrant": "#065361",
@@ -2271,7 +2379,6 @@
       },
       {
         "key": 109,
-        "time": "2024-02-08",
         "url": {
           "gaussian": "image/bing/2024-02-08/gaussian.jpg",
           "greyscale": "image/bing/2024-02-08/greyscale.jpg",
@@ -2279,7 +2386,9 @@
           "thumbnail": "image/bing/2024-02-08/thumbnail.jpg",
           "uhd": "image/bing/2024-02-08/uhd.jpg"
         },
+        "time": "2024-02-08",
         "title": "胡德山，俄勒冈州，美国 (© Inigo Cia/Getty Images)",
+        "copyright": "胡德山，俄勒冈州，美国 (© Inigo Cia/Getty Images)",
         "color": {
           "Vibrant": "#f5a06f",
           "DarkVibrant": "#0a203a",
@@ -2292,7 +2401,6 @@
       },
       {
         "key": 110,
-        "time": "2024-02-09",
         "url": {
           "gaussian": "image/bing/2024-02-09/gaussian.jpg",
           "greyscale": "image/bing/2024-02-09/greyscale.jpg",
@@ -2300,7 +2408,9 @@
           "thumbnail": "image/bing/2024-02-09/thumbnail.jpg",
           "uhd": "image/bing/2024-02-09/uhd.jpg"
         },
+        "time": "2024-02-09",
         "title": "灯光秀点亮夜幕中的西安城墙，中国春节 (© Eastimages/Getty Images)",
+        "copyright": "灯光秀点亮夜幕中的西安城墙，中国春节 (© Eastimages/Getty Images)",
         "color": {
           "Vibrant": "#e74223",
           "DarkVibrant": "#04487a",
@@ -2313,7 +2423,6 @@
       },
       {
         "key": 111,
-        "time": "2024-02-10",
         "url": {
           "gaussian": "image/bing/2024-02-10/gaussian.jpg",
           "greyscale": "image/bing/2024-02-10/greyscale.jpg",
@@ -2321,7 +2430,9 @@
           "thumbnail": "image/bing/2024-02-10/thumbnail.jpg",
           "uhd": "image/bing/2024-02-10/uhd.jpg"
         },
+        "time": "2024-02-10",
         "title": "中国舞狮，大年初一 (© SENEZ/Getty Images)",
+        "copyright": "中国舞狮，大年初一 (© SENEZ/Getty Images)",
         "color": {
           "Vibrant": "#f17108",
           "DarkVibrant": "#880505",
@@ -2334,7 +2445,6 @@
       },
       {
         "key": 112,
-        "time": "2024-02-11",
         "url": {
           "gaussian": "image/bing/2024-02-11/gaussian.jpg",
           "greyscale": "image/bing/2024-02-11/greyscale.jpg",
@@ -2342,7 +2452,9 @@
           "thumbnail": "image/bing/2024-02-11/thumbnail.jpg",
           "uhd": "image/bing/2024-02-11/uhd.jpg"
         },
+        "time": "2024-02-11",
         "title": "乔拉岛，福莱甘兹罗斯岛，基克拉泽斯群岛, 希腊 (© Francesco Riccardo Iacomino/Getty Images)",
+        "copyright": "乔拉岛，福莱甘兹罗斯岛，基克拉泽斯群岛, 希腊 (© Francesco Riccardo Iacomino/Getty Images)",
         "color": {
           "Vibrant": "#e38736",
           "DarkVibrant": "#0c284a",
@@ -2355,7 +2467,6 @@
       },
       {
         "key": 113,
-        "time": "2024-02-12",
         "url": {
           "gaussian": "image/bing/2024-02-12/gaussian.jpg",
           "greyscale": "image/bing/2024-02-12/greyscale.jpg",
@@ -2363,7 +2474,9 @@
           "thumbnail": "image/bing/2024-02-12/thumbnail.jpg",
           "uhd": "image/bing/2024-02-12/uhd.jpg"
         },
+        "time": "2024-02-12",
         "title": "阿尔塞多火山象龟, 伊莎贝拉岛, 加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures)",
+        "copyright": "阿尔塞多火山象龟, 伊莎贝拉岛, 加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures)",
         "color": {
           "Vibrant": "#398ed1",
           "DarkVibrant": "#61790c",
@@ -2376,7 +2489,6 @@
       },
       {
         "key": 114,
-        "time": "2024-02-13",
         "url": {
           "gaussian": "image/bing/2024-02-13/gaussian.jpg",
           "greyscale": "image/bing/2024-02-13/greyscale.jpg",
@@ -2384,7 +2496,9 @@
           "thumbnail": "image/bing/2024-02-13/thumbnail.jpg",
           "uhd": "image/bing/2024-02-13/uhd.jpg"
         },
+        "time": "2024-02-13",
         "title": "马里尼的狂欢节彩珠，新奥尔良，美国 (© Erik Pronske Photography/Getty Images)",
+        "copyright": "马里尼的狂欢节彩珠，新奥尔良，美国 (© Erik Pronske Photography/Getty Images)",
         "color": {
           "Vibrant": "#eaa906",
           "DarkVibrant": "#711d58",
@@ -2397,7 +2511,6 @@
       },
       {
         "key": 115,
-        "time": "2024-02-14",
         "url": {
           "gaussian": "image/bing/2024-02-14/gaussian.jpg",
           "greyscale": "image/bing/2024-02-14/greyscale.jpg",
@@ -2405,7 +2518,9 @@
           "thumbnail": "image/bing/2024-02-14/thumbnail.jpg",
           "uhd": "image/bing/2024-02-14/uhd.jpg"
         },
+        "time": "2024-02-14",
         "title": "丹顶鹤向伴侣鞠躬，北海道，日本 (© Steve Bloom Images/Alamy Stock Photo)",
+        "copyright": "丹顶鹤向伴侣鞠躬，北海道，日本 (© Steve Bloom Images/Alamy Stock Photo)",
         "color": {
           "Vibrant": "#c4b484",
           "DarkVibrant": "#5a4e2b",
@@ -2418,7 +2533,6 @@
       },
       {
         "key": 116,
-        "time": "2024-02-15",
         "url": {
           "gaussian": "image/bing/2024-02-15/gaussian.jpg",
           "greyscale": "image/bing/2024-02-15/greyscale.jpg",
@@ -2426,7 +2540,9 @@
           "thumbnail": "image/bing/2024-02-15/thumbnail.jpg",
           "uhd": "image/bing/2024-02-15/uhd.jpg"
         },
+        "time": "2024-02-15",
         "title": "河马妈妈和小河马，南卢安瓜国家公园，赞比亚 (© Nature Picture Library/Alamy Stock Photo)",
+        "copyright": "河马妈妈和小河马，南卢安瓜国家公园，赞比亚 (© Nature Picture Library/Alamy Stock Photo)",
         "color": {
           "Vibrant": "#be7c4f",
           "DarkVibrant": "#845c20",
@@ -2439,7 +2555,6 @@
       },
       {
         "key": 117,
-        "time": "2024-02-16",
         "url": {
           "gaussian": "image/bing/2024-02-16/gaussian.jpg",
           "greyscale": "image/bing/2024-02-16/greyscale.jpg",
@@ -2447,7 +2562,9 @@
           "thumbnail": "image/bing/2024-02-16/thumbnail.jpg",
           "uhd": "image/bing/2024-02-16/uhd.jpg"
         },
+        "time": "2024-02-16",
         "title": "一只雌性灰额主红雀栖息在德克萨斯州一株多刺仙人掌上，美国 (© outtakes/Getty Images)",
+        "copyright": "一只雌性灰额主红雀栖息在德克萨斯州一株多刺仙人掌上，美国 (© outtakes/Getty Images)",
         "color": {
           "Vibrant": "#c7b563",
           "DarkVibrant": "#7e7e21",
@@ -2460,7 +2577,6 @@
       },
       {
         "key": 118,
-        "time": "2024-02-17",
         "url": {
           "gaussian": "image/bing/2024-02-17/gaussian.jpg",
           "greyscale": "image/bing/2024-02-17/greyscale.jpg",
@@ -2468,7 +2584,9 @@
           "thumbnail": "image/bing/2024-02-17/thumbnail.jpg",
           "uhd": "image/bing/2024-02-17/uhd.jpg"
         },
+        "time": "2024-02-17",
         "title": "多洛米蒂山的布莱耶斯湖，南蒂罗尔，意大利 (© Marco Bottigelli/Getty Images)",
+        "copyright": "多洛米蒂山的布莱耶斯湖，南蒂罗尔，意大利 (© Marco Bottigelli/Getty Images)",
         "color": {
           "Vibrant": "#15a8ee",
           "DarkVibrant": "#083c56",
@@ -2481,7 +2599,6 @@
       },
       {
         "key": 119,
-        "time": "2024-02-18",
         "url": {
           "gaussian": "image/bing/2024-02-18/gaussian.jpg",
           "greyscale": "image/bing/2024-02-18/greyscale.jpg",
@@ -2489,7 +2606,9 @@
           "thumbnail": "image/bing/2024-02-18/thumbnail.jpg",
           "uhd": "image/bing/2024-02-18/uhd.jpg"
         },
+        "time": "2024-02-18",
         "title": "抹香鲸浮出水面，多米尼克 (© Franco Banfi/Minden Pictures)",
+        "copyright": "抹香鲸浮出水面，多米尼克 (© Franco Banfi/Minden Pictures)",
         "color": {
           "Vibrant": "#0474c4",
           "DarkVibrant": "#054c8c",
@@ -2502,7 +2621,6 @@
       },
       {
         "key": 120,
-        "time": "2024-02-19",
         "url": {
           "gaussian": "image/bing/2024-02-19/gaussian.jpg",
           "greyscale": "image/bing/2024-02-19/greyscale.jpg",
@@ -2510,7 +2628,9 @@
           "thumbnail": "image/bing/2024-02-19/thumbnail.jpg",
           "uhd": "image/bing/2024-02-19/uhd.jpg"
         },
+        "time": "2024-02-19",
         "title": "鸟瞰克鲁斯港色彩斑斓的房屋，特内里费岛，西班牙 (© Marco Bottigelli/Getty Images)",
+        "copyright": "鸟瞰克鲁斯港色彩斑斓的房屋，特内里费岛，西班牙 (© Marco Bottigelli/Getty Images)",
         "color": {
           "Vibrant": "#d88729",
           "DarkVibrant": "#043c44",
@@ -2523,7 +2643,6 @@
       },
       {
         "key": 121,
-        "time": "2024-02-20",
         "url": {
           "gaussian": "image/bing/2024-02-20/gaussian.jpg",
           "greyscale": "image/bing/2024-02-20/greyscale.jpg",
@@ -2531,7 +2650,9 @@
           "thumbnail": "image/bing/2024-02-20/thumbnail.jpg",
           "uhd": "image/bing/2024-02-20/uhd.jpg"
         },
+        "time": "2024-02-20",
         "title": "Kinder Scout，峰区国家公园，英国 (© john finney photography/Getty Images)",
+        "copyright": "Kinder Scout，峰区国家公园，英国 (© john finney photography/Getty Images)",
         "color": {
           "Vibrant": "#3d6ea3",
           "DarkVibrant": "#2a537d",
@@ -2544,7 +2665,6 @@
       },
       {
         "key": 122,
-        "time": "2024-02-21",
         "url": {
           "gaussian": "image/bing/2024-02-21/gaussian.jpg",
           "greyscale": "image/bing/2024-02-21/greyscale.jpg",
@@ -2552,7 +2672,9 @@
           "thumbnail": "image/bing/2024-02-21/thumbnail.jpg",
           "uhd": "image/bing/2024-02-21/uhd.jpg"
         },
+        "time": "2024-02-21",
         "title": "火瀑布，优胜美地国家公园，加利福尼亚州，美国 (© Gregory B Cuvelier/Shutterstock)",
+        "copyright": "火瀑布，优胜美地国家公园，加利福尼亚州，美国 (© Gregory B Cuvelier/Shutterstock)",
         "color": {
           "Vibrant": "#fbdf30",
           "DarkVibrant": "#763919",
@@ -2565,7 +2687,6 @@
       },
       {
         "key": 123,
-        "time": "2024-02-22",
         "url": {
           "gaussian": "image/bing/2024-02-22/gaussian.jpg",
           "greyscale": "image/bing/2024-02-22/greyscale.jpg",
@@ -2573,7 +2694,9 @@
           "thumbnail": "image/bing/2024-02-22/thumbnail.jpg",
           "uhd": "image/bing/2024-02-22/uhd.jpg"
         },
+        "time": "2024-02-22",
         "title": "布莱顿海滩的彩虹小屋，墨尔本，维多利亚州，澳大利亚 (© Prasit photo/Getty Images)",
+        "copyright": "布莱顿海滩的彩虹小屋，墨尔本，维多利亚州，澳大利亚 (© Prasit photo/Getty Images)",
         "color": {
           "Vibrant": "#0589d3",
           "DarkVibrant": "#064571",
@@ -2586,7 +2709,6 @@
       },
       {
         "key": 124,
-        "time": "2024-02-23",
         "url": {
           "gaussian": "image/bing/2024-02-23/gaussian.jpg",
           "greyscale": "image/bing/2024-02-23/greyscale.jpg",
@@ -2594,7 +2716,9 @@
           "thumbnail": "image/bing/2024-02-23/thumbnail.jpg",
           "uhd": "image/bing/2024-02-23/uhd.jpg"
         },
+        "time": "2024-02-23",
         "title": "Haghartsin修道院，迪利扬国家公园，亚美尼亚 (© Alexey Kharitonov/Shutterstock)",
+        "copyright": "Haghartsin修道院，迪利扬国家公园，亚美尼亚 (© Alexey Kharitonov/Shutterstock)",
         "color": {
           "Vibrant": "#885434",
           "DarkVibrant": "#162e4e",
@@ -2607,7 +2731,6 @@
       },
       {
         "key": 125,
-        "time": "2024-02-24",
         "url": {
           "gaussian": "image/bing/2024-02-24/gaussian.jpg",
           "greyscale": "image/bing/2024-02-24/greyscale.jpg",
@@ -2615,7 +2738,9 @@
           "thumbnail": "image/bing/2024-02-24/thumbnail.jpg",
           "uhd": "image/bing/2024-02-24/uhd.jpg"
         },
+        "time": "2024-02-24",
         "title": "锦里街上悬挂的红色中国灯笼，成都，中国四川省 (© Philippe LEJEANVRE/Getty images)",
+        "copyright": "锦里街上悬挂的红色中国灯笼，成都，中国四川省 (© Philippe LEJEANVRE/Getty images)",
         "color": {
           "Vibrant": "#ef3e22",
           "DarkVibrant": "#6f1f10",
@@ -2628,7 +2753,6 @@
       },
       {
         "key": 126,
-        "time": "2024-02-25",
         "url": {
           "gaussian": "image/bing/2024-02-25/gaussian.jpg",
           "greyscale": "image/bing/2024-02-25/greyscale.jpg",
@@ -2636,7 +2760,9 @@
           "thumbnail": "image/bing/2024-02-25/thumbnail.jpg",
           "uhd": "image/bing/2024-02-25/uhd.jpg"
         },
+        "time": "2024-02-25",
         "title": "考伊琴山谷的薄雾，温哥华岛，加拿大不列颠哥伦比亚省 (© Kevin Oke/Alamy)",
+        "copyright": "考伊琴山谷的薄雾，温哥华岛，加拿大不列颠哥伦比亚省 (© Kevin Oke/Alamy)",
         "color": {
           "Vibrant": "#c4aa79",
           "DarkVibrant": "#140c08",
@@ -2649,7 +2775,6 @@
       },
       {
         "key": 127,
-        "time": "2024-02-26",
         "url": {
           "gaussian": "image/bing/2024-02-26/gaussian.jpg",
           "greyscale": "image/bing/2024-02-26/greyscale.jpg",
@@ -2657,7 +2782,9 @@
           "thumbnail": "image/bing/2024-02-26/thumbnail.jpg",
           "uhd": "image/bing/2024-02-26/uhd.jpg"
         },
+        "time": "2024-02-26",
         "title": "大峡谷国家公园，亚利桑那州，美国 (© Jeremy Janus/Getty Images)",
+        "copyright": "大峡谷国家公园，亚利桑那州，美国 (© Jeremy Janus/Getty Images)",
         "color": {
           "Vibrant": "#3f7cc6",
           "DarkVibrant": "#1e538e",
@@ -2670,7 +2797,6 @@
       },
       {
         "key": 128,
-        "time": "2024-02-27",
         "url": {
           "gaussian": "image/bing/2024-02-27/gaussian.jpg",
           "greyscale": "image/bing/2024-02-27/greyscale.jpg",
@@ -2678,7 +2804,9 @@
           "thumbnail": "image/bing/2024-02-27/thumbnail.jpg",
           "uhd": "image/bing/2024-02-27/uhd.jpg"
         },
+        "time": "2024-02-27",
         "title": "玩耍的北极熊幼崽，卡克托维克，阿拉斯加州，美国 (© Piriya Photography/Getty Images)",
+        "copyright": "玩耍的北极熊幼崽，卡克托维克，阿拉斯加州，美国 (© Piriya Photography/Getty Images)",
         "color": {
           "Vibrant": "#fbb05c",
           "DarkVibrant": "#814603",
@@ -2691,7 +2819,6 @@
       },
       {
         "key": 129,
-        "time": "2024-02-28",
         "url": {
           "gaussian": "image/bing/2024-02-28/gaussian.jpg",
           "greyscale": "image/bing/2024-02-28/greyscale.jpg",
@@ -2699,7 +2826,9 @@
           "thumbnail": "image/bing/2024-02-28/thumbnail.jpg",
           "uhd": "image/bing/2024-02-28/uhd.jpg"
         },
+        "time": "2024-02-28",
         "title": "班堡城堡，诺森伯兰郡，英格兰 (© Blackbeck/Getty Images)",
+        "copyright": "班堡城堡，诺森伯兰郡，英格兰 (© Blackbeck/Getty Images)",
         "color": {
           "Vibrant": "#c29445",
           "DarkVibrant": "#805314",
@@ -2712,7 +2841,6 @@
       },
       {
         "key": 130,
-        "time": "2024-02-29",
         "url": {
           "gaussian": "image/bing/2024-02-29/gaussian.jpg",
           "greyscale": "image/bing/2024-02-29/greyscale.jpg",
@@ -2720,7 +2848,9 @@
           "thumbnail": "image/bing/2024-02-29/thumbnail.jpg",
           "uhd": "image/bing/2024-02-29/uhd.jpg"
         },
+        "time": "2024-02-29",
         "title": "欧亚红松鼠 (© Westend61/Getty Images)",
+        "copyright": "欧亚红松鼠 (© Westend61/Getty Images)",
         "color": {
           "Vibrant": "#be8464",
           "DarkVibrant": "#5d3a27",
@@ -2733,7 +2863,6 @@
       },
       {
         "key": 131,
-        "time": "2024-03-01",
         "url": {
           "gaussian": "image/bing/2024-03-01/gaussian.jpg",
           "greyscale": "image/bing/2024-03-01/greyscale.jpg",
@@ -2741,7 +2870,9 @@
           "thumbnail": "image/bing/2024-03-01/thumbnail.jpg",
           "uhd": "image/bing/2024-03-01/uhd.jpg"
         },
+        "time": "2024-03-01",
         "title": "德国草地上的蝴蝶 (© Albert Fertl/Getty Images)",
+        "copyright": "德国草地上的蝴蝶 (© Albert Fertl/Getty Images)",
         "color": {
           "Vibrant": "#c8c13d",
           "DarkVibrant": "#686c1b",
@@ -2754,7 +2885,6 @@
       },
       {
         "key": 132,
-        "time": "2024-03-02",
         "url": {
           "gaussian": "image/bing/2024-03-02/gaussian.jpg",
           "greyscale": "image/bing/2024-03-02/greyscale.jpg",
@@ -2762,7 +2892,9 @@
           "thumbnail": "image/bing/2024-03-02/thumbnail.jpg",
           "uhd": "image/bing/2024-03-02/uhd.jpg"
         },
+        "time": "2024-03-02",
         "title": "莫迪卡，西西里岛，意大利 (© Sandro Bisaro/Getty Images)",
+        "copyright": "莫迪卡，西西里岛，意大利 (© Sandro Bisaro/Getty Images)",
         "color": {
           "Vibrant": "#d67928",
           "DarkVibrant": "#651f07",
@@ -2775,7 +2907,6 @@
       },
       {
         "key": 133,
-        "time": "2024-03-03",
         "url": {
           "gaussian": "image/bing/2024-03-03/gaussian.jpg",
           "greyscale": "image/bing/2024-03-03/greyscale.jpg",
@@ -2783,7 +2914,9 @@
           "thumbnail": "image/bing/2024-03-03/thumbnail.jpg",
           "uhd": "image/bing/2024-03-03/uhd.jpg"
         },
+        "time": "2024-03-03",
         "title": "树上的豹子，克鲁格国家公园，南非 (© Tonino De Marco/Minden Pictures)",
+        "copyright": "树上的豹子，克鲁格国家公园，南非 (© Tonino De Marco/Minden Pictures)",
         "color": {
           "Vibrant": "#768529",
           "DarkVibrant": "#616b10",
@@ -2796,7 +2929,6 @@
       },
       {
         "key": 134,
-        "time": "2024-03-04",
         "url": {
           "gaussian": "image/bing/2024-03-04/gaussian.jpg",
           "greyscale": "image/bing/2024-03-04/greyscale.jpg",
@@ -2804,7 +2936,9 @@
           "thumbnail": "image/bing/2024-03-04/thumbnail.jpg",
           "uhd": "image/bing/2024-03-04/uhd.jpg"
         },
+        "time": "2024-03-04",
         "title": "从蒙特维多看到的阿雷纳尔火山,哥斯达黎加 (© Lukas Bischoff/Getty Images)",
+        "copyright": "从蒙特维多看到的阿雷纳尔火山,哥斯达黎加 (© Lukas Bischoff/Getty Images)",
         "color": {
           "Vibrant": "#f5c369",
           "DarkVibrant": "#895e19",
@@ -2817,7 +2951,6 @@
       },
       {
         "key": 135,
-        "time": "2024-03-05",
         "url": {
           "gaussian": "image/bing/2024-03-05/gaussian.jpg",
           "greyscale": "image/bing/2024-03-05/greyscale.jpg",
@@ -2825,7 +2958,9 @@
           "thumbnail": "image/bing/2024-03-05/thumbnail.jpg",
           "uhd": "image/bing/2024-03-05/uhd.jpg"
         },
+        "time": "2024-03-05",
         "title": "曼谷的交通圈和高速公路，泰国 (© Avigator Fortuner/Shutterstock)",
+        "copyright": "曼谷的交通圈和高速公路，泰国 (© Avigator Fortuner/Shutterstock)",
         "color": {
           "Vibrant": "#0c69d8",
           "DarkVibrant": "#07357f",
@@ -2838,7 +2973,6 @@
       },
       {
         "key": 136,
-        "time": "2024-03-06",
         "url": {
           "gaussian": "image/bing/2024-03-06/gaussian.jpg",
           "greyscale": "image/bing/2024-03-06/greyscale.jpg",
@@ -2846,7 +2980,9 @@
           "thumbnail": "image/bing/2024-03-06/thumbnail.jpg",
           "uhd": "image/bing/2024-03-06/uhd.jpg"
         },
+        "time": "2024-03-06",
         "title": "Wahclella Falls，哥伦比亚河峡谷，俄勒冈州，美国 (© Eric Vogt/Tandem Stills + Motion)",
+        "copyright": "Wahclella Falls，哥伦比亚河峡谷，俄勒冈州，美国 (© Eric Vogt/Tandem Stills + Motion)",
         "color": {
           "Vibrant": "#a79a46",
           "DarkVibrant": "#86840a",
@@ -2859,7 +2995,6 @@
       },
       {
         "key": 137,
-        "time": "2024-03-07",
         "url": {
           "gaussian": "image/bing/2024-03-07/gaussian.jpg",
           "greyscale": "image/bing/2024-03-07/greyscale.jpg",
@@ -2867,7 +3002,9 @@
           "thumbnail": "image/bing/2024-03-07/thumbnail.jpg",
           "uhd": "image/bing/2024-03-07/uhd.jpg"
         },
+        "time": "2024-03-07",
         "title": "Roques de Benet，埃尔斯港自然公园，加泰罗尼亚，西班牙 (© Sergi Boixader/Alamy Stock Photo)",
+        "copyright": "Roques de Benet，埃尔斯港自然公园，加泰罗尼亚，西班牙 (© Sergi Boixader/Alamy Stock Photo)",
         "color": {
           "Vibrant": "#c67e46",
           "DarkVibrant": "#1f436a",
@@ -2880,7 +3017,6 @@
       },
       {
         "key": 138,
-        "time": "2024-03-08",
         "url": {
           "gaussian": "image/bing/2024-03-08/gaussian.jpg",
           "greyscale": "image/bing/2024-03-08/greyscale.jpg",
@@ -2888,7 +3024,9 @@
           "thumbnail": "image/bing/2024-03-08/thumbnail.jpg",
           "uhd": "image/bing/2024-03-08/uhd.jpg"
         },
+        "time": "2024-03-08",
         "title": "伊瓜苏大瀑布鸟瞰图，巴西 (© Nido Huebl/Shutterstock)",
+        "copyright": "伊瓜苏大瀑布鸟瞰图，巴西 (© Nido Huebl/Shutterstock)",
         "color": {
           "Vibrant": "#cead4b",
           "DarkVibrant": "#224a5c",
@@ -2901,7 +3039,6 @@
       },
       {
         "key": 139,
-        "time": "2024-03-09",
         "url": {
           "gaussian": "image/bing/2024-03-09/gaussian.jpg",
           "greyscale": "image/bing/2024-03-09/greyscale.jpg",
@@ -2909,7 +3046,9 @@
           "thumbnail": "image/bing/2024-03-09/thumbnail.jpg",
           "uhd": "image/bing/2024-03-09/uhd.jpg"
         },
+        "time": "2024-03-09",
         "title": "比斯第恶土，新墨西哥州，美国 (© Ian Shive/Tandem Stills + Motion)",
+        "copyright": "比斯第恶土，新墨西哥州，美国 (© Ian Shive/Tandem Stills + Motion)",
         "color": {
           "Vibrant": "#046ed8",
           "DarkVibrant": "#0464cb",
@@ -2922,7 +3061,6 @@
       },
       {
         "key": 140,
-        "time": "2024-03-10",
         "url": {
           "gaussian": "image/bing/2024-03-10/gaussian.jpg",
           "greyscale": "image/bing/2024-03-10/greyscale.jpg",
@@ -2930,7 +3068,9 @@
           "thumbnail": "image/bing/2024-03-10/thumbnail.jpg",
           "uhd": "image/bing/2024-03-10/uhd.jpg"
         },
+        "time": "2024-03-10",
         "title": "圣哈辛托大厦的机械钟，博蒙特，美国德克萨斯州 (© Richard T. Nowitz/Getty Images)",
+        "copyright": "圣哈辛托大厦的机械钟，博蒙特，美国德克萨斯州 (© Richard T. Nowitz/Getty Images)",
         "color": {
           "Vibrant": "#cd381e",
           "DarkVibrant": "#63441c",
@@ -2943,7 +3083,6 @@
       },
       {
         "key": 141,
-        "time": "2024-03-11",
         "url": {
           "gaussian": "image/bing/2024-03-11/gaussian.jpg",
           "greyscale": "image/bing/2024-03-11/greyscale.jpg",
@@ -2951,7 +3090,9 @@
           "thumbnail": "image/bing/2024-03-11/thumbnail.jpg",
           "uhd": "image/bing/2024-03-11/uhd.jpg"
         },
+        "time": "2024-03-11",
         "title": "Prosecco山丘，科内利亚诺和瓦尔多比亚德内，威内托大区，意大利 (© Richard T. Nowitz/Getty Images)",
+        "copyright": "Prosecco山丘，科内利亚诺和瓦尔多比亚德内，威内托大区，意大利 (© Richard T. Nowitz/Getty Images)",
         "color": {
           "Vibrant": "#e1870b",
           "DarkVibrant": "#9f5a0a",
@@ -2964,7 +3105,6 @@
       },
       {
         "key": 142,
-        "time": "2024-03-12",
         "url": {
           "gaussian": "image/bing/2024-03-12/gaussian.jpg",
           "greyscale": "image/bing/2024-03-12/greyscale.jpg",
@@ -2972,7 +3112,9 @@
           "thumbnail": "image/bing/2024-03-12/thumbnail.jpg",
           "uhd": "image/bing/2024-03-12/uhd.jpg"
         },
+        "time": "2024-03-12",
         "title": "布莱斯峡谷国家公园，犹他州，美国 (© Jim Patterson/Tandem Stills + Motion)",
+        "copyright": "布莱斯峡谷国家公园，犹他州，美国 (© Jim Patterson/Tandem Stills + Motion)",
         "color": {
           "Vibrant": "#c03c08",
           "DarkVibrant": "#7c1c04",
@@ -2985,7 +3127,6 @@
       },
       {
         "key": 143,
-        "time": "2024-03-13",
         "url": {
           "gaussian": "image/bing/2024-03-13/gaussian.jpg",
           "greyscale": "image/bing/2024-03-13/greyscale.jpg",
@@ -2993,7 +3134,9 @@
           "thumbnail": "image/bing/2024-03-13/thumbnail.jpg",
           "uhd": "image/bing/2024-03-13/uhd.jpg"
         },
+        "time": "2024-03-13",
         "title": "小红鹳飞越马加迪湖,肯尼亚 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)",
+        "copyright": "小红鹳飞越马加迪湖,肯尼亚 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)",
         "color": {
           "Vibrant": "#4e75b1",
           "DarkVibrant": "#2c4264",
@@ -3006,7 +3149,6 @@
       },
       {
         "key": 144,
-        "time": "2024-03-14",
         "url": {
           "gaussian": "image/bing/2024-03-14/gaussian.jpg",
           "greyscale": "image/bing/2024-03-14/greyscale.jpg",
@@ -3014,7 +3156,9 @@
           "thumbnail": "image/bing/2024-03-14/thumbnail.jpg",
           "uhd": "image/bing/2024-03-14/uhd.jpg"
         },
+        "time": "2024-03-14",
         "title": "Wat Phra Ngam，大城府历史公园，泰国 (© boonchai wedmakawand/Alamy Stock Photo)",
+        "copyright": "Wat Phra Ngam，大城府历史公园，泰国 (© boonchai wedmakawand/Alamy Stock Photo)",
         "color": {
           "Vibrant": "#ccaf25",
           "DarkVibrant": "#82670a",
@@ -3027,7 +3171,6 @@
       },
       {
         "key": 145,
-        "time": "2024-03-15",
         "url": {
           "gaussian": "image/bing/2024-03-15/gaussian.jpg",
           "greyscale": "image/bing/2024-03-15/greyscale.jpg",
@@ -3035,7 +3178,9 @@
           "thumbnail": "image/bing/2024-03-15/thumbnail.jpg",
           "uhd": "image/bing/2024-03-15/uhd.jpg"
         },
+        "time": "2024-03-15",
         "title": "安沙波利哥沙漠州立公园，美国加利福尼亚州 (© Stephen Matera/Tandem Stills + Motion)",
+        "copyright": "安沙波利哥沙漠州立公园，美国加利福尼亚州 (© Stephen Matera/Tandem Stills + Motion)",
         "color": {
           "Vibrant": "#cea51b",
           "DarkVibrant": "#575310",
@@ -3048,7 +3193,6 @@
       },
       {
         "key": 146,
-        "time": "2024-03-16",
         "url": {
           "gaussian": "image/bing/2024-03-16/gaussian.jpg",
           "greyscale": "image/bing/2024-03-16/greyscale.jpg",
@@ -3056,7 +3200,9 @@
           "thumbnail": "image/bing/2024-03-16/thumbnail.jpg",
           "uhd": "image/bing/2024-03-16/uhd.jpg"
         },
+        "time": "2024-03-16",
         "title": "正在吃竹子的大熊猫，中国成都 (© Suzi Eszterhas/Minden Pictures)",
+        "copyright": "正在吃竹子的大熊猫，中国成都 (© Suzi Eszterhas/Minden Pictures)",
         "color": {
           "Vibrant": "#88e11e",
           "DarkVibrant": "#3b620d",
@@ -3069,7 +3215,6 @@
       },
       {
         "key": 147,
-        "time": "2024-03-17",
         "url": {
           "gaussian": "image/bing/2024-03-17/gaussian.jpg",
           "greyscale": "image/bing/2024-03-17/greyscale.jpg",
@@ -3077,7 +3222,9 @@
           "thumbnail": "image/bing/2024-03-17/thumbnail.jpg",
           "uhd": "image/bing/2024-03-17/uhd.jpg"
         },
+        "time": "2024-03-17",
         "title": "圣菲尼安湾，凯里郡，爱尔兰 (© Atlantide Phototravel/Getty Images)",
+        "copyright": "圣菲尼安湾，凯里郡，爱尔兰 (© Atlantide Phototravel/Getty Images)",
         "color": {
           "Vibrant": "#c2c423",
           "DarkVibrant": "#6b7511",
@@ -3090,7 +3237,6 @@
       },
       {
         "key": 148,
-        "time": "2024-03-18",
         "url": {
           "gaussian": "image/bing/2024-03-18/gaussian.jpg",
           "greyscale": "image/bing/2024-03-18/greyscale.jpg",
@@ -3098,7 +3244,9 @@
           "thumbnail": "image/bing/2024-03-18/thumbnail.jpg",
           "uhd": "image/bing/2024-03-18/uhd.jpg"
         },
+        "time": "2024-03-18",
         "title": "大象岩，古城欧拉，沙特阿拉伯 (© Lubo Ivanko/Shutterstock)",
+        "copyright": "大象岩，古城欧拉，沙特阿拉伯 (© Lubo Ivanko/Shutterstock)",
         "color": {
           "Vibrant": "#dd630c",
           "DarkVibrant": "#a3420b",
@@ -3111,7 +3259,6 @@
       },
       {
         "key": 149,
-        "time": "2024-03-19",
         "url": {
           "gaussian": "image/bing/2024-03-19/gaussian.jpg",
           "greyscale": "image/bing/2024-03-19/greyscale.jpg",
@@ -3119,7 +3266,9 @@
           "thumbnail": "image/bing/2024-03-19/thumbnail.jpg",
           "uhd": "image/bing/2024-03-19/uhd.jpg"
         },
+        "time": "2024-03-19",
         "title": "盛开的扁桃树, 加利福尼亚州，美国 (© Jeffrey Lewis/Tandem Stills + Motion)",
+        "copyright": "盛开的扁桃树, 加利福尼亚州，美国 (© Jeffrey Lewis/Tandem Stills + Motion)",
         "color": {
           "Vibrant": "#ba7a4a",
           "DarkVibrant": "#87621d",
@@ -3132,7 +3281,6 @@
       },
       {
         "key": 150,
-        "time": "2024-03-20",
         "url": {
           "gaussian": "image/bing/2024-03-20/gaussian.jpg",
           "greyscale": "image/bing/2024-03-20/greyscale.jpg",
@@ -3140,7 +3288,9 @@
           "thumbnail": "image/bing/2024-03-20/thumbnail.jpg",
           "uhd": "image/bing/2024-03-20/uhd.jpg"
         },
+        "time": "2024-03-20",
         "title": "鸟瞰春日盛开的樱花，中国 (© outcast85/Getty images)",
+        "copyright": "鸟瞰春日盛开的樱花，中国 (© outcast85/Getty images)",
         "color": {
           "Vibrant": "#9c642c",
           "DarkVibrant": "#60352c",
@@ -3153,7 +3303,6 @@
       },
       {
         "key": 151,
-        "time": "2024-03-21",
         "url": {
           "gaussian": "image/bing/2024-03-21/gaussian.jpg",
           "greyscale": "image/bing/2024-03-21/greyscale.jpg",
@@ -3161,7 +3310,9 @@
           "thumbnail": "image/bing/2024-03-21/thumbnail.jpg",
           "uhd": "image/bing/2024-03-21/uhd.jpg"
         },
+        "time": "2024-03-21",
         "title": "布恩迪国家公园，乌干达 (© Art Wolfe/DanitaDelimont.com)",
+        "copyright": "布恩迪国家公园，乌干达 (© Art Wolfe/DanitaDelimont.com)",
         "color": {
           "Vibrant": "#147cbc",
           "DarkVibrant": "#175c7c",
@@ -3174,7 +3325,6 @@
       },
       {
         "key": 152,
-        "time": "2024-03-22",
         "url": {
           "gaussian": "image/bing/2024-03-22/gaussian.jpg",
           "greyscale": "image/bing/2024-03-22/greyscale.jpg",
@@ -3182,7 +3332,9 @@
           "thumbnail": "image/bing/2024-03-22/thumbnail.jpg",
           "uhd": "image/bing/2024-03-22/uhd.jpg"
         },
+        "time": "2024-03-22",
         "title": "蓝泉，蒂怀霍步道，新西兰 (© Ian Beattie/Alamy Stock Photo)",
+        "copyright": "蓝泉，蒂怀霍步道，新西兰 (© Ian Beattie/Alamy Stock Photo)",
         "color": {
           "Vibrant": "#5b8db2",
           "DarkVibrant": "#577517",
@@ -3195,7 +3347,6 @@
       },
       {
         "key": 153,
-        "time": "2024-03-23",
         "url": {
           "gaussian": "image/bing/2024-03-23/gaussian.jpg",
           "greyscale": "image/bing/2024-03-23/greyscale.jpg",
@@ -3203,7 +3354,9 @@
           "thumbnail": "image/bing/2024-03-23/thumbnail.jpg",
           "uhd": "image/bing/2024-03-23/uhd.jpg"
         },
+        "time": "2024-03-23",
         "title": "巴西亚马逊上空巨大的砧状云 (© NASA)",
+        "copyright": "巴西亚马逊上空巨大的砧状云 (© NASA)",
         "color": {
           "Vibrant": "#779fbe",
           "DarkVibrant": "#2b455a",
@@ -3216,7 +3369,6 @@
       },
       {
         "key": 154,
-        "time": "2024-03-24",
         "url": {
           "gaussian": "image/bing/2024-03-24/gaussian.jpg",
           "greyscale": "image/bing/2024-03-24/greyscale.jpg",
@@ -3224,7 +3376,9 @@
           "thumbnail": "image/bing/2024-03-24/thumbnail.jpg",
           "uhd": "image/bing/2024-03-24/uhd.jpg"
         },
+        "time": "2024-03-24",
         "title": "樱花树枝上的灰胸绣眼鸟，韩国 (© TigerSeo/Getty Images)",
+        "copyright": "樱花树枝上的灰胸绣眼鸟，韩国 (© TigerSeo/Getty Images)",
         "color": {
           "Vibrant": "#c2ac0f",
           "DarkVibrant": "#605216",
@@ -3237,7 +3391,6 @@
       },
       {
         "key": 155,
-        "time": "2024-03-25",
         "url": {
           "gaussian": "image/bing/2024-03-25/gaussian.jpg",
           "greyscale": "image/bing/2024-03-25/greyscale.jpg",
@@ -3245,7 +3398,9 @@
           "thumbnail": "image/bing/2024-03-25/thumbnail.jpg",
           "uhd": "image/bing/2024-03-25/uhd.jpg"
         },
+        "time": "2024-03-25",
         "title": "弗雷泽河谷的郁金香田，阿伯兹福德，不列颠哥伦比亚省，加拿大 (© LeonU/Getty Images)",
+        "copyright": "弗雷泽河谷的郁金香田，阿伯兹福德，不列颠哥伦比亚省，加拿大 (© LeonU/Getty Images)",
         "color": {
           "Vibrant": "#e64120",
           "DarkVibrant": "#6e472b",
@@ -3258,7 +3413,6 @@
       },
       {
         "key": 156,
-        "time": "2024-03-26",
         "url": {
           "gaussian": "image/bing/2024-03-26/gaussian.jpg",
           "greyscale": "image/bing/2024-03-26/greyscale.jpg",
@@ -3266,7 +3420,9 @@
           "thumbnail": "image/bing/2024-03-26/thumbnail.jpg",
           "uhd": "image/bing/2024-03-26/uhd.jpg"
         },
+        "time": "2024-03-26",
         "title": "海水从古老的珊瑚礁上倾泻而下，杭莱，越南 (© Thang Tat Nguyen/Getty Images)",
+        "copyright": "海水从古老的珊瑚礁上倾泻而下，杭莱，越南 (© Thang Tat Nguyen/Getty Images)",
         "color": {
           "Vibrant": "#f5ae6e",
           "DarkVibrant": "#24425b",
@@ -3279,7 +3435,6 @@
       },
       {
         "key": 157,
-        "time": "2024-03-27",
         "url": {
           "gaussian": "image/bing/2024-03-27/gaussian.jpg",
           "greyscale": "image/bing/2024-03-27/greyscale.jpg",
@@ -3287,7 +3442,9 @@
           "thumbnail": "image/bing/2024-03-27/thumbnail.jpg",
           "uhd": "image/bing/2024-03-27/uhd.jpg"
         },
+        "time": "2024-03-27",
         "title": "布宜诺斯艾利斯哥伦布剧院，阿根廷 (© Wei Hao Ho/Alamy Stock Photo)",
+        "copyright": "布宜诺斯艾利斯哥伦布剧院，阿根廷 (© Wei Hao Ho/Alamy Stock Photo)",
         "color": {
           "Vibrant": "#da8012",
           "DarkVibrant": "#873b0a",
@@ -3300,7 +3457,6 @@
       },
       {
         "key": 158,
-        "time": "2024-03-28",
         "url": {
           "gaussian": "image/bing/2024-03-28/gaussian.jpg",
           "greyscale": "image/bing/2024-03-28/greyscale.jpg",
@@ -3308,7 +3464,9 @@
           "thumbnail": "image/bing/2024-03-28/thumbnail.jpg",
           "uhd": "image/bing/2024-03-28/uhd.jpg"
         },
+        "time": "2024-03-28",
         "title": "上海的樱花，中国 (© Yaorusheng/Getty Images)",
+        "copyright": "上海的樱花，中国 (© Yaorusheng/Getty Images)",
         "color": {
           "Vibrant": "#e01460",
           "DarkVibrant": "#084a18",
@@ -3321,7 +3479,6 @@
       },
       {
         "key": 159,
-        "time": "2024-03-29",
         "url": {
           "gaussian": "image/bing/2024-03-29/gaussian.jpg",
           "greyscale": "image/bing/2024-03-29/greyscale.jpg",
@@ -3329,7 +3486,9 @@
           "thumbnail": "image/bing/2024-03-29/thumbnail.jpg",
           "uhd": "image/bing/2024-03-29/uhd.jpg"
         },
+        "time": "2024-03-29",
         "title": "日落时的南斯塔克灯塔，霍利希德，威尔士，英国 (© mariotlr/Getty Images)",
+        "copyright": "日落时的南斯塔克灯塔，霍利希德，威尔士，英国 (© mariotlr/Getty Images)",
         "color": {
           "Vibrant": "#d89466",
           "DarkVibrant": "#4f3f24",
@@ -3342,7 +3501,6 @@
       },
       {
         "key": 160,
-        "time": "2024-03-30",
         "url": {
           "gaussian": "image/bing/2024-03-30/gaussian.jpg",
           "greyscale": "image/bing/2024-03-30/greyscale.jpg",
@@ -3350,7 +3508,9 @@
           "thumbnail": "image/bing/2024-03-30/thumbnail.jpg",
           "uhd": "image/bing/2024-03-30/uhd.jpg"
         },
+        "time": "2024-03-30",
         "title": "睡在号角树上的褐喉树懒，哥斯达黎加 (© Juan Carlos Vindas/Getty Images)",
+        "copyright": "睡在号角树上的褐喉树懒，哥斯达黎加 (© Juan Carlos Vindas/Getty Images)",
         "color": {
           "Vibrant": "#a0c916",
           "DarkVibrant": "#4c7013",
@@ -3363,7 +3523,6 @@
       },
       {
         "key": 161,
-        "time": "2024-03-31",
         "url": {
           "gaussian": "image/bing/2024-03-31/gaussian.jpg",
           "greyscale": "image/bing/2024-03-31/greyscale.jpg",
@@ -3371,7 +3530,9 @@
           "thumbnail": "image/bing/2024-03-31/thumbnail.jpg",
           "uhd": "image/bing/2024-03-31/uhd.jpg"
         },
+        "time": "2024-03-31",
         "title": "潘塔纳尔湿地的大白鹭，巴西 (© Geraldi Corsi/Getty Images)",
+        "copyright": "潘塔纳尔湿地的大白鹭，巴西 (© Geraldi Corsi/Getty Images)",
         "color": {
           "Vibrant": "#9d703e",
           "DarkVibrant": "#6c5411",
@@ -3384,7 +3545,6 @@
       },
       {
         "key": 162,
-        "time": "2024-04-01",
         "url": {
           "gaussian": "image/bing/2024-04-01/gaussian.jpg",
           "greyscale": "image/bing/2024-04-01/greyscale.jpg",
@@ -3392,7 +3552,9 @@
           "thumbnail": "image/bing/2024-04-01/thumbnail.jpg",
           "uhd": "image/bing/2024-04-01/uhd.jpg"
         },
+        "time": "2024-04-01",
         "title": "勃朗峰上的冰海，夏慕尼，法国 (© Hagenmuller Jean-François/Hemis/Alamy)",
+        "copyright": "勃朗峰上的冰海，夏慕尼，法国 (© Hagenmuller Jean-François/Hemis/Alamy)",
         "color": {
           "Vibrant": "#3c74bc",
           "DarkVibrant": "#08438b",
@@ -3405,7 +3567,6 @@
       },
       {
         "key": 163,
-        "time": "2024-04-02",
         "url": {
           "gaussian": "image/bing/2024-04-02/gaussian.jpg",
           "greyscale": "image/bing/2024-04-02/greyscale.jpg",
@@ -3413,7 +3574,9 @@
           "thumbnail": "image/bing/2024-04-02/thumbnail.jpg",
           "uhd": "image/bing/2024-04-02/uhd.jpg"
         },
+        "time": "2024-04-02",
         "title": "日德兰半岛的山毛榉树和野生海葵 ，丹麦 (© Nick Brundle Photography/Getty Images)",
+        "copyright": "日德兰半岛的山毛榉树和野生海葵 ，丹麦 (© Nick Brundle Photography/Getty Images)",
         "color": {
           "Vibrant": "#ebbf35",
           "DarkVibrant": "#556615",
@@ -3426,7 +3589,6 @@
       },
       {
         "key": 164,
-        "time": "2024-04-03",
         "url": {
           "gaussian": "image/bing/2024-04-03/gaussian.jpg",
           "greyscale": "image/bing/2024-04-03/greyscale.jpg",
@@ -3434,7 +3596,9 @@
           "thumbnail": "image/bing/2024-04-03/thumbnail.jpg",
           "uhd": "image/bing/2024-04-03/uhd.jpg"
         },
+        "time": "2024-04-03",
         "title": "At-Bashy地区的彩虹，Kakshaal Too山脉，纳伦省，吉尔吉斯斯坦 (© Emad aljumah/Getty Images)",
+        "copyright": "At-Bashy地区的彩虹，Kakshaal Too山脉，纳伦省，吉尔吉斯斯坦 (© Emad aljumah/Getty Images)",
         "color": {
           "Vibrant": "#d5a40c",
           "DarkVibrant": "#897307",
@@ -3447,7 +3611,6 @@
       },
       {
         "key": 165,
-        "time": "2024-04-04",
         "url": {
           "gaussian": "image/bing/2024-04-04/gaussian.jpg",
           "greyscale": "image/bing/2024-04-04/greyscale.jpg",
@@ -3455,7 +3618,9 @@
           "thumbnail": "image/bing/2024-04-04/thumbnail.jpg",
           "uhd": "image/bing/2024-04-04/uhd.jpg"
         },
+        "time": "2024-04-04",
         "title": "红驴羚群穿越奥卡万戈三角洲的沼泽平原，博茨瓦纳 (© Ibrahim Suha Derbent/Getty Images)",
+        "copyright": "红驴羚群穿越奥卡万戈三角洲的沼泽平原，博茨瓦纳 (© Ibrahim Suha Derbent/Getty Images)",
         "color": {
           "Vibrant": "#8a7525",
           "DarkVibrant": "#785d14",
@@ -3468,7 +3633,6 @@
       },
       {
         "key": 166,
-        "time": "2024-04-05",
         "url": {
           "gaussian": "image/bing/2024-04-05/gaussian.jpg",
           "greyscale": "image/bing/2024-04-05/greyscale.jpg",
@@ -3476,7 +3640,9 @@
           "thumbnail": "image/bing/2024-04-05/thumbnail.jpg",
           "uhd": "image/bing/2024-04-05/uhd.jpg"
         },
+        "time": "2024-04-05",
         "title": "从国际空间站拍摄的巴哈马群岛 (© NASA)",
+        "copyright": "从国际空间站拍摄的巴哈马群岛 (© NASA)",
         "color": {
           "Vibrant": "#04a2bc",
           "DarkVibrant": "#043464",
@@ -3489,7 +3655,6 @@
       },
       {
         "key": 167,
-        "time": "2024-04-06",
         "url": {
           "gaussian": "image/bing/2024-04-06/gaussian.jpg",
           "greyscale": "image/bing/2024-04-06/greyscale.jpg",
@@ -3497,7 +3662,9 @@
           "thumbnail": "image/bing/2024-04-06/thumbnail.jpg",
           "uhd": "image/bing/2024-04-06/uhd.jpg"
         },
+        "time": "2024-04-06",
         "title": "姬路城，姫路，兵库县，日本 (© Julian Elliott Photography/Getty Images)",
+        "copyright": "姬路城，姫路，兵库县，日本 (© Julian Elliott Photography/Getty Images)",
         "color": {
           "Vibrant": "#fca14c",
           "DarkVibrant": "#702c1c",
@@ -3510,7 +3677,6 @@
       },
       {
         "key": 168,
-        "time": "2024-04-07",
         "url": {
           "gaussian": "image/bing/2024-04-07/gaussian.jpg",
           "greyscale": "image/bing/2024-04-07/greyscale.jpg",
@@ -3518,7 +3684,9 @@
           "thumbnail": "image/bing/2024-04-07/thumbnail.jpg",
           "uhd": "image/bing/2024-04-07/uhd.jpg"
         },
+        "time": "2024-04-07",
         "title": "奇迹湖附近池塘里的北美海狸，德纳里国家公园，阿拉斯加州，美国 (© Paul Souders/Getty Images)",
+        "copyright": "奇迹湖附近池塘里的北美海狸，德纳里国家公园，阿拉斯加州，美国 (© Paul Souders/Getty Images)",
         "color": {
           "Vibrant": "#3c94d0",
           "DarkVibrant": "#7d5115",
@@ -3531,7 +3699,6 @@
       },
       {
         "key": 169,
-        "time": "2024-04-08",
         "url": {
           "gaussian": "image/bing/2024-04-08/gaussian.jpg",
           "greyscale": "image/bing/2024-04-08/greyscale.jpg",
@@ -3539,7 +3706,9 @@
           "thumbnail": "image/bing/2024-04-08/thumbnail.jpg",
           "uhd": "image/bing/2024-04-08/uhd.jpg"
         },
+        "time": "2024-04-08",
         "title": "欧洲刺猬在长满蒲公英的花园里，巴特德里堡，德国 (© Oksana Schmidt/Getty Images)",
+        "copyright": "欧洲刺猬在长满蒲公英的花园里，巴特德里堡，德国 (© Oksana Schmidt/Getty Images)",
         "color": {
           "Vibrant": "#d2c81c",
           "DarkVibrant": "#4a5604",
@@ -3552,7 +3721,6 @@
       },
       {
         "key": 170,
-        "time": "2024-04-09",
         "url": {
           "gaussian": "image/bing/2024-04-09/gaussian.jpg",
           "greyscale": "image/bing/2024-04-09/greyscale.jpg",
@@ -3560,7 +3728,9 @@
           "thumbnail": "image/bing/2024-04-09/thumbnail.jpg",
           "uhd": "image/bing/2024-04-09/uhd.jpg"
         },
+        "time": "2024-04-09",
         "title": "郁金香田，斯卡吉特山谷，华盛顿州，美国 (© Claudia Cooper/Getty Images)",
+        "copyright": "郁金香田，斯卡吉特山谷，华盛顿州，美国 (© Claudia Cooper/Getty Images)",
         "color": {
           "Vibrant": "#d21b0d",
           "DarkVibrant": "#790a08",
@@ -3573,7 +3743,6 @@
       },
       {
         "key": 171,
-        "time": "2024-04-10",
         "url": {
           "gaussian": "image/bing/2024-04-10/gaussian.jpg",
           "greyscale": "image/bing/2024-04-10/greyscale.jpg",
@@ -3581,7 +3750,9 @@
           "thumbnail": "image/bing/2024-04-10/thumbnail.jpg",
           "uhd": "image/bing/2024-04-10/uhd.jpg"
         },
+        "time": "2024-04-10",
         "title": "洞穴附近的穴小鸮雏鸟，怀俄明州，美国 (© Danita Delimont/Getty Images)",
+        "copyright": "洞穴附近的穴小鸮雏鸟，怀俄明州，美国 (© Danita Delimont/Getty Images)",
         "color": {
           "Vibrant": "#e4b311",
           "DarkVibrant": "#a37f0e",
@@ -3594,7 +3765,6 @@
       },
       {
         "key": 172,
-        "time": "2024-04-11",
         "url": {
           "gaussian": "image/bing/2024-04-11/gaussian.jpg",
           "greyscale": "image/bing/2024-04-11/greyscale.jpg",
@@ -3602,7 +3772,9 @@
           "thumbnail": "image/bing/2024-04-11/thumbnail.jpg",
           "uhd": "image/bing/2024-04-11/uhd.jpg"
         },
+        "time": "2024-04-11",
         "title": "丘伦梅鲁瀑布鸟瞰图，委内瑞拉 (© AirPano LLC/Amazing Aerial Agency)",
+        "copyright": "丘伦梅鲁瀑布鸟瞰图，委内瑞拉 (© AirPano LLC/Amazing Aerial Agency)",
         "color": {
           "Vibrant": "#b04828",
           "DarkVibrant": "#622d13",
@@ -3615,7 +3787,6 @@
       },
       {
         "key": 173,
-        "time": "2024-04-12",
         "url": {
           "gaussian": "image/bing/2024-04-12/gaussian.jpg",
           "greyscale": "image/bing/2024-04-12/greyscale.jpg",
@@ -3623,7 +3794,9 @@
           "thumbnail": "image/bing/2024-04-12/thumbnail.jpg",
           "uhd": "image/bing/2024-04-12/uhd.jpg"
         },
+        "time": "2024-04-12",
         "title": "拱门国家公园，犹他州，美国 (© Anthony Heflin/Shutterstock)",
+        "copyright": "拱门国家公园，犹他州，美国 (© Anthony Heflin/Shutterstock)",
         "color": {
           "Vibrant": "#df711a",
           "DarkVibrant": "#842909",
@@ -3636,7 +3809,6 @@
       },
       {
         "key": 174,
-        "time": "2024-04-13",
         "url": {
           "gaussian": "image/bing/2024-04-13/gaussian.jpg",
           "greyscale": "image/bing/2024-04-13/greyscale.jpg",
@@ -3644,7 +3816,9 @@
           "thumbnail": "image/bing/2024-04-13/thumbnail.jpg",
           "uhd": "image/bing/2024-04-13/uhd.jpg"
         },
+        "time": "2024-04-13",
         "title": "春天的苹果树，德国 (© Smileus/Getty Images)",
+        "copyright": "春天的苹果树，德国 (© Smileus/Getty Images)",
         "color": {
           "Vibrant": "#c7cd32",
           "DarkVibrant": "#708d0b",
@@ -3657,7 +3831,6 @@
       },
       {
         "key": 175,
-        "time": "2024-04-14",
         "url": {
           "gaussian": "image/bing/2024-04-14/gaussian.jpg",
           "greyscale": "image/bing/2024-04-14/greyscale.jpg",
@@ -3665,7 +3838,9 @@
           "thumbnail": "image/bing/2024-04-14/thumbnail.jpg",
           "uhd": "image/bing/2024-04-14/uhd.jpg"
         },
+        "time": "2024-04-14",
         "title": "保龄球海滩的日落，门多西诺县，加利福尼亚，美国 (© Melo Qiao/Getty Images)",
+        "copyright": "保龄球海滩的日落，门多西诺县，加利福尼亚，美国 (© Melo Qiao/Getty Images)",
         "color": {
           "Vibrant": "#f5b170",
           "DarkVibrant": "#583e23",
@@ -3678,7 +3853,6 @@
       },
       {
         "key": 176,
-        "time": "2024-04-15",
         "url": {
           "gaussian": "image/bing/2024-04-15/gaussian.jpg",
           "greyscale": "image/bing/2024-04-15/greyscale.jpg",
@@ -3686,7 +3860,9 @@
           "thumbnail": "image/bing/2024-04-15/thumbnail.jpg",
           "uhd": "image/bing/2024-04-15/uhd.jpg"
         },
+        "time": "2024-04-15",
         "title": "香波城堡，中央-卢瓦尔河谷大区，法国 (© Susanne Kremer/eStock Photo)",
+        "copyright": "香波城堡，中央-卢瓦尔河谷大区，法国 (© Susanne Kremer/eStock Photo)",
         "color": {
           "Vibrant": "#f2ad57",
           "DarkVibrant": "#6d3b10",
@@ -3699,7 +3875,6 @@
       },
       {
         "key": 177,
-        "time": "2024-04-16",
         "url": {
           "gaussian": "image/bing/2024-04-16/gaussian.jpg",
           "greyscale": "image/bing/2024-04-16/greyscale.jpg",
@@ -3707,7 +3882,9 @@
           "thumbnail": "image/bing/2024-04-16/thumbnail.jpg",
           "uhd": "image/bing/2024-04-16/uhd.jpg"
         },
+        "time": "2024-04-16",
         "title": "暮色中的曼哈顿下城联合广场，纽约，美国 (© Sean Pavone/Getty Images)",
+        "copyright": "暮色中的曼哈顿下城联合广场，纽约，美国 (© Sean Pavone/Getty Images)",
         "color": {
           "Vibrant": "#db9f13",
           "DarkVibrant": "#624c08",
@@ -3720,7 +3897,6 @@
       },
       {
         "key": 178,
-        "time": "2024-04-17",
         "url": {
           "gaussian": "image/bing/2024-04-17/gaussian.jpg",
           "greyscale": "image/bing/2024-04-17/greyscale.jpg",
@@ -3728,7 +3904,9 @@
           "thumbnail": "image/bing/2024-04-17/thumbnail.jpg",
           "uhd": "image/bing/2024-04-17/uhd.jpg"
         },
+        "time": "2024-04-17",
         "title": "春天的美洲黑熊幼崽，仙纳度国家公园，弗吉尼亚州，美国 (© Scott Suriano/Getty Images)",
+        "copyright": "春天的美洲黑熊幼崽，仙纳度国家公园，弗吉尼亚州，美国 (© Scott Suriano/Getty Images)",
         "color": {
           "Vibrant": "#6d9e0e",
           "DarkVibrant": "#336310",
@@ -3741,7 +3919,6 @@
       },
       {
         "key": 179,
-        "time": "2024-04-18",
         "url": {
           "gaussian": "image/bing/2024-04-18/gaussian.jpg",
           "greyscale": "image/bing/2024-04-18/greyscale.jpg",
@@ -3749,7 +3926,9 @@
           "thumbnail": "image/bing/2024-04-18/thumbnail.jpg",
           "uhd": "image/bing/2024-04-18/uhd.jpg"
         },
+        "time": "2024-04-18",
         "title": "中世纪城墙，阿维拉，西班牙 (© Scott Suriano/Getty Images)",
+        "copyright": "中世纪城墙，阿维拉，西班牙 (© Scott Suriano/Getty Images)",
         "color": {
           "Vibrant": "#bc9864",
           "DarkVibrant": "#5d4728",
@@ -3762,7 +3941,6 @@
       },
       {
         "key": 180,
-        "time": "2024-04-19",
         "url": {
           "gaussian": "image/bing/2024-04-19/gaussian.jpg",
           "greyscale": "image/bing/2024-04-19/greyscale.jpg",
@@ -3770,7 +3948,9 @@
           "thumbnail": "image/bing/2024-04-19/thumbnail.jpg",
           "uhd": "image/bing/2024-04-19/uhd.jpg"
         },
+        "time": "2024-04-19",
         "title": "布罗德加环，奥克尼岛，苏格兰 (© Paul Williams - FunkyStock/Getty Images)",
+        "copyright": "布罗德加环，奥克尼岛，苏格兰 (© Paul Williams - FunkyStock/Getty Images)",
         "color": {
           "Vibrant": "#2484c4",
           "DarkVibrant": "#674729",
@@ -3783,7 +3963,6 @@
       },
       {
         "key": 181,
-        "time": "2024-04-20",
         "url": {
           "gaussian": "image/bing/2024-04-20/gaussian.jpg",
           "greyscale": "image/bing/2024-04-20/greyscale.jpg",
@@ -3791,7 +3970,9 @@
           "thumbnail": "image/bing/2024-04-20/thumbnail.jpg",
           "uhd": "image/bing/2024-04-20/uhd.jpg"
         },
+        "time": "2024-04-20",
         "title": "日出时分的大棱镜泉，美国怀俄明州黄石国家公园 (© XIN WANG/Getty Images)",
+        "copyright": "日出时分的大棱镜泉，美国怀俄明州黄石国家公园 (© XIN WANG/Getty Images)",
         "color": {
           "Vibrant": "#d4433e",
           "DarkVibrant": "#1f5174",
@@ -3804,7 +3985,6 @@
       },
       {
         "key": 182,
-        "time": "2024-04-21",
         "url": {
           "gaussian": "image/bing/2024-04-21/gaussian.jpg",
           "greyscale": "image/bing/2024-04-21/greyscale.jpg",
@@ -3812,7 +3992,9 @@
           "thumbnail": "image/bing/2024-04-21/thumbnail.jpg",
           "uhd": "image/bing/2024-04-21/uhd.jpg"
         },
+        "time": "2024-04-21",
         "title": "Cades Cove ，大雾山国家公园，田纳西州，美国 (© Richard Bernabe/Shutterstock)",
+        "copyright": "Cades Cove ，大雾山国家公园，田纳西州，美国 (© Richard Bernabe/Shutterstock)",
         "color": {
           "Vibrant": "#5d7739",
           "DarkVibrant": "#445119",
@@ -3825,7 +4007,6 @@
       },
       {
         "key": 183,
-        "time": "2024-04-22",
         "url": {
           "gaussian": "image/bing/2024-04-22/gaussian.jpg",
           "greyscale": "image/bing/2024-04-22/greyscale.jpg",
@@ -3833,7 +4014,9 @@
           "thumbnail": "image/bing/2024-04-22/thumbnail.jpg",
           "uhd": "image/bing/2024-04-22/uhd.jpg"
         },
+        "time": "2024-04-22",
         "title": "绿海龟，圣地亚哥，加利福尼亚，美国 (© Ralph Pace/Minden Pictures)",
+        "copyright": "绿海龟，圣地亚哥，加利福尼亚，美国 (© Ralph Pace/Minden Pictures)",
         "color": {
           "Vibrant": "#c8920b",
           "DarkVibrant": "#7b580e",
@@ -3846,7 +4029,6 @@
       },
       {
         "key": 184,
-        "time": "2024-04-23",
         "url": {
           "gaussian": "image/bing/2024-04-23/gaussian.jpg",
           "greyscale": "image/bing/2024-04-23/greyscale.jpg",
@@ -3854,7 +4036,9 @@
           "thumbnail": "image/bing/2024-04-23/thumbnail.jpg",
           "uhd": "image/bing/2024-04-23/uhd.jpg"
         },
+        "time": "2024-04-23",
         "title": "三一学院图书馆，都柏林，爱尔兰 (© Lukas Bischoff/Getty Images)",
+        "copyright": "三一学院图书馆，都柏林，爱尔兰 (© Lukas Bischoff/Getty Images)",
         "color": {
           "Vibrant": "#d2792a",
           "DarkVibrant": "#6c3212",
@@ -3867,7 +4051,6 @@
       },
       {
         "key": 185,
-        "time": "2024-06-02",
         "url": {
           "gaussian": "image/bing/2024-06-02/gaussian.jpg",
           "greyscale": "image/bing/2024-06-02/greyscale.jpg",
@@ -3875,7 +4058,9 @@
           "thumbnail": "image/bing/2024-06-02/thumbnail.jpg",
           "uhd": "image/bing/2024-06-02/uhd.jpg"
         },
+        "time": "2024-06-02",
         "title": "普卢马纳克的灯塔，阿摩尔滨海省，法国 (© Christian Handl/Getty Images)",
+        "copyright": "普卢马纳克的灯塔，阿摩尔滨海省，法国 (© Christian Handl/Getty Images)",
         "color": {
           "Vibrant": "#436cc0",
           "DarkVibrant": "#614512",
@@ -3888,7 +4073,6 @@
       },
       {
         "key": 186,
-        "time": "2024-06-03",
         "url": {
           "gaussian": "image/bing/2024-06-03/gaussian.jpg",
           "greyscale": "image/bing/2024-06-03/greyscale.jpg",
@@ -3896,7 +4080,9 @@
           "thumbnail": "image/bing/2024-06-03/thumbnail.jpg",
           "uhd": "image/bing/2024-06-03/uhd.jpg"
         },
+        "time": "2024-06-03",
         "title": "哥本哈根的自行车，丹麦 (© Alphotographic/Getty Images)",
+        "copyright": "哥本哈根的自行车，丹麦 (© Alphotographic/Getty Images)",
         "color": {
           "Vibrant": "#f4bc04",
           "DarkVibrant": "#076197",
@@ -3909,7 +4095,6 @@
       },
       {
         "key": 187,
-        "time": "2024-06-04",
         "url": {
           "gaussian": "image/bing/2024-06-04/gaussian.jpg",
           "greyscale": "image/bing/2024-06-04/greyscale.jpg",
@@ -3917,7 +4102,9 @@
           "thumbnail": "image/bing/2024-06-04/thumbnail.jpg",
           "uhd": "image/bing/2024-06-04/uhd.jpg"
         },
+        "time": "2024-06-04",
         "title": "黑胸蜂虎，巴迪亚国家公园，尼泊尔 (© PACO COMO/Shutterstock)",
+        "copyright": "黑胸蜂虎，巴迪亚国家公园，尼泊尔 (© PACO COMO/Shutterstock)",
         "color": {
           "Vibrant": "#6c823c",
           "DarkVibrant": "#514d15",
@@ -3930,7 +4117,6 @@
       },
       {
         "key": 188,
-        "time": "2024-06-05",
         "url": {
           "gaussian": "image/bing/2024-06-05/gaussian.jpg",
           "greyscale": "image/bing/2024-06-05/greyscale.jpg",
@@ -3938,7 +4124,9 @@
           "thumbnail": "image/bing/2024-06-05/thumbnail.jpg",
           "uhd": "image/bing/2024-06-05/uhd.jpg"
         },
+        "time": "2024-06-05",
         "title": "马达加斯加的马苏阿拉国家公园 (© Dennis van de Water/Shutterstock)",
+        "copyright": "马达加斯加的马苏阿拉国家公园 (© Dennis van de Water/Shutterstock)",
         "color": {
           "Vibrant": "#5ec3f8",
           "DarkVibrant": "#723218",
@@ -3951,7 +4139,6 @@
       },
       {
         "key": 189,
-        "time": "2024-06-06",
         "url": {
           "gaussian": "image/bing/2024-06-06/gaussian.jpg",
           "greyscale": "image/bing/2024-06-06/greyscale.jpg",
@@ -3959,7 +4146,9 @@
           "thumbnail": "image/bing/2024-06-06/thumbnail.jpg",
           "uhd": "image/bing/2024-06-06/uhd.jpg"
         },
+        "time": "2024-06-06",
         "title": "蓬德高鸟类公园的大红鹳，卡玛格，法国 (© Yann Guichaoua-Photos/Getty Images)",
+        "copyright": "蓬德高鸟类公园的大红鹳，卡玛格，法国 (© Yann Guichaoua-Photos/Getty Images)",
         "color": {
           "Vibrant": "#ebae17",
           "DarkVibrant": "#674318",
@@ -3972,7 +4161,6 @@
       },
       {
         "key": 190,
-        "time": "2024-06-07",
         "url": {
           "gaussian": "image/bing/2024-06-07/gaussian.jpg",
           "greyscale": "image/bing/2024-06-07/greyscale.jpg",
@@ -3980,7 +4168,9 @@
           "thumbnail": "image/bing/2024-06-07/thumbnail.jpg",
           "uhd": "image/bing/2024-06-07/uhd.jpg"
         },
+        "time": "2024-06-07",
         "title": "座头鲸家族，荷兰港，阿拉斯加州 (© Jude Newkirk/Amazing Aerial Agency)",
+        "copyright": "座头鲸家族，荷兰港，阿拉斯加州 (© Jude Newkirk/Amazing Aerial Agency)",
         "color": {
           "Vibrant": "#4e85b1",
           "DarkVibrant": "#243d51",
@@ -3993,7 +4183,6 @@
       },
       {
         "key": 191,
-        "time": "2024-06-08",
         "url": {
           "gaussian": "image/bing/2024-06-08/gaussian.jpg",
           "greyscale": "image/bing/2024-06-08/greyscale.jpg",
@@ -4001,7 +4190,9 @@
           "thumbnail": "image/bing/2024-06-08/thumbnail.jpg",
           "uhd": "image/bing/2024-06-08/uhd.jpg"
         },
+        "time": "2024-06-08",
         "title": "复活节溪和基利克河的交汇处，北极之门国家公园，阿拉斯加州，美国 (© Patrick J. Endres/Getty Images)",
+        "copyright": "复活节溪和基利克河的交汇处，北极之门国家公园，阿拉斯加州，美国 (© Patrick J. Endres/Getty Images)",
         "color": {
           "Vibrant": "#ad8a54",
           "DarkVibrant": "#14394c",
@@ -4014,7 +4205,6 @@
       },
       {
         "key": 192,
-        "time": "2024-06-09",
         "url": {
           "gaussian": "image/bing/2024-06-09/gaussian.jpg",
           "greyscale": "image/bing/2024-06-09/greyscale.jpg",
@@ -4022,7 +4212,9 @@
           "thumbnail": "image/bing/2024-06-09/thumbnail.jpg",
           "uhd": "image/bing/2024-06-09/uhd.jpg"
         },
+        "time": "2024-06-09",
         "title": "巴尔德纳斯雷亚尔斯自然公园，巴德纳斯，纳瓦拉，西班牙 (© Aliaume Chapelle/Tandem Stills + Motion)",
+        "copyright": "巴尔德纳斯雷亚尔斯自然公园，巴德纳斯，纳瓦拉，西班牙 (© Aliaume Chapelle/Tandem Stills + Motion)",
         "color": {
           "Vibrant": "#a9664a",
           "DarkVibrant": "#4c291c",
@@ -4035,7 +4227,6 @@
       },
       {
         "key": 193,
-        "time": "2024-06-10",
         "url": {
           "gaussian": "image/bing/2024-06-10/gaussian.jpg",
           "greyscale": "image/bing/2024-06-10/greyscale.jpg",
@@ -4043,7 +4234,9 @@
           "thumbnail": "image/bing/2024-06-10/thumbnail.jpg",
           "uhd": "image/bing/2024-06-10/uhd.jpg"
         },
+        "time": "2024-06-10",
         "title": "龙舟池日出，集美区，厦门，中国 (© outcast85/Getty images)",
+        "copyright": "龙舟池日出，集美区，厦门，中国 (© outcast85/Getty images)",
         "color": {
           "Vibrant": "#e4a430",
           "DarkVibrant": "#a14d2d",
@@ -4056,7 +4249,6 @@
       },
       {
         "key": 194,
-        "time": "2024-06-11",
         "url": {
           "gaussian": "image/bing/2024-06-11/gaussian.jpg",
           "greyscale": "image/bing/2024-06-11/greyscale.jpg",
@@ -4064,7 +4256,9 @@
           "thumbnail": "image/bing/2024-06-11/thumbnail.jpg",
           "uhd": "image/bing/2024-06-11/uhd.jpg"
         },
+        "time": "2024-06-11",
         "title": "热带稀树草原上的南非剑羚，博茨瓦纳大草原 (© Karine Aigner/Tandem Stills + Motion)",
+        "copyright": "热带稀树草原上的南非剑羚，博茨瓦纳大草原 (© Karine Aigner/Tandem Stills + Motion)",
         "color": {
           "Vibrant": "#cc8c60",
           "DarkVibrant": "#573a28",
@@ -4077,7 +4271,6 @@
       },
       {
         "key": 195,
-        "time": "2024-06-12",
         "url": {
           "gaussian": "image/bing/2024-06-12/gaussian.jpg",
           "greyscale": "image/bing/2024-06-12/greyscale.jpg",
@@ -4085,7 +4278,9 @@
           "thumbnail": "image/bing/2024-06-12/thumbnail.jpg",
           "uhd": "image/bing/2024-06-12/uhd.jpg"
         },
+        "time": "2024-06-12",
         "title": "大弯国家公园上空的银河，得克萨斯州，美国 (© wisanuboonrawd/Adobe Stock)",
+        "copyright": "大弯国家公园上空的银河，得克萨斯州，美国 (© wisanuboonrawd/Adobe Stock)",
         "color": {
           "Vibrant": "#476cb8",
           "DarkVibrant": "#24375e",
@@ -4098,7 +4293,6 @@
       },
       {
         "key": 196,
-        "time": "2024-06-13",
         "url": {
           "gaussian": "image/bing/2024-06-13/gaussian.jpg",
           "greyscale": "image/bing/2024-06-13/greyscale.jpg",
@@ -4106,7 +4300,9 @@
           "thumbnail": "image/bing/2024-06-13/thumbnail.jpg",
           "uhd": "image/bing/2024-06-13/uhd.jpg"
         },
+        "time": "2024-06-13",
         "title": "雷吉斯坦广场的外立面马赛克，撒马尔罕，乌兹别克斯坦撒 (© da-kuk/Getty Images)",
+        "copyright": "雷吉斯坦广场的外立面马赛克，撒马尔罕，乌兹别克斯坦撒 (© da-kuk/Getty Images)",
         "color": {
           "Vibrant": "#1e82c3",
           "DarkVibrant": "#84441a",
@@ -4119,7 +4315,6 @@
       },
       {
         "key": 197,
-        "time": "2024-06-14",
         "url": {
           "gaussian": "image/bing/2024-06-14/gaussian.jpg",
           "greyscale": "image/bing/2024-06-14/greyscale.jpg",
@@ -4127,7 +4322,9 @@
           "thumbnail": "image/bing/2024-06-14/thumbnail.jpg",
           "uhd": "image/bing/2024-06-14/uhd.jpg"
         },
+        "time": "2024-06-14",
         "title": "佩姬湾灯塔，新斯科舍省，加拿大 (© Pugalenthi/Getty Images)",
+        "copyright": "佩姬湾灯塔，新斯科舍省，加拿大 (© Pugalenthi/Getty Images)",
         "color": {
           "Vibrant": "#d69b2e",
           "DarkVibrant": "#084062",
@@ -4140,7 +4337,6 @@
       },
       {
         "key": 198,
-        "time": "2024-06-15",
         "url": {
           "gaussian": "image/bing/2024-06-15/gaussian.jpg",
           "greyscale": "image/bing/2024-06-15/greyscale.jpg",
@@ -4148,7 +4344,9 @@
           "thumbnail": "image/bing/2024-06-15/thumbnail.jpg",
           "uhd": "image/bing/2024-06-15/uhd.jpg"
         },
+        "time": "2024-06-15",
         "title": "在纳扎雷冲浪的冲浪者，葡萄牙 (© Rui Caria/Getty Images)",
+        "copyright": "在纳扎雷冲浪的冲浪者，葡萄牙 (© Rui Caria/Getty Images)",
         "color": {
           "Vibrant": "#4c88b3",
           "DarkVibrant": "#172936",
@@ -4161,7 +4359,6 @@
       },
       {
         "key": 199,
-        "time": "2024-06-16",
         "url": {
           "gaussian": "image/bing/2024-06-16/gaussian.jpg",
           "greyscale": "image/bing/2024-06-16/greyscale.jpg",
@@ -4169,7 +4366,9 @@
           "thumbnail": "image/bing/2024-06-16/thumbnail.jpg",
           "uhd": "image/bing/2024-06-16/uhd.jpg"
         },
+        "time": "2024-06-16",
         "title": "赤狐父子，华盛顿，美国 (© Chase Dekker/Minden Pictures)",
+        "copyright": "赤狐父子，华盛顿，美国 (© Chase Dekker/Minden Pictures)",
         "color": {
           "Vibrant": "#a58e41",
           "DarkVibrant": "#5b7216",
@@ -4182,7 +4381,6 @@
       },
       {
         "key": 200,
-        "time": "2024-06-17",
         "url": {
           "gaussian": "image/bing/2024-06-17/gaussian.jpg",
           "greyscale": "image/bing/2024-06-17/greyscale.jpg",
@@ -4190,7 +4388,9 @@
           "thumbnail": "image/bing/2024-06-17/thumbnail.jpg",
           "uhd": "image/bing/2024-06-17/uhd.jpg"
         },
+        "time": "2024-06-17",
         "title": "绿顶辉蜂鸟与巨型蓟，穆埃尔特山，哥斯达黎加 (© adrian hepworth/Alamy Stock Photo)",
+        "copyright": "绿顶辉蜂鸟与巨型蓟，穆埃尔特山，哥斯达黎加 (© adrian hepworth/Alamy Stock Photo)",
         "color": {
           "Vibrant": "#9f8b4b",
           "DarkVibrant": "#615415",
@@ -4203,7 +4403,6 @@
       },
       {
         "key": 201,
-        "time": "2024-06-18",
         "url": {
           "gaussian": "image/bing/2024-06-18/gaussian.jpg",
           "greyscale": "image/bing/2024-06-18/greyscale.jpg",
@@ -4211,7 +4410,9 @@
           "thumbnail": "image/bing/2024-06-18/thumbnail.jpg",
           "uhd": "image/bing/2024-06-18/uhd.jpg"
         },
+        "time": "2024-06-18",
         "title": "日出时的羽扇豆田和教堂，斯奈山半岛，冰岛 (© Matteo Colombo/Getty Images)",
+        "copyright": "日出时的羽扇豆田和教堂，斯奈山半岛，冰岛 (© Matteo Colombo/Getty Images)",
         "color": {
           "Vibrant": "#c5363c",
           "DarkVibrant": "#203471",
@@ -4224,7 +4425,6 @@
       },
       {
         "key": 202,
-        "time": "2024-06-19",
         "url": {
           "gaussian": "image/bing/2024-06-19/gaussian.jpg",
           "greyscale": "image/bing/2024-06-19/greyscale.jpg",
@@ -4232,7 +4432,9 @@
           "thumbnail": "image/bing/2024-06-19/thumbnail.jpg",
           "uhd": "image/bing/2024-06-19/uhd.jpg"
         },
+        "time": "2024-06-19",
         "title": "库克斯港的水塔，德国 (© Andreas Vogel/Alamy)",
+        "copyright": "库克斯港的水塔，德国 (© Andreas Vogel/Alamy)",
         "color": {
           "Vibrant": "#3e97cc",
           "DarkVibrant": "#044474",
@@ -4245,7 +4447,6 @@
       },
       {
         "key": 203,
-        "time": "2024-06-20",
         "url": {
           "gaussian": "image/bing/2024-06-20/gaussian.jpg",
           "greyscale": "image/bing/2024-06-20/greyscale.jpg",
@@ -4253,7 +4454,9 @@
           "thumbnail": "image/bing/2024-06-20/thumbnail.jpg",
           "uhd": "image/bing/2024-06-20/uhd.jpg"
         },
+        "time": "2024-06-20",
         "title": "科基诺，古代巨石观测站，北马其顿 (© stoimilov/Shutterstock)",
+        "copyright": "科基诺，古代巨石观测站，北马其顿 (© stoimilov/Shutterstock)",
         "color": {
           "Vibrant": "#0573bb",
           "DarkVibrant": "#045aa4",
@@ -4266,7 +4469,6 @@
       },
       {
         "key": 204,
-        "time": "2024-06-21",
         "url": {
           "gaussian": "image/bing/2024-06-21/gaussian.jpg",
           "greyscale": "image/bing/2024-06-21/greyscale.jpg",
@@ -4274,7 +4476,9 @@
           "thumbnail": "image/bing/2024-06-21/thumbnail.jpg",
           "uhd": "image/bing/2024-06-21/uhd.jpg"
         },
+        "time": "2024-06-21",
         "title": "蓝色水面上的渔船航拍图，郴州市，湖南省，中国 (© Haitong Yu/Getty images)",
+        "copyright": "蓝色水面上的渔船航拍图，郴州市，湖南省，中国 (© Haitong Yu/Getty images)",
         "color": {
           "Vibrant": "#0a8fa6",
           "DarkVibrant": "#046b79",
@@ -4287,7 +4491,6 @@
       },
       {
         "key": 205,
-        "time": "2024-06-22",
         "url": {
           "gaussian": "image/bing/2024-06-22/gaussian.jpg",
           "greyscale": "image/bing/2024-06-22/greyscale.jpg",
@@ -4295,7 +4498,9 @@
           "thumbnail": "image/bing/2024-06-22/thumbnail.jpg",
           "uhd": "image/bing/2024-06-22/uhd.jpg"
         },
+        "time": "2024-06-22",
         "title": "亚马逊雨林，巴西 (© Claus Meyer/plainpicture)",
+        "copyright": "亚马逊雨林，巴西 (© Claus Meyer/plainpicture)",
         "color": {
           "Vibrant": "#f1bd6c",
           "DarkVibrant": "#5d4224",
@@ -4308,7 +4513,6 @@
       },
       {
         "key": 206,
-        "time": "2024-06-23",
         "url": {
           "gaussian": "image/bing/2024-06-23/gaussian.jpg",
           "greyscale": "image/bing/2024-06-23/greyscale.jpg",
@@ -4316,7 +4520,9 @@
           "thumbnail": "image/bing/2024-06-23/thumbnail.jpg",
           "uhd": "image/bing/2024-06-23/uhd.jpg"
         },
+        "time": "2024-06-23",
         "title": "达卡环形交叉路口的鸟瞰图，孟加拉国 (© Azim Khan Ronnie/Amazing Aerial Agency)",
+        "copyright": "达卡环形交叉路口的鸟瞰图，孟加拉国 (© Azim Khan Ronnie/Amazing Aerial Agency)",
         "color": {
           "Vibrant": "#d7851a",
           "DarkVibrant": "#665311",
@@ -4329,7 +4535,6 @@
       },
       {
         "key": 207,
-        "time": "2024-06-24",
         "url": {
           "gaussian": "image/bing/2024-06-24/gaussian.jpg",
           "greyscale": "image/bing/2024-06-24/greyscale.jpg",
@@ -4337,7 +4542,9 @@
           "thumbnail": "image/bing/2024-06-24/thumbnail.jpg",
           "uhd": "image/bing/2024-06-24/uhd.jpg"
         },
+        "time": "2024-06-24",
         "title": "克里穆图的火山口湖，弗洛勒斯岛，印度尼西亚 (© Shane P. White/Minden Pictures)",
+        "copyright": "克里穆图的火山口湖，弗洛勒斯岛，印度尼西亚 (© Shane P. White/Minden Pictures)",
         "color": {
           "Vibrant": "#0476b9",
           "DarkVibrant": "#055cb5",
@@ -4350,7 +4557,6 @@
       },
       {
         "key": 208,
-        "time": "2024-06-25",
         "url": {
           "gaussian": "image/bing/2024-06-25/gaussian.jpg",
           "greyscale": "image/bing/2024-06-25/greyscale.jpg",
@@ -4358,7 +4564,9 @@
           "thumbnail": "image/bing/2024-06-25/thumbnail.jpg",
           "uhd": "image/bing/2024-06-25/uhd.jpg"
         },
+        "time": "2024-06-25",
         "title": "火浪岩层，火焰谷州立公园，内华达州，美国 (© Clint Losee/Tandem Stills + Motion)",
+        "copyright": "火浪岩层，火焰谷州立公园，内华达州，美国 (© Clint Losee/Tandem Stills + Motion)",
         "color": {
           "Vibrant": "#d43c04",
           "DarkVibrant": "#7a2004",
@@ -4371,7 +4579,6 @@
       },
       {
         "key": 209,
-        "time": "2024-06-26",
         "url": {
           "gaussian": "image/bing/2024-06-26/gaussian.jpg",
           "greyscale": "image/bing/2024-06-26/greyscale.jpg",
@@ -4379,7 +4586,9 @@
           "thumbnail": "image/bing/2024-06-26/thumbnail.jpg",
           "uhd": "image/bing/2024-06-26/uhd.jpg"
         },
+        "time": "2024-06-26",
         "title": "考氏鳍竺鲷与海葵，蓝碧海峡，北苏拉威西，印度尼西亚 (© Constantinos Petrinos/NPL/Minden Pictures)",
+        "copyright": "考氏鳍竺鲷与海葵，蓝碧海峡，北苏拉威西，印度尼西亚 (© Constantinos Petrinos/NPL/Minden Pictures)",
         "color": {
           "Vibrant": "#b46404",
           "DarkVibrant": "#844404",
@@ -4392,7 +4601,6 @@
       },
       {
         "key": 210,
-        "time": "2024-06-27",
         "url": {
           "gaussian": "image/bing/2024-06-27/gaussian.jpg",
           "greyscale": "image/bing/2024-06-27/greyscale.jpg",
@@ -4400,7 +4608,9 @@
           "thumbnail": "image/bing/2024-06-27/thumbnail.jpg",
           "uhd": "image/bing/2024-06-27/uhd.jpg"
         },
+        "time": "2024-06-27",
         "title": "黄昏时分的圣母百花大教堂，佛罗伦萨，意大利 (© Elena Pueyo/Getty Images)",
+        "copyright": "黄昏时分的圣母百花大教堂，佛罗伦萨，意大利 (© Elena Pueyo/Getty Images)",
         "color": {
           "Vibrant": "#184ba1",
           "DarkVibrant": "#0b479b",
@@ -4413,7 +4623,6 @@
       },
       {
         "key": 211,
-        "time": "2024-06-28",
         "url": {
           "gaussian": "image/bing/2024-06-28/gaussian.jpg",
           "greyscale": "image/bing/2024-06-28/greyscale.jpg",
@@ -4421,7 +4630,9 @@
           "thumbnail": "image/bing/2024-06-28/thumbnail.jpg",
           "uhd": "image/bing/2024-06-28/uhd.jpg"
         },
+        "time": "2024-06-28",
         "title": "诺曼底海岸的绍塞群岛，法国 (© Tuul & Bruno Morandi/Getty Images)",
+        "copyright": "诺曼底海岸的绍塞群岛，法国 (© Tuul & Bruno Morandi/Getty Images)",
         "color": {
           "Vibrant": "#0484c2",
           "DarkVibrant": "#048b81",
@@ -4434,7 +4645,6 @@
       },
       {
         "key": 212,
-        "time": "2024-06-29",
         "url": {
           "gaussian": "image/bing/2024-06-29/gaussian.jpg",
           "greyscale": "image/bing/2024-06-29/greyscale.jpg",
@@ -4442,7 +4652,9 @@
           "thumbnail": "image/bing/2024-06-29/thumbnail.jpg",
           "uhd": "image/bing/2024-06-29/uhd.jpg"
         },
+        "time": "2024-06-29",
         "title": "宁哈根的山毛榉林，梅克伦堡-前波美拉尼亚州，德国 (© Martin Ruegner/Getty Images)",
+        "copyright": "宁哈根的山毛榉林，梅克伦堡-前波美拉尼亚州，德国 (© Martin Ruegner/Getty Images)",
         "color": {
           "Vibrant": "#b75c22",
           "DarkVibrant": "#943809",
@@ -4455,7 +4667,6 @@
       },
       {
         "key": 213,
-        "time": "2024-06-30",
         "url": {
           "gaussian": "image/bing/2024-06-30/gaussian.jpg",
           "greyscale": "image/bing/2024-06-30/greyscale.jpg",
@@ -4463,7 +4674,9 @@
           "thumbnail": "image/bing/2024-06-30/thumbnail.jpg",
           "uhd": "image/bing/2024-06-30/uhd.jpg"
         },
+        "time": "2024-06-30",
         "title": "乌布寺庙的石雕,巴厘岛,印度尼西亚 (© R. Schönebaum/plainpicture)",
+        "copyright": "乌布寺庙的石雕,巴厘岛,印度尼西亚 (© R. Schönebaum/plainpicture)",
         "color": {
           "Vibrant": "#ae9251",
           "DarkVibrant": "#382f1a",
@@ -4476,7 +4689,6 @@
       },
       {
         "key": 214,
-        "time": "2024-07-01",
         "url": {
           "gaussian": "image/bing/2024-07-01/gaussian.jpg",
           "greyscale": "image/bing/2024-07-01/greyscale.jpg",
@@ -4484,7 +4696,9 @@
           "thumbnail": "image/bing/2024-07-01/thumbnail.jpg",
           "uhd": "image/bing/2024-07-01/uhd.jpg"
         },
+        "time": "2024-07-01",
         "title": "菲斯加德灯塔，埃斯奎莫尔特港，科尔伍德，不列颠哥伦比亚省，加拿大 (© davemantel/Getty Images)",
+        "copyright": "菲斯加德灯塔，埃斯奎莫尔特港，科尔伍德，不列颠哥伦比亚省，加拿大 (© davemantel/Getty Images)",
         "color": {
           "Vibrant": "#0484bc",
           "DarkVibrant": "#0a3a7c",
@@ -4497,7 +4711,6 @@
       },
       {
         "key": 215,
-        "time": "2024-07-02",
         "url": {
           "gaussian": "image/bing/2024-07-02/gaussian.jpg",
           "greyscale": "image/bing/2024-07-02/greyscale.jpg",
@@ -4505,7 +4718,9 @@
           "thumbnail": "image/bing/2024-07-02/thumbnail.jpg",
           "uhd": "image/bing/2024-07-02/uhd.jpg"
         },
+        "time": "2024-07-02",
         "title": "意大利卡，桑蒂蓬塞的一座古罗马城市，塞维利亚，安达卢西亚，西班牙 (© Moses Palermo/Amazing Aerial Agency)",
+        "copyright": "意大利卡，桑蒂蓬塞的一座古罗马城市，塞维利亚，安达卢西亚，西班牙 (© Moses Palermo/Amazing Aerial Agency)",
         "color": {
           "Vibrant": "#c0a242",
           "DarkVibrant": "#445521",
@@ -4518,7 +4733,6 @@
       },
       {
         "key": 216,
-        "time": "2024-07-03",
         "url": {
           "gaussian": "image/bing/2024-07-03/gaussian.jpg",
           "greyscale": "image/bing/2024-07-03/greyscale.jpg",
@@ -4526,7 +4740,9 @@
           "thumbnail": "image/bing/2024-07-03/thumbnail.jpg",
           "uhd": "image/bing/2024-07-03/uhd.jpg"
         },
+        "time": "2024-07-03",
         "title": "猫鼬家族 (© anetapics/Shutterstock)",
+        "copyright": "猫鼬家族 (© anetapics/Shutterstock)",
         "color": {
           "Vibrant": "#c6913d",
           "DarkVibrant": "#836629",
@@ -4539,7 +4755,6 @@
       },
       {
         "key": 217,
-        "time": "2024-07-04",
         "url": {
           "gaussian": "image/bing/2024-07-04/gaussian.jpg",
           "greyscale": "image/bing/2024-07-04/greyscale.jpg",
@@ -4547,7 +4762,9 @@
           "thumbnail": "image/bing/2024-07-04/thumbnail.jpg",
           "uhd": "image/bing/2024-07-04/uhd.jpg"
         },
+        "time": "2024-07-04",
         "title": "扎哈拉德拉谢拉，安达卢西亚，西班牙 (© Francesco Carovillano/eStock Photo)",
+        "copyright": "扎哈拉德拉谢拉，安达卢西亚，西班牙 (© Francesco Carovillano/eStock Photo)",
         "color": {
           "Vibrant": "#d3a443",
           "DarkVibrant": "#766a12",
@@ -4560,7 +4777,6 @@
       },
       {
         "key": 218,
-        "time": "2024-07-05",
         "url": {
           "gaussian": "image/bing/2024-07-05/gaussian.jpg",
           "greyscale": "image/bing/2024-07-05/greyscale.jpg",
@@ -4568,7 +4784,9 @@
           "thumbnail": "image/bing/2024-07-05/thumbnail.jpg",
           "uhd": "image/bing/2024-07-05/uhd.jpg"
         },
+        "time": "2024-07-05",
         "title": "丹翠雨林的诺亚海滩，昆士兰州，澳大利亚 (© bjeayes/Getty Images)",
+        "copyright": "丹翠雨林的诺亚海滩，昆士兰州，澳大利亚 (© bjeayes/Getty Images)",
         "color": {
           "Vibrant": "#d7b618",
           "DarkVibrant": "#064180",
@@ -4581,7 +4799,6 @@
       },
       {
         "key": 219,
-        "time": "2024-07-06",
         "url": {
           "gaussian": "image/bing/2024-07-06/gaussian.jpg",
           "greyscale": "image/bing/2024-07-06/greyscale.jpg",
@@ -4589,7 +4806,9 @@
           "thumbnail": "image/bing/2024-07-06/thumbnail.jpg",
           "uhd": "image/bing/2024-07-06/uhd.jpg"
         },
+        "time": "2024-07-06",
         "title": "从康威河眺望康威城堡，威尔士 (© David Chapman/Alamy Stock Photo)",
+        "copyright": "从康威河眺望康威城堡，威尔士 (© David Chapman/Alamy Stock Photo)",
         "color": {
           "Vibrant": "#0484ec",
           "DarkVibrant": "#056aa9",
@@ -4602,7 +4821,6 @@
       },
       {
         "key": 220,
-        "time": "2024-07-07",
         "url": {
           "gaussian": "image/bing/2024-07-07/gaussian.jpg",
           "greyscale": "image/bing/2024-07-07/greyscale.jpg",
@@ -4610,7 +4828,9 @@
           "thumbnail": "image/bing/2024-07-07/thumbnail.jpg",
           "uhd": "image/bing/2024-07-07/uhd.jpg"
         },
+        "time": "2024-07-07",
         "title": "越南安沛省木仓寨的水稻梯田 (© Kiatanan Sugsompian/Getty Images)",
+        "copyright": "越南安沛省木仓寨的水稻梯田 (© Kiatanan Sugsompian/Getty Images)",
         "color": {
           "Vibrant": "#9cb549",
           "DarkVibrant": "#49660b",
@@ -4623,7 +4843,6 @@
       },
       {
         "key": 221,
-        "time": "2024-07-08",
         "url": {
           "gaussian": "image/bing/2024-07-08/gaussian.jpg",
           "greyscale": "image/bing/2024-07-08/greyscale.jpg",
@@ -4631,7 +4850,9 @@
           "thumbnail": "image/bing/2024-07-08/thumbnail.jpg",
           "uhd": "image/bing/2024-07-08/uhd.jpg"
         },
+        "time": "2024-07-08",
         "title": "野生蓝莓 (© Baac3nes/Getty Images)",
+        "copyright": "野生蓝莓 (© Baac3nes/Getty Images)",
         "color": {
           "Vibrant": "#9ea510",
           "DarkVibrant": "#848a06",
@@ -4644,7 +4865,6 @@
       },
       {
         "key": 222,
-        "time": "2024-07-09",
         "url": {
           "gaussian": "image/bing/2024-07-09/gaussian.jpg",
           "greyscale": "image/bing/2024-07-09/greyscale.jpg",
@@ -4652,7 +4872,9 @@
           "thumbnail": "image/bing/2024-07-09/thumbnail.jpg",
           "uhd": "image/bing/2024-07-09/uhd.jpg"
         },
+        "time": "2024-07-09",
         "title": "阿根廷拉里奥哈省塔兰帕亚国家公园 (© Gonzalo Azumendi/Getty Images)",
+        "copyright": "阿根廷拉里奥哈省塔兰帕亚国家公园 (© Gonzalo Azumendi/Getty Images)",
         "color": {
           "Vibrant": "#c87142",
           "DarkVibrant": "#84380c",
@@ -4665,7 +4887,6 @@
       },
       {
         "key": 223,
-        "time": "2024-07-10",
         "url": {
           "gaussian": "image/bing/2024-07-10/gaussian.jpg",
           "greyscale": "image/bing/2024-07-10/greyscale.jpg",
@@ -4673,7 +4894,9 @@
           "thumbnail": "image/bing/2024-07-10/thumbnail.jpg",
           "uhd": "image/bing/2024-07-10/uhd.jpg"
         },
+        "time": "2024-07-10",
         "title": "领簇舌巨嘴鸟，哥斯达黎加 (© Juan Carlos Vindas/Getty Images)",
+        "copyright": "领簇舌巨嘴鸟，哥斯达黎加 (© Juan Carlos Vindas/Getty Images)",
         "color": {
           "Vibrant": "#6ca805",
           "DarkVibrant": "#4f620e",
@@ -4686,7 +4909,6 @@
       },
       {
         "key": 224,
-        "time": "2024-07-11",
         "url": {
           "gaussian": "image/bing/2024-07-11/gaussian.jpg",
           "greyscale": "image/bing/2024-07-11/greyscale.jpg",
@@ -4694,7 +4916,9 @@
           "thumbnail": "image/bing/2024-07-11/thumbnail.jpg",
           "uhd": "image/bing/2024-07-11/uhd.jpg"
         },
+        "time": "2024-07-11",
         "title": "甘吉，西西里岛，意大利 (© Andrea Caruso/Amazing Aerial Agency)",
+        "copyright": "甘吉，西西里岛，意大利 (© Andrea Caruso/Amazing Aerial Agency)",
         "color": {
           "Vibrant": "#eead47",
           "DarkVibrant": "#7d4811",
@@ -4707,7 +4931,6 @@
       },
       {
         "key": 225,
-        "time": "2024-07-12",
         "url": {
           "gaussian": "image/bing/2024-07-12/gaussian.jpg",
           "greyscale": "image/bing/2024-07-12/greyscale.jpg",
@@ -4715,7 +4938,9 @@
           "thumbnail": "image/bing/2024-07-12/thumbnail.jpg",
           "uhd": "image/bing/2024-07-12/uhd.jpg"
         },
+        "time": "2024-07-12",
         "title": "雷尼尔山国家公园的野花，华盛顿州，美国 (© RomanKhomlyak/Getty Images)",
+        "copyright": "雷尼尔山国家公园的野花，华盛顿州，美国 (© RomanKhomlyak/Getty Images)",
         "color": {
           "Vibrant": "#c2ad28",
           "DarkVibrant": "#666610",
@@ -4728,7 +4953,6 @@
       },
       {
         "key": 226,
-        "time": "2024-07-13",
         "url": {
           "gaussian": "image/bing/2024-07-13/gaussian.jpg",
           "greyscale": "image/bing/2024-07-13/greyscale.jpg",
@@ -4736,7 +4960,9 @@
           "thumbnail": "image/bing/2024-07-13/thumbnail.jpg",
           "uhd": "image/bing/2024-07-13/uhd.jpg"
         },
+        "time": "2024-07-13",
         "title": "卡帕多西亚的童话烟囱和窑洞，土耳其 (© Storm Is Me/Shutterstock)",
+        "copyright": "卡帕多西亚的童话烟囱和窑洞，土耳其 (© Storm Is Me/Shutterstock)",
         "color": {
           "Vibrant": "#d49464",
           "DarkVibrant": "#683d1d",
@@ -4749,7 +4975,6 @@
       },
       {
         "key": 227,
-        "time": "2024-07-14",
         "url": {
           "gaussian": "image/bing/2024-07-14/gaussian.jpg",
           "greyscale": "image/bing/2024-07-14/greyscale.jpg",
@@ -4757,7 +4982,9 @@
           "thumbnail": "image/bing/2024-07-14/thumbnail.jpg",
           "uhd": "image/bing/2024-07-14/uhd.jpg"
         },
+        "time": "2024-07-14",
         "title": "女王花园群岛的镰形真鲨，古巴 (© Christian Vizl/Tandem Stills + Motion)",
+        "copyright": "女王花园群岛的镰形真鲨，古巴 (© Christian Vizl/Tandem Stills + Motion)",
         "color": {
           "Vibrant": "#046cc4",
           "DarkVibrant": "#0454a5",
@@ -4770,7 +4997,6 @@
       },
       {
         "key": 228,
-        "time": "2024-07-15",
         "url": {
           "gaussian": "image/bing/2024-07-15/gaussian.jpg",
           "greyscale": "image/bing/2024-07-15/greyscale.jpg",
@@ -4778,7 +5004,9 @@
           "thumbnail": "image/bing/2024-07-15/thumbnail.jpg",
           "uhd": "image/bing/2024-07-15/uhd.jpg"
         },
+        "time": "2024-07-15",
         "title": "立石公园，神奈川县，日本 (© blew_s/Shutterstock)",
+        "copyright": "立石公园，神奈川县，日本 (© blew_s/Shutterstock)",
         "color": {
           "Vibrant": "#3f61af",
           "DarkVibrant": "#174a91",
@@ -4791,7 +5019,6 @@
       },
       {
         "key": 229,
-        "time": "2024-07-16",
         "url": {
           "gaussian": "image/bing/2024-07-16/gaussian.jpg",
           "greyscale": "image/bing/2024-07-16/greyscale.jpg",
@@ -4799,7 +5026,9 @@
           "thumbnail": "image/bing/2024-07-16/thumbnail.jpg",
           "uhd": "image/bing/2024-07-16/uhd.jpg"
         },
+        "time": "2024-07-16",
         "title": "斯卡拉布雷的新石器时代遗迹,奥克尼群岛,苏格兰 (© Paul Williams - FunkyStock/Getty Images)",
+        "copyright": "斯卡拉布雷的新石器时代遗迹,奥克尼群岛,苏格兰 (© Paul Williams - FunkyStock/Getty Images)",
         "color": {
           "Vibrant": "#1480c0",
           "DarkVibrant": "#75880b",
@@ -4812,7 +5041,6 @@
       },
       {
         "key": 230,
-        "time": "2024-07-17",
         "url": {
           "gaussian": "image/bing/2024-07-17/gaussian.jpg",
           "greyscale": "image/bing/2024-07-17/greyscale.jpg",
@@ -4820,7 +5048,9 @@
           "thumbnail": "image/bing/2024-07-17/thumbnail.jpg",
           "uhd": "image/bing/2024-07-17/uhd.jpg"
         },
+        "time": "2024-07-17",
         "title": "德国中世纪城市罗滕堡 (© kanuman/Getty Images)",
+        "copyright": "德国中世纪城市罗滕堡 (© kanuman/Getty Images)",
         "color": {
           "Vibrant": "#1381e6",
           "DarkVibrant": "#814e0a",
@@ -4833,7 +5063,6 @@
       },
       {
         "key": 231,
-        "time": "2024-07-18",
         "url": {
           "gaussian": "image/bing/2024-07-18/gaussian.jpg",
           "greyscale": "image/bing/2024-07-18/greyscale.jpg",
@@ -4841,7 +5070,9 @@
           "thumbnail": "image/bing/2024-07-18/thumbnail.jpg",
           "uhd": "image/bing/2024-07-18/uhd.jpg"
         },
+        "time": "2024-07-18",
         "title": "Coral reef in the Indian Ocean, Mayotte, France (© Gabriel Barathieu/Minden Pictures)",
+        "copyright": "Coral reef in the Indian Ocean, Mayotte, France (© Gabriel Barathieu/Minden Pictures)",
         "color": {
           "Vibrant": "#2793e0",
           "DarkVibrant": "#104369",
@@ -4854,7 +5085,6 @@
       },
       {
         "key": 232,
-        "time": "2024-07-19",
         "url": {
           "gaussian": "image/bing/2024-07-19/gaussian.jpg",
           "greyscale": "image/bing/2024-07-19/greyscale.jpg",
@@ -4862,7 +5092,9 @@
           "thumbnail": "image/bing/2024-07-19/thumbnail.jpg",
           "uhd": "image/bing/2024-07-19/uhd.jpg"
         },
+        "time": "2024-07-19",
         "title": "河岸上的一只年轻美洲虎，潘塔纳尔，巴西 (© Tambako the Jaguar/Getty Images)",
+        "copyright": "河岸上的一只年轻美洲虎，潘塔纳尔，巴西 (© Tambako the Jaguar/Getty Images)",
         "color": {
           "Vibrant": "#cfe02b",
           "DarkVibrant": "#52751c",
@@ -4875,7 +5107,6 @@
       },
       {
         "key": 233,
-        "time": "2024-07-20",
         "url": {
           "gaussian": "image/bing/2024-07-20/gaussian.jpg",
           "greyscale": "image/bing/2024-07-20/greyscale.jpg",
@@ -4883,7 +5114,9 @@
           "thumbnail": "image/bing/2024-07-20/thumbnail.jpg",
           "uhd": "image/bing/2024-07-20/uhd.jpg"
         },
+        "time": "2024-07-20",
         "title": "月球 (© Victor Blum/Getty Images)",
+        "copyright": "月球 (© Victor Blum/Getty Images)",
         "color": {
           "Vibrant": "#688997",
           "DarkVibrant": "#36474f",
@@ -4896,7 +5129,6 @@
       },
       {
         "key": 234,
-        "time": "2024-07-21",
         "url": {
           "gaussian": "image/bing/2024-07-21/gaussian.jpg",
           "greyscale": "image/bing/2024-07-21/greyscale.jpg",
@@ -4904,7 +5136,9 @@
           "thumbnail": "image/bing/2024-07-21/thumbnail.jpg",
           "uhd": "image/bing/2024-07-21/uhd.jpg"
         },
+        "time": "2024-07-21",
         "title": "肯杜瓦村的木制渔船，桑给巴尔，坦桑尼亚 (© Lubos Paukeje/Alamy Stock Photo)",
+        "copyright": "肯杜瓦村的木制渔船，桑给巴尔，坦桑尼亚 (© Lubos Paukeje/Alamy Stock Photo)",
         "color": {
           "Vibrant": "#04a4b4",
           "DarkVibrant": "#04809b",
@@ -4917,7 +5151,6 @@
       },
       {
         "key": 235,
-        "time": "2024-07-22",
         "url": {
           "gaussian": "image/bing/2024-07-22/gaussian.jpg",
           "greyscale": "image/bing/2024-07-22/greyscale.jpg",
@@ -4925,7 +5158,9 @@
           "thumbnail": "image/bing/2024-07-22/thumbnail.jpg",
           "uhd": "image/bing/2024-07-22/uhd.jpg"
         },
+        "time": "2024-07-22",
         "title": "树上的中国小熊猫, 成都, 四川省, 中国 (© Jackyenjoyphotography/Getty Images)",
+        "copyright": "树上的中国小熊猫, 成都, 四川省, 中国 (© Jackyenjoyphotography/Getty Images)",
         "color": {
           "Vibrant": "#bd7028",
           "DarkVibrant": "#098259",
@@ -4938,7 +5173,6 @@
       },
       {
         "key": 236,
-        "time": "2024-07-23",
         "url": {
           "gaussian": "image/bing/2024-07-23/gaussian.jpg",
           "greyscale": "image/bing/2024-07-23/greyscale.jpg",
@@ -4946,7 +5180,9 @@
           "thumbnail": "image/bing/2024-07-23/thumbnail.jpg",
           "uhd": "image/bing/2024-07-23/uhd.jpg"
         },
+        "time": "2024-07-23",
         "title": "迈索尼城堡，麦西尼亚州，希腊 (© Andrew Mayovskyy/Shutterstock)",
+        "copyright": "迈索尼城堡，麦西尼亚州，希腊 (© Andrew Mayovskyy/Shutterstock)",
         "color": {
           "Vibrant": "#ee9965",
           "DarkVibrant": "#04655a",
@@ -4959,7 +5195,6 @@
       },
       {
         "key": 237,
-        "time": "2024-07-24",
         "url": {
           "gaussian": "image/bing/2024-07-24/gaussian.jpg",
           "greyscale": "image/bing/2024-07-24/greyscale.jpg",
@@ -4967,7 +5202,9 @@
           "thumbnail": "image/bing/2024-07-24/thumbnail.jpg",
           "uhd": "image/bing/2024-07-24/uhd.jpg"
         },
+        "time": "2024-07-24",
         "title": "北约克郡的黑面羊羊群，英格兰 (© R A Kearton/Getty Images)",
+        "copyright": "北约克郡的黑面羊羊群，英格兰 (© R A Kearton/Getty Images)",
         "color": {
           "Vibrant": "#b4b052",
           "DarkVibrant": "#516013",
@@ -4980,7 +5217,6 @@
       },
       {
         "key": 238,
-        "time": "2024-07-25",
         "url": {
           "gaussian": "image/bing/2024-07-25/gaussian.jpg",
           "greyscale": "image/bing/2024-07-25/greyscale.jpg",
@@ -4988,7 +5224,9 @@
           "thumbnail": "image/bing/2024-07-25/thumbnail.jpg",
           "uhd": "image/bing/2024-07-25/uhd.jpg"
         },
+        "time": "2024-07-25",
         "title": "大烟山国家公园的森林小道，田纳西州，美国 (© putmanphoto/Getty Images)",
+        "copyright": "大烟山国家公园的森林小道，田纳西州，美国 (© putmanphoto/Getty Images)",
         "color": {
           "Vibrant": "#95bb37",
           "DarkVibrant": "#547312",
@@ -5001,7 +5239,6 @@
       },
       {
         "key": 239,
-        "time": "2024-07-26",
         "url": {
           "gaussian": "image/bing/2024-07-26/gaussian.jpg",
           "greyscale": "image/bing/2024-07-26/greyscale.jpg",
@@ -5009,7 +5246,9 @@
           "thumbnail": "image/bing/2024-07-26/thumbnail.jpg",
           "uhd": "image/bing/2024-07-26/uhd.jpg"
         },
+        "time": "2024-07-26",
         "title": "塞纳河上的新桥，巴黎，法国 (© f11photo/Getty Images)",
+        "copyright": "塞纳河上的新桥，巴黎，法国 (© f11photo/Getty Images)",
         "color": {
           "Vibrant": "#f9ba6a",
           "DarkVibrant": "#704c31",
@@ -5022,7 +5261,6 @@
       },
       {
         "key": 240,
-        "time": "2024-07-27",
         "url": {
           "gaussian": "image/bing/2024-07-27/gaussian.jpg",
           "greyscale": "image/bing/2024-07-27/greyscale.jpg",
@@ -5030,7 +5268,9 @@
           "thumbnail": "image/bing/2024-07-27/thumbnail.jpg",
           "uhd": "image/bing/2024-07-27/uhd.jpg"
         },
+        "time": "2024-07-27",
         "title": "摩泽尔河谷的葡萄园，莱茵兰-法尔茨，德国 (© Jorg Greuel/Getty Images)",
+        "copyright": "摩泽尔河谷的葡萄园，莱茵兰-法尔茨，德国 (© Jorg Greuel/Getty Images)",
         "color": {
           "Vibrant": "#a2a814",
           "DarkVibrant": "#717d04",
@@ -5043,7 +5283,6 @@
       },
       {
         "key": 241,
-        "time": "2024-07-28",
         "url": {
           "gaussian": "image/bing/2024-07-28/gaussian.jpg",
           "greyscale": "image/bing/2024-07-28/greyscale.jpg",
@@ -5051,7 +5290,9 @@
           "thumbnail": "image/bing/2024-07-28/thumbnail.jpg",
           "uhd": "image/bing/2024-07-28/uhd.jpg"
         },
+        "time": "2024-07-28",
         "title": "斯科讷省海滩上的浴场小屋，瑞典 (© Martin Wahlborg/Getty Images)",
+        "copyright": "斯科讷省海滩上的浴场小屋，瑞典 (© Martin Wahlborg/Getty Images)",
         "color": {
           "Vibrant": "#eca830",
           "DarkVibrant": "#a69624",
@@ -5064,7 +5305,6 @@
       },
       {
         "key": 242,
-        "time": "2024-07-29",
         "url": {
           "gaussian": "image/bing/2024-07-29/gaussian.jpg",
           "greyscale": "image/bing/2024-07-29/greyscale.jpg",
@@ -5072,7 +5312,9 @@
           "thumbnail": "image/bing/2024-07-29/thumbnail.jpg",
           "uhd": "image/bing/2024-07-29/uhd.jpg"
         },
+        "time": "2024-07-29",
         "title": "科贝国家公园的老虎兄弟，北阿坎德邦，印度 (© Sourabh Bharti/Getty Images)",
+        "copyright": "科贝国家公园的老虎兄弟，北阿坎德邦，印度 (© Sourabh Bharti/Getty Images)",
         "color": {
           "Vibrant": "#ae7250",
           "DarkVibrant": "#693219",
@@ -5085,7 +5327,6 @@
       },
       {
         "key": 243,
-        "time": "2024-07-30",
         "url": {
           "gaussian": "image/bing/2024-07-30/gaussian.jpg",
           "greyscale": "image/bing/2024-07-30/greyscale.jpg",
@@ -5093,7 +5334,9 @@
           "thumbnail": "image/bing/2024-07-30/thumbnail.jpg",
           "uhd": "image/bing/2024-07-30/uhd.jpg"
         },
+        "time": "2024-07-30",
         "title": "圣吉米尼亚诺，锡耶纳，托斯卡纳大区，意大利亚 (© MNStudio/Shutterstock)",
+        "copyright": "圣吉米尼亚诺，锡耶纳，托斯卡纳大区，意大利亚 (© MNStudio/Shutterstock)",
         "color": {
           "Vibrant": "#a9b82b",
           "DarkVibrant": "#6b7016",
@@ -5106,7 +5349,6 @@
       },
       {
         "key": 244,
-        "time": "2024-07-31",
         "url": {
           "gaussian": "image/bing/2024-07-31/gaussian.jpg",
           "greyscale": "image/bing/2024-07-31/greyscale.jpg",
@@ -5114,7 +5356,9 @@
           "thumbnail": "image/bing/2024-07-31/thumbnail.jpg",
           "uhd": "image/bing/2024-07-31/uhd.jpg"
         },
+        "time": "2024-07-31",
         "title": "石林，日落点，布莱斯峡谷国家公园，犹他州，美国 (© Tim Fitzharris/Minden Pictures)",
+        "copyright": "石林，日落点，布莱斯峡谷国家公园，犹他州，美国 (© Tim Fitzharris/Minden Pictures)",
         "color": {
           "Vibrant": "#cc4c1c",
           "DarkVibrant": "#6e2a1d",
@@ -5127,7 +5371,6 @@
       },
       {
         "key": 245,
-        "time": "2024-08-01",
         "url": {
           "gaussian": "image/bing/2024-08-01/gaussian.jpg",
           "greyscale": "image/bing/2024-08-01/greyscale.jpg",
@@ -5135,7 +5378,9 @@
           "thumbnail": "image/bing/2024-08-01/thumbnail.jpg",
           "uhd": "image/bing/2024-08-01/uhd.jpg"
         },
+        "time": "2024-08-01",
         "title": "卡普泰湖水上市场，兰加马蒂，孟加拉 (© Azim Khan Ronnie/Amazing Aerial Agency)",
+        "copyright": "卡普泰湖水上市场，兰加马蒂，孟加拉 (© Azim Khan Ronnie/Amazing Aerial Agency)",
         "color": {
           "Vibrant": "#c6af0f",
           "DarkVibrant": "#0c6377",
@@ -5148,7 +5393,6 @@
       },
       {
         "key": 246,
-        "time": "2024-08-02",
         "url": {
           "gaussian": "image/bing/2024-08-02/gaussian.jpg",
           "greyscale": "image/bing/2024-08-02/greyscale.jpg",
@@ -5156,7 +5400,9 @@
           "thumbnail": "image/bing/2024-08-02/thumbnail.jpg",
           "uhd": "image/bing/2024-08-02/uhd.jpg"
         },
+        "time": "2024-08-02",
         "title": "象鼻湾，维尔京群岛国家公园，圣约翰岛 (© wheatley/Getty Images)",
+        "copyright": "象鼻湾，维尔京群岛国家公园，圣约翰岛 (© wheatley/Getty Images)",
         "color": {
           "Vibrant": "#2383b8",
           "DarkVibrant": "#215a6e",
@@ -5169,7 +5415,6 @@
       },
       {
         "key": 247,
-        "time": "2024-08-03",
         "url": {
           "gaussian": "image/bing/2024-08-03/gaussian.jpg",
           "greyscale": "image/bing/2024-08-03/greyscale.jpg",
@@ -5177,7 +5422,9 @@
           "thumbnail": "image/bing/2024-08-03/thumbnail.jpg",
           "uhd": "image/bing/2024-08-03/uhd.jpg"
         },
+        "time": "2024-08-03",
         "title": "天生三桥，重庆武隆岩溶国家地质公园，中国 (© Pav-Pro Photography Ltd/Shutterstock)",
+        "copyright": "天生三桥，重庆武隆岩溶国家地质公园，中国 (© Pav-Pro Photography Ltd/Shutterstock)",
         "color": {
           "Vibrant": "#aeaa14",
           "DarkVibrant": "#777b14",
@@ -5190,7 +5437,6 @@
       },
       {
         "key": 248,
-        "time": "2024-08-04",
         "url": {
           "gaussian": "image/bing/2024-08-04/gaussian.jpg",
           "greyscale": "image/bing/2024-08-04/greyscale.jpg",
@@ -5198,7 +5444,9 @@
           "thumbnail": "image/bing/2024-08-04/thumbnail.jpg",
           "uhd": "image/bing/2024-08-04/uhd.jpg"
         },
+        "time": "2024-08-04",
         "title": "黑斑羚和红嘴牛椋鸟，南非 (© Matrishva Vyas/Getty Images)",
+        "copyright": "黑斑羚和红嘴牛椋鸟，南非 (© Matrishva Vyas/Getty Images)",
         "color": {
           "Vibrant": "#e4ab6f",
           "DarkVibrant": "#865b28",
@@ -5211,7 +5459,6 @@
       },
       {
         "key": 249,
-        "time": "2024-08-05",
         "url": {
           "gaussian": "image/bing/2024-08-05/gaussian.jpg",
           "greyscale": "image/bing/2024-08-05/greyscale.jpg",
@@ -5219,7 +5466,9 @@
           "thumbnail": "image/bing/2024-08-05/thumbnail.jpg",
           "uhd": "image/bing/2024-08-05/uhd.jpg"
         },
+        "time": "2024-08-05",
         "title": "薰衣草田，赫特福德郡 ，英格兰，英国 (© George W Johnson/Getty Images)",
+        "copyright": "薰衣草田，赫特福德郡 ，英格兰，英国 (© George W Johnson/Getty Images)",
         "color": {
           "Vibrant": "#dbb528",
           "DarkVibrant": "#3c5c04",
@@ -5232,7 +5481,6 @@
       },
       {
         "key": 250,
-        "time": "2024-08-06",
         "url": {
           "gaussian": "image/bing/2024-08-06/gaussian.jpg",
           "greyscale": "image/bing/2024-08-06/greyscale.jpg",
@@ -5240,7 +5488,9 @@
           "thumbnail": "image/bing/2024-08-06/thumbnail.jpg",
           "uhd": "image/bing/2024-08-06/uhd.jpg"
         },
+        "time": "2024-08-06",
         "title": "莫洛基尼，毛伊岛，夏威夷，美国 (© Douglas Peebles/eStock Photo)",
+        "copyright": "莫洛基尼，毛伊岛，夏威夷，美国 (© Douglas Peebles/eStock Photo)",
         "color": {
           "Vibrant": "#135a8e",
           "DarkVibrant": "#044477",
@@ -5253,7 +5503,6 @@
       },
       {
         "key": 251,
-        "time": "2024-08-07",
         "url": {
           "gaussian": "image/bing/2024-08-07/gaussian.jpg",
           "greyscale": "image/bing/2024-08-07/greyscale.jpg",
@@ -5261,7 +5510,9 @@
           "thumbnail": "image/bing/2024-08-07/thumbnail.jpg",
           "uhd": "image/bing/2024-08-07/uhd.jpg"
         },
+        "time": "2024-08-07",
         "title": "圣约瑟夫北码头内灯和外灯，密歇根州，美国 (© Kenneth Keifer/Getty Images)",
+        "copyright": "圣约瑟夫北码头内灯和外灯，密歇根州，美国 (© Kenneth Keifer/Getty Images)",
         "color": {
           "Vibrant": "#f4ab39",
           "DarkVibrant": "#7b2d30",
@@ -5274,7 +5525,6 @@
       },
       {
         "key": 252,
-        "time": "2024-08-09",
         "url": {
           "gaussian": "image/bing/2024-08-09/gaussian.jpg",
           "greyscale": "image/bing/2024-08-09/greyscale.jpg",
@@ -5282,7 +5532,9 @@
           "thumbnail": "image/bing/2024-08-09/thumbnail.jpg",
           "uhd": "image/bing/2024-08-09/uhd.jpg"
         },
+        "time": "2024-08-09",
         "title": "库斯科附近的萨克塞华曼印加遗址，秘鲁 (© SL_Photography/Getty Images)",
+        "copyright": "库斯科附近的萨克塞华曼印加遗址，秘鲁 (© SL_Photography/Getty Images)",
         "color": {
           "Vibrant": "#d2a346",
           "DarkVibrant": "#734e15",
@@ -5295,7 +5547,6 @@
       },
       {
         "key": 253,
-        "time": "2024-08-10",
         "url": {
           "gaussian": "image/bing/2024-08-10/gaussian.jpg",
           "greyscale": "image/bing/2024-08-10/greyscale.jpg",
@@ -5303,7 +5554,9 @@
           "thumbnail": "image/bing/2024-08-10/thumbnail.jpg",
           "uhd": "image/bing/2024-08-10/uhd.jpg"
         },
+        "time": "2024-08-10",
         "title": "约书亚树国家公园，加利福尼亚州，美国 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)",
+        "copyright": "约书亚树国家公园，加利福尼亚州，美国 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)",
         "color": {
           "Vibrant": "#cd923e",
           "DarkVibrant": "#371d04",
@@ -5316,7 +5569,6 @@
       },
       {
         "key": 254,
-        "time": "2024-08-11",
         "url": {
           "gaussian": "image/bing/2024-08-11/gaussian.jpg",
           "greyscale": "image/bing/2024-08-11/greyscale.jpg",
@@ -5324,7 +5576,9 @@
           "thumbnail": "image/bing/2024-08-11/thumbnail.jpg",
           "uhd": "image/bing/2024-08-11/uhd.jpg"
         },
+        "time": "2024-08-11",
         "title": "通往肯尼迪湖的木板路，温哥华岛，加拿大不列颠哥伦比亚省 (© EB Adventure Photography/Shutterstock)",
+        "copyright": "通往肯尼迪湖的木板路，温哥华岛，加拿大不列颠哥伦比亚省 (© EB Adventure Photography/Shutterstock)",
         "color": {
           "Vibrant": "#7d8130",
           "DarkVibrant": "#495909",
@@ -5337,7 +5591,6 @@
       },
       {
         "key": 255,
-        "time": "2024-08-12",
         "url": {
           "gaussian": "image/bing/2024-08-12/gaussian.jpg",
           "greyscale": "image/bing/2024-08-12/greyscale.jpg",
@@ -5345,7 +5598,9 @@
           "thumbnail": "image/bing/2024-08-12/thumbnail.jpg",
           "uhd": "image/bing/2024-08-12/uhd.jpg"
         },
+        "time": "2024-08-12",
         "title": "非洲象，肯尼亚安博塞利国家公园 (© Ruzdi Ekenheim/Getty Images)",
+        "copyright": "非洲象，肯尼亚安博塞利国家公园 (© Ruzdi Ekenheim/Getty Images)",
         "color": {
           "Vibrant": "#eea23c",
           "DarkVibrant": "#784c0c",
@@ -5358,7 +5613,6 @@
       },
       {
         "key": 256,
-        "time": "2024-08-13",
         "url": {
           "gaussian": "image/bing/2024-08-13/gaussian.jpg",
           "greyscale": "image/bing/2024-08-13/greyscale.jpg",
@@ -5366,7 +5620,9 @@
           "thumbnail": "image/bing/2024-08-13/thumbnail.jpg",
           "uhd": "image/bing/2024-08-13/uhd.jpg"
         },
+        "time": "2024-08-13",
         "title": "特拉斯契卡自然公园悬崖，杜吉奥托克岛，克罗地亚 (© Ilija Ascic/Shutterstock)",
+        "copyright": "特拉斯契卡自然公园悬崖，杜吉奥托克岛，克罗地亚 (© Ilija Ascic/Shutterstock)",
         "color": {
           "Vibrant": "#0566c0",
           "DarkVibrant": "#0443a0",
@@ -5379,7 +5635,6 @@
       },
       {
         "key": 257,
-        "time": "2024-08-14",
         "url": {
           "gaussian": "image/bing/2024-08-14/gaussian.jpg",
           "greyscale": "image/bing/2024-08-14/greyscale.jpg",
@@ -5387,7 +5642,9 @@
           "thumbnail": "image/bing/2024-08-14/thumbnail.jpg",
           "uhd": "image/bing/2024-08-14/uhd.jpg"
         },
+        "time": "2024-08-14",
         "title": "澳洲魔蜥，瓦塔卡国家公园，澳大利亚 (© Yva Momatiuk and John Eastcott/Minden Pictures)",
+        "copyright": "澳洲魔蜥，瓦塔卡国家公园，澳大利亚 (© Yva Momatiuk and John Eastcott/Minden Pictures)",
         "color": {
           "Vibrant": "#ba6f35",
           "DarkVibrant": "#7f491d",
@@ -5400,7 +5657,6 @@
       },
       {
         "key": 258,
-        "time": "2024-08-15",
         "url": {
           "gaussian": "image/bing/2024-08-15/gaussian.jpg",
           "greyscale": "image/bing/2024-08-15/greyscale.jpg",
@@ -5408,7 +5664,9 @@
           "thumbnail": "image/bing/2024-08-15/thumbnail.jpg",
           "uhd": "image/bing/2024-08-15/uhd.jpg"
         },
+        "time": "2024-08-15",
         "title": "韩松洞，风牙者榜国家公园，越南 (© Geng Xu/Getty Images)",
+        "copyright": "韩松洞，风牙者榜国家公园，越南 (© Geng Xu/Getty Images)",
         "color": {
           "Vibrant": "#c9444c",
           "DarkVibrant": "#543c24",
@@ -5421,7 +5679,6 @@
       },
       {
         "key": 259,
-        "time": "2024-08-16",
         "url": {
           "gaussian": "image/bing/2024-08-16/gaussian.jpg",
           "greyscale": "image/bing/2024-08-16/greyscale.jpg",
@@ -5429,7 +5686,9 @@
           "thumbnail": "image/bing/2024-08-16/thumbnail.jpg",
           "uhd": "image/bing/2024-08-16/uhd.jpg"
         },
+        "time": "2024-08-16",
         "title": "长岛温泉乐园的过山车，三重县，日本 (© Japanese amateur photographer/Getty Images)",
+        "copyright": "长岛温泉乐园的过山车，三重县，日本 (© Japanese amateur photographer/Getty Images)",
         "color": {
           "Vibrant": "#3c7c9c",
           "DarkVibrant": "#091a25",
@@ -5442,7 +5701,6 @@
       },
       {
         "key": 260,
-        "time": "2024-08-17",
         "url": {
           "gaussian": "image/bing/2024-08-17/gaussian.jpg",
           "greyscale": "image/bing/2024-08-17/greyscale.jpg",
@@ -5450,7 +5708,9 @@
           "thumbnail": "image/bing/2024-08-17/thumbnail.jpg",
           "uhd": "image/bing/2024-08-17/uhd.jpg"
         },
+        "time": "2024-08-17",
         "title": "阿尔凡齐纳灯塔，阿尔加维，葡萄牙 (© Andreas Kunz/Getty Images)",
+        "copyright": "阿尔凡齐纳灯塔，阿尔加维，葡萄牙 (© Andreas Kunz/Getty Images)",
         "color": {
           "Vibrant": "#a24f27",
           "DarkVibrant": "#4f2913",
@@ -5463,7 +5723,6 @@
       },
       {
         "key": 261,
-        "time": "2024-08-18",
         "url": {
           "gaussian": "image/bing/2024-08-18/gaussian.jpg",
           "greyscale": "image/bing/2024-08-18/greyscale.jpg",
@@ -5471,7 +5730,9 @@
           "thumbnail": "image/bing/2024-08-18/thumbnail.jpg",
           "uhd": "image/bing/2024-08-18/uhd.jpg"
         },
+        "time": "2024-08-18",
         "title": "日落时的亨廷顿海滩码头，加利福尼亚州，美国 (© Stan Moniz Photography/TANDEM Stills + Motion)",
+        "copyright": "日落时的亨廷顿海滩码头，加利福尼亚州，美国 (© Stan Moniz Photography/TANDEM Stills + Motion)",
         "color": {
           "Vibrant": "#e18d1a",
           "DarkVibrant": "#754618",
@@ -5484,7 +5745,6 @@
       },
       {
         "key": 262,
-        "time": "2024-08-19",
         "url": {
           "gaussian": "image/bing/2024-08-19/gaussian.jpg",
           "greyscale": "image/bing/2024-08-19/greyscale.jpg",
@@ -5492,7 +5752,9 @@
           "thumbnail": "image/bing/2024-08-19/thumbnail.jpg",
           "uhd": "image/bing/2024-08-19/uhd.jpg"
         },
+        "time": "2024-08-19",
         "title": "Bufadero de la Garita，大加那利岛，西班牙 (© Marco Bottigelli/Getty Images)",
+        "copyright": "Bufadero de la Garita，大加那利岛，西班牙 (© Marco Bottigelli/Getty Images)",
         "color": {
           "Vibrant": "#447cac",
           "DarkVibrant": "#817134",
@@ -5505,7 +5767,6 @@
       },
       {
         "key": 263,
-        "time": "2024-08-20",
         "url": {
           "gaussian": "image/bing/2024-08-20/gaussian.jpg",
           "greyscale": "image/bing/2024-08-20/greyscale.jpg",
@@ -5513,7 +5774,9 @@
           "thumbnail": "image/bing/2024-08-20/thumbnail.jpg",
           "uhd": "image/bing/2024-08-20/uhd.jpg"
         },
+        "time": "2024-08-20",
         "title": "大提顿国家公园日出,怀俄明州,美国 (© Kurt Budliger/TANDEM Stills + Motion)",
+        "copyright": "大提顿国家公园日出,怀俄明州,美国 (© Kurt Budliger/TANDEM Stills + Motion)",
         "color": {
           "Vibrant": "#985f38",
           "DarkVibrant": "#1c4268",
@@ -5526,7 +5789,6 @@
       },
       {
         "key": 264,
-        "time": "2024-08-21",
         "url": {
           "gaussian": "image/bing/2024-08-21/gaussian.jpg",
           "greyscale": "image/bing/2024-08-21/greyscale.jpg",
@@ -5534,7 +5796,9 @@
           "thumbnail": "image/bing/2024-08-21/thumbnail.jpg",
           "uhd": "image/bing/2024-08-21/uhd.jpg"
         },
+        "time": "2024-08-21",
         "title": "纳斯卡鲣鸟，沃尔夫岛，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures)",
+        "copyright": "纳斯卡鲣鸟，沃尔夫岛，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures)",
         "color": {
           "Vibrant": "#d88f1c",
           "DarkVibrant": "#7c3c0c",
@@ -5547,7 +5811,6 @@
       },
       {
         "key": 265,
-        "time": "2024-08-22",
         "url": {
           "gaussian": "image/bing/2024-08-22/gaussian.jpg",
           "greyscale": "image/bing/2024-08-22/greyscale.jpg",
@@ -5555,7 +5818,9 @@
           "thumbnail": "image/bing/2024-08-22/thumbnail.jpg",
           "uhd": "image/bing/2024-08-22/uhd.jpg"
         },
+        "time": "2024-08-22",
         "title": "海洋城日出时的鸟瞰图，马里兰州，美国 (© Kevin Olson/Amazing Aerial Agency)",
+        "copyright": "海洋城日出时的鸟瞰图，马里兰州，美国 (© Kevin Olson/Amazing Aerial Agency)",
         "color": {
           "Vibrant": "#dc6e1d",
           "DarkVibrant": "#bc4404",
@@ -5568,7 +5833,6 @@
       },
       {
         "key": 266,
-        "time": "2024-08-23",
         "url": {
           "gaussian": "image/bing/2024-08-23/gaussian.jpg",
           "greyscale": "image/bing/2024-08-23/greyscale.jpg",
@@ -5576,7 +5840,9 @@
           "thumbnail": "image/bing/2024-08-23/thumbnail.jpg",
           "uhd": "image/bing/2024-08-23/uhd.jpg"
         },
+        "time": "2024-08-23",
         "title": "帕侬蓝寺，武里南府，泰国 (© Banjongseal324/Getty Images)",
+        "copyright": "帕侬蓝寺，武里南府，泰国 (© Banjongseal324/Getty Images)",
         "color": {
           "Vibrant": "#1474c2",
           "DarkVibrant": "#7b600b",
@@ -5589,7 +5855,6 @@
       },
       {
         "key": 267,
-        "time": "2024-08-25",
         "url": {
           "gaussian": "image/bing/2024-08-25/gaussian.jpg",
           "greyscale": "image/bing/2024-08-25/greyscale.jpg",
@@ -5597,7 +5862,9 @@
           "thumbnail": "image/bing/2024-08-25/thumbnail.jpg",
           "uhd": "image/bing/2024-08-25/uhd.jpg"
         },
+        "time": "2024-08-25",
         "title": "急流湖的日出，冰川国家公园，蒙大拿州，美国 (© Jason Savage/Tandem Stills + Motion)",
+        "copyright": "急流湖的日出，冰川国家公园，蒙大拿州，美国 (© Jason Savage/Tandem Stills + Motion)",
         "color": {
           "Vibrant": "#de622c",
           "DarkVibrant": "#0a448f",
@@ -5610,7 +5877,6 @@
       },
       {
         "key": 268,
-        "time": "2024-08-26",
         "url": {
           "gaussian": "image/bing/2024-08-26/gaussian.jpg",
           "greyscale": "image/bing/2024-08-26/greyscale.jpg",
@@ -5618,7 +5884,9 @@
           "thumbnail": "image/bing/2024-08-26/thumbnail.jpg",
           "uhd": "image/bing/2024-08-26/uhd.jpg"
         },
+        "time": "2024-08-26",
         "title": "巴尔米拉环礁国家野生动物保护区，中太平洋 (© Ian Shive/Tandem Stills + Motion)",
+        "copyright": "巴尔米拉环礁国家野生动物保护区，中太平洋 (© Ian Shive/Tandem Stills + Motion)",
         "color": {
           "Vibrant": "#055fa2",
           "DarkVibrant": "#043c75",
@@ -5631,7 +5899,6 @@
       },
       {
         "key": 269,
-        "time": "2024-08-28",
         "url": {
           "gaussian": "image/bing/2024-08-28/gaussian.jpg",
           "greyscale": "image/bing/2024-08-28/greyscale.jpg",
@@ -5639,7 +5906,9 @@
           "thumbnail": "image/bing/2024-08-28/thumbnail.jpg",
           "uhd": "image/bing/2024-08-28/uhd.jpg"
         },
+        "time": "2024-08-28",
         "title": "蒙马特和圣心大教堂，巴黎，法国 (© Tuul & Bruno Morandi/Getty Images)",
+        "copyright": "蒙马特和圣心大教堂，巴黎，法国 (© Tuul & Bruno Morandi/Getty Images)",
         "color": {
           "Vibrant": "#0454a1",
           "DarkVibrant": "#044c9c",
