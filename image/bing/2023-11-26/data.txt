@@ -8,5 +8,7 @@
     "Muted": "#927049",
     "DarkMuted": "#4f382b",
     "LightMuted": "#aeafb4"
-  }
+  },
+  "copyright": "布拉德盖特公园的小鹿，莱斯特郡，英国 (© Chris Bainbridge/Alamy)",
+  "time": "2023-11-26"
 }

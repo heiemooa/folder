@@ -8,5 +8,7 @@
     "Muted": "#987f6a",
     "DarkMuted": "#51452b",
     "LightMuted": "#cdbfbc"
-  }
+  },
+  "copyright": "乌布寺庙的石雕,巴厘岛,印度尼西亚 (© R. Schönebaum/plainpicture)",
+  "time": "2024-06-30"
 }

@@ -8,5 +8,7 @@
     "Muted": "#b29e5e",
     "DarkMuted": "#47423b",
     "LightMuted": "#c9d1d8"
-  }
+  },
+  "copyright": "圣哈辛托大厦的机械钟，博蒙特，美国德克萨斯州 (© Richard T. Nowitz/Getty Images)",
+  "time": "2024-03-10"
 }

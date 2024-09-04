@@ -8,5 +8,7 @@
     "Muted": "#a8795b",
     "DarkMuted": "#504b4b",
     "LightMuted": "#cabc96"
-  }
+  },
+  "copyright": "从蒙特维多看到的阿雷纳尔火山,哥斯达黎加 (© Lukas Bischoff/Getty Images)",
+  "time": "2024-03-04"
 }

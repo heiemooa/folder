@@ -8,5 +8,7 @@
     "Muted": "#72a0ac",
     "DarkMuted": "#2d4652",
     "LightMuted": "#afcccf"
-  }
+  },
+  "copyright": "哥本哈根的自行车，丹麦 (© Alphotographic/Getty Images)",
+  "time": "2024-06-03"
 }

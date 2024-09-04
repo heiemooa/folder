@@ -8,5 +8,7 @@
     "Muted": "#5a83a3",
     "DarkMuted": "#385775",
     "LightMuted": "#b0b2a6"
-  }
+  },
+  "copyright": "Alam-Pedja自然保护区，爱沙尼亚 (© Sven Zacek/Minden Pictures)",
+  "time": "2023-11-19"
 }

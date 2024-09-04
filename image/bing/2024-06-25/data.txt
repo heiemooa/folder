@@ -8,5 +8,7 @@
     "Muted": "#b4736b",
     "DarkMuted": "#604634",
     "LightMuted": "#809ca9"
-  }
+  },
+  "copyright": "火浪岩层，火焰谷州立公园，内华达州，美国 (© Clint Losee/Tandem Stills + Motion)",
+  "time": "2024-06-25"
 }

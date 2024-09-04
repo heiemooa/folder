@@ -8,5 +8,7 @@
     "Muted": "#9c8f77",
     "DarkMuted": "#504a41",
     "LightMuted": "#a4bfcf"
-  }
+  },
+  "copyright": "马达加斯加的马苏阿拉国家公园 (© Dennis van de Water/Shutterstock)",
+  "time": "2024-06-05"
 }

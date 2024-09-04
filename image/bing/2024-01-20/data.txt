@@ -8,5 +8,7 @@
     "Muted": "#568fb4",
     "DarkMuted": "#344555",
     "LightMuted": "#a5b3bd"
-  }
+  },
+  "copyright": "马可罗尼企鹅，德雷克海峡，智利 (© Paul Souders/Getty Images)",
+  "time": "2024-01-20"
 }

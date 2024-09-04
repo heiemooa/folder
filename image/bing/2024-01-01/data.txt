@@ -8,5 +8,7 @@
     "Muted": "#ad8367",
     "DarkMuted": "#513c33",
     "LightMuted": "#acbdcd"
-  }
+  },
+  "copyright": "睡在雪地里的赤狐，阿布鲁佐，意大利 (© marco vancini/500px/Getty Images)",
+  "time": "2024-01-01"
 }

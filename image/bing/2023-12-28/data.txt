@@ -8,5 +8,7 @@
     "Muted": "#567fa4",
     "DarkMuted": "#3b4d5f",
     "LightMuted": "#afbdcb"
-  }
+  },
+  "copyright": "座头鲸，迪斯科湾，格陵兰 (© Paul Souders/DanitaDelimont.com)",
+  "time": "2023-12-28"
 }

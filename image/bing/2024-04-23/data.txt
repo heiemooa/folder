@@ -8,5 +8,7 @@
     "Muted": "#ad7955",
     "DarkMuted": "#644938",
     "LightMuted": "#d4c0ac"
-  }
+  },
+  "copyright": "三一学院图书馆，都柏林，爱尔兰 (© Lukas Bischoff/Getty Images)",
+  "time": "2024-04-23"
 }

@@ -8,5 +8,7 @@
     "Muted": "#a29c58",
     "DarkMuted": "#55452a",
     "LightMuted": "#cdc0ba"
-  }
+  },
+  "copyright": "赤狐父子，华盛顿，美国 (© Chase Dekker/Minden Pictures)",
+  "time": "2024-06-16"
 }

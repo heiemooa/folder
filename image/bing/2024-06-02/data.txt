@@ -8,5 +8,7 @@
     "Muted": "#a77f53",
     "DarkMuted": "#50412d",
     "LightMuted": "#9eabc9"
-  }
+  },
+  "copyright": "普卢马纳克的灯塔，阿摩尔滨海省，法国 (© Christian Handl/Getty Images)",
+  "time": "2024-06-02"
 }

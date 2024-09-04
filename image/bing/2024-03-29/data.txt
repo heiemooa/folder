@@ -8,5 +8,7 @@
     "Muted": "#a46c63",
     "DarkMuted": "#634732",
     "LightMuted": "#d8bcaf"
-  }
+  },
+  "copyright": "日落时的南斯塔克灯塔，霍利希德，威尔士，英国 (© mariotlr/Getty Images)",
+  "time": "2024-03-29"
 }

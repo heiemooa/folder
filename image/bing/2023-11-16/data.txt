@@ -8,5 +8,7 @@
     "Muted": "#6a708f",
     "DarkMuted": "#314159",
     "LightMuted": "#cdb7b3"
-  }
+  },
+  "copyright": "雅典和卫城，希腊 (© Mlenny/Getty Images)",
+  "time": "2023-11-16"
 }

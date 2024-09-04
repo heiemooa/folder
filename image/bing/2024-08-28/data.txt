@@ -8,5 +8,7 @@
     "Muted": "#50569b",
     "DarkMuted": "#325844",
     "LightMuted": "#dde3c2"
-  }
+  },
+  "copyright": "蒙马特和圣心大教堂，巴黎，法国 (© Tuul & Bruno Morandi/Getty Images)",
+  "time": "2024-08-28"
 }

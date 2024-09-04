@@ -8,5 +8,7 @@
     "Muted": "#ac5c64",
     "DarkMuted": "#284554",
     "LightMuted": "#beb0a1"
-  }
+  },
+  "copyright": "复活节溪和基利克河的交汇处，北极之门国家公园，阿拉斯加州，美国 (© Patrick J. Endres/Getty Images)",
+  "time": "2024-06-08"
 }

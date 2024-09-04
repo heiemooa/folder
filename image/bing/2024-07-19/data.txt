@@ -8,5 +8,7 @@
     "Muted": "#7aa25c",
     "DarkMuted": "#4c3c39",
     "LightMuted": "#a9c9b8"
-  }
+  },
+  "copyright": "河岸上的一只年轻美洲虎，潘塔纳尔，巴西 (© Tambako the Jaguar/Getty Images)",
+  "time": "2024-07-19"
 }

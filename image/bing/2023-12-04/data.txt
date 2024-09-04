@@ -8,5 +8,7 @@
     "Muted": "#a58c61",
     "DarkMuted": "#423425",
     "LightMuted": "#b9a072"
-  }
+  },
+  "copyright": "一只猎豹妈妈和她的幼崽，马赛马拉国家保护区，肯尼亚 (© Scott Davis/Tandem Stills + Motion)",
+  "time": "2023-12-04"
 }

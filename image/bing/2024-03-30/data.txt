@@ -8,5 +8,7 @@
     "Muted": "#798756",
     "DarkMuted": "#5f753f",
     "LightMuted": "#afccd3"
-  }
+  },
+  "copyright": "睡在号角树上的褐喉树懒，哥斯达黎加 (© Juan Carlos Vindas/Getty Images)",
+  "time": "2024-03-30"
 }

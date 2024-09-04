@@ -8,5 +8,7 @@
     "Muted": "#a76854",
     "DarkMuted": "#4e2632",
     "LightMuted": "#aa9195"
-  }
+  },
+  "copyright": "布宜诺斯艾利斯哥伦布剧院，阿根廷 (© Wei Hao Ho/Alamy Stock Photo)",
+  "time": "2024-03-27"
 }

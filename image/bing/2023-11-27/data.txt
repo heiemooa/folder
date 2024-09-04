@@ -8,5 +8,7 @@
     "Muted": "#6488b9",
     "DarkMuted": "#59532d",
     "LightMuted": "#a0b3d1"
-  }
+  },
+  "copyright": "内格罗河，亚马逊河流域，巴西 (© Timothy Allen/Getty Images)",
+  "time": "2023-11-27"
 }

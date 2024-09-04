@@ -8,5 +8,7 @@
     "Muted": "#897d95",
     "DarkMuted": "#4b3734",
     "LightMuted": "#d9b8c5"
-  }
+  },
+  "copyright": "黄昏时分的亚历山大三世桥，巴黎，法国 (© Sizun Eye/Getty Images)",
+  "time": "2024-01-18"
 }

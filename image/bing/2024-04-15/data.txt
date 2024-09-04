@@ -8,5 +8,7 @@
     "Muted": "#ac7553",
     "DarkMuted": "#684435",
     "LightMuted": "#d5b7a8"
-  }
+  },
+  "copyright": "香波城堡，中央-卢瓦尔河谷大区，法国 (© Susanne Kremer/eStock Photo)",
+  "time": "2024-04-15"
 }

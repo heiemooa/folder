@@ -8,5 +8,7 @@
     "Muted": "#618f9b",
     "DarkMuted": "#233a49",
     "LightMuted": "#96b2b6"
-  }
+  },
+  "copyright": "抹香鲸浮出水面，多米尼克 (© Franco Banfi/Minden Pictures)",
+  "time": "2024-02-18"
 }

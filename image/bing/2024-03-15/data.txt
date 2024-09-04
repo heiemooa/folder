@@ -8,5 +8,7 @@
     "Muted": "#a78c5f",
     "DarkMuted": "#585226",
     "LightMuted": "#999ac2"
-  }
+  },
+  "copyright": "安沙波利哥沙漠州立公园，美国加利福尼亚州 (© Stephen Matera/Tandem Stills + Motion)",
+  "time": "2024-03-15"
 }

@@ -8,5 +8,7 @@
     "Muted": "#b38a67",
     "DarkMuted": "#7c7444",
     "LightMuted": "#cdcbb9"
-  }
+  },
+  "copyright": "考氏鳍竺鲷与海葵，蓝碧海峡，北苏拉威西，印度尼西亚 (© Constantinos Petrinos/NPL/Minden Pictures)",
+  "time": "2024-06-26"
 }

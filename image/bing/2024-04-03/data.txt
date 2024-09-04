@@ -8,5 +8,7 @@
     "Muted": "#af7251",
     "DarkMuted": "#2b3b40",
     "LightMuted": "#ceb4ad"
-  }
+  },
+  "copyright": "At-Bashy地区的彩虹，Kakshaal Too山脉，纳伦省，吉尔吉斯斯坦 (© Emad aljumah/Getty Images)",
+  "time": "2024-04-03"
 }

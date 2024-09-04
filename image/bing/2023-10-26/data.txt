@@ -8,5 +8,7 @@
     "Muted": "#906b5a",
     "DarkMuted": "#422924",
     "LightMuted": "#bb9d94"
-  }
+  },
+  "copyright": "美泉宫公园的秋叶，维也纳，奥地利 (© rusm/Getty Images)",
+  "time": "2023-10-26"
 }

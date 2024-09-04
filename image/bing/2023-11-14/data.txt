@@ -8,5 +8,7 @@
     "Muted": "#a66168",
     "DarkMuted": "#68364c",
     "LightMuted": "#d4b9a6"
-  }
+  },
+  "copyright": "特卡波湖沿岸的鲁冰花，南岛，新西兰 (© Jeffrey Lewis/Tandem Stills + Motion)",
+  "time": "2023-11-14"
 }

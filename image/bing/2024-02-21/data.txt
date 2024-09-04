@@ -8,5 +8,7 @@
     "Muted": "#9b6152",
     "DarkMuted": "#4f3632",
     "LightMuted": "#cbb6bf"
-  }
+  },
+  "copyright": "火瀑布，优胜美地国家公园，加利福尼亚州，美国 (© Gregory B Cuvelier/Shutterstock)",
+  "time": "2024-02-21"
 }

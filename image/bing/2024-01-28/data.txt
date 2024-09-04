@@ -8,5 +8,7 @@
     "Muted": "#579da7",
     "DarkMuted": "#335a43",
     "LightMuted": "#767423"
-  }
+  },
+  "copyright": "昆士兰州内陆海峡地区，澳大利亚 (© Southern Lightscapes-Australia/Getty Images)",
+  "time": "2024-01-28"
 }

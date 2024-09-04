@@ -8,5 +8,7 @@
     "Muted": "#9f8673",
     "DarkMuted": "#2d343f",
     "LightMuted": "#b2bcd5"
-  }
+  },
+  "copyright": "布莱顿海滩的彩虹小屋，墨尔本，维多利亚州，澳大利亚 (© Prasit photo/Getty Images)",
+  "time": "2024-02-22"
 }

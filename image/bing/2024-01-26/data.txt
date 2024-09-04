@@ -8,5 +8,7 @@
     "Muted": "#827f8c",
     "DarkMuted": "#6c6150",
     "LightMuted": "#b4bcd4"
-  }
+  },
+  "copyright": "北鹰鸮 (© Remo Savisaar/Alamy Stock Photo)",
+  "time": "2024-01-26"
 }

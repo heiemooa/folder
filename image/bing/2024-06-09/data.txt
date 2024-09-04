@@ -8,5 +8,7 @@
     "Muted": "#847496",
     "DarkMuted": "#4d3331",
     "LightMuted": "#bf9bac"
-  }
+  },
+  "copyright": "巴尔德纳斯雷亚尔斯自然公园，巴德纳斯，纳瓦拉，西班牙 (© Aliaume Chapelle/Tandem Stills + Motion)",
+  "time": "2024-06-09"
 }

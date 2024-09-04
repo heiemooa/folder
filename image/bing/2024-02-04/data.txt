@@ -8,5 +8,7 @@
     "Muted": "#8e7658",
     "DarkMuted": "#503d26",
     "LightMuted": "#c0ab9c"
-  }
+  },
+  "copyright": "德弗塔什卡洞, Devetaki村庄，保加利亚 (© Jasmine_K/Shutterstock)",
+  "time": "2024-02-04"
 }

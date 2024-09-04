@@ -8,5 +8,7 @@
     "Muted": "#526e88",
     "DarkMuted": "#243a48",
     "LightMuted": "#b4c6db"
-  }
+  },
+  "copyright": "多洛米蒂山的布莱耶斯湖，南蒂罗尔，意大利 (© Marco Bottigelli/Getty Images)",
+  "time": "2024-02-17"
 }

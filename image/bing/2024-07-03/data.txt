@@ -8,5 +8,7 @@
     "Muted": "#a8934f",
     "DarkMuted": "#483821",
     "LightMuted": "#cbc09c"
-  }
+  },
+  "copyright": "猫鼬家族 (© anetapics/Shutterstock)",
+  "time": "2024-07-03"
 }

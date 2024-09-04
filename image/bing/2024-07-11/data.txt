@@ -8,5 +8,7 @@
     "Muted": "#b58257",
     "DarkMuted": "#4e3a2d",
     "LightMuted": "#d6b5a0"
-  }
+  },
+  "copyright": "甘吉，西西里岛，意大利 (© Andrea Caruso/Amazing Aerial Agency)",
+  "time": "2024-07-11"
 }

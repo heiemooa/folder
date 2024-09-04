@@ -8,5 +8,7 @@
     "Muted": "#996b76",
     "DarkMuted": "#513233",
     "LightMuted": "#d0afaf"
-  }
+  },
+  "copyright": "拉罗克港，圣克莱门特，泽西岛 (© Reinhard Schmid/Huber/eStock Photo)",
+  "time": "2023-12-08"
 }

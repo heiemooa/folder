@@ -8,5 +8,7 @@
     "Muted": "#a67e60",
     "DarkMuted": "#3d5c30",
     "LightMuted": "#b9b66b"
-  }
+  },
+  "copyright": "哈纳之路，毛伊岛，夏威夷，美国 (© Matteo Colombo/Getty Images)",
+  "time": "2024-01-13"
 }

@@ -8,5 +8,7 @@
     "Muted": "#588fab",
     "DarkMuted": "#5a622a",
     "LightMuted": "#9bb7c9"
-  }
+  },
+  "copyright": "伊瓜苏大瀑布鸟瞰图，巴西 (© Nido Huebl/Shutterstock)",
+  "time": "2024-03-08"
 }

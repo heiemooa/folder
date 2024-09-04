@@ -8,5 +8,7 @@
     "Muted": "#a77660",
     "DarkMuted": "#4c5a2f",
     "LightMuted": "#acb0d1"
-  }
+  },
+  "copyright": "塞纳河上的新桥，巴黎，法国 (© f11photo/Getty Images)",
+  "time": "2024-07-26"
 }

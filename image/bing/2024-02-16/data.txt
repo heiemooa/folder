@@ -8,5 +8,7 @@
     "Muted": "#8e9757",
     "DarkMuted": "#687a3c",
     "LightMuted": "#d5d8b8"
-  }
+  },
+  "copyright": "一只雌性灰额主红雀栖息在德克萨斯州一株多刺仙人掌上，美国 (© outtakes/Getty Images)",
+  "time": "2024-02-16"
 }

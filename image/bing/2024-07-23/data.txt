@@ -8,5 +8,7 @@
     "Muted": "#5481ac",
     "DarkMuted": "#406862",
     "LightMuted": "#d7b8b8"
-  }
+  },
+  "copyright": "迈索尼城堡，麦西尼亚州，希腊 (© Andrew Mayovskyy/Shutterstock)",
+  "time": "2024-07-23"
 }

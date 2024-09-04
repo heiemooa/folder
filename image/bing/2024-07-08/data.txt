@@ -8,5 +8,7 @@
     "Muted": "#ac7f73",
     "DarkMuted": "#725b3c",
     "LightMuted": "#cc8fac"
-  }
+  },
+  "copyright": "野生蓝莓 (© Baac3nes/Getty Images)",
+  "time": "2024-07-08"
 }

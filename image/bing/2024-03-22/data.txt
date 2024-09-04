@@ -8,5 +8,7 @@
     "Muted": "#8dac60",
     "DarkMuted": "#485a30",
     "LightMuted": "#315168"
-  }
+  },
+  "copyright": "蓝泉，蒂怀霍步道，新西兰 (© Ian Beattie/Alamy Stock Photo)",
+  "time": "2024-03-22"
 }

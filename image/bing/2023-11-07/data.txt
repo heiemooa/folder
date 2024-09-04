@@ -8,5 +8,7 @@
     "Muted": "#5e9ab9",
     "DarkMuted": "#595128",
     "LightMuted": "#aac0d0"
-  }
+  },
+  "copyright": "Kirkilai湖泊和瞭望塔，比尔扎伊地区公园，立陶宛 (© MNStudio/Shutterstock)",
+  "time": "2023-11-07"
 }

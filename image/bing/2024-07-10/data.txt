@@ -8,5 +8,7 @@
     "Muted": "#a67f51",
     "DarkMuted": "#39513c",
     "LightMuted": "#afc3a5"
-  }
+  },
+  "copyright": "领簇舌巨嘴鸟，哥斯达黎加 (© Juan Carlos Vindas/Getty Images)",
+  "time": "2024-07-10"
 }

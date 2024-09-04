@@ -8,5 +8,7 @@
     "Muted": "#a87260",
     "DarkMuted": "#513c2f",
     "LightMuted": "#caaca3"
-  }
+  },
+  "copyright": "科基诺，古代巨石观测站，北马其顿 (© stoimilov/Shutterstock)",
+  "time": "2024-06-20"
 }

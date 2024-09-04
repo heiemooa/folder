@@ -8,5 +8,7 @@
     "Muted": "#af9453",
     "DarkMuted": "#634f38",
     "LightMuted": "#d2b8a4"
-  }
+  },
+  "copyright": "洞穴附近的穴小鸮雏鸟，怀俄明州，美国 (© Danita Delimont/Getty Images)",
+  "time": "2024-04-10"
 }

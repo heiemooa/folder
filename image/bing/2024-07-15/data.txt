@@ -8,5 +8,7 @@
     "Muted": "#5762a4",
     "DarkMuted": "#4d3137",
     "LightMuted": "#d1abd6"
-  }
+  },
+  "copyright": "立石公园，神奈川县，日本 (© blew_s/Shutterstock)",
+  "time": "2024-07-15"
 }

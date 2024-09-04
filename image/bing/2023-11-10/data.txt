@@ -8,5 +8,7 @@
     "Muted": "#986469",
     "DarkMuted": "#384354",
     "LightMuted": "#cbbcdb"
-  }
+  },
+  "copyright": "恶地国家公园，南达科他州，美国 (© Grant Ordelheide/Tandem Stills + Motion)",
+  "time": "2023-11-10"
 }

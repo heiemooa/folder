@@ -8,5 +8,7 @@
     "Muted": "#ac9559",
     "DarkMuted": "#4a3728",
     "LightMuted": "#9dbbd1"
-  }
+  },
+  "copyright": "斯卡拉布雷的新石器时代遗迹,奥克尼群岛,苏格兰 (© Paul Williams - FunkyStock/Getty Images)",
+  "time": "2024-07-16"
 }

@@ -8,5 +8,7 @@
     "Muted": "#946858",
     "DarkMuted": "#42404d",
     "LightMuted": "#cba396"
-  }
+  },
+  "copyright": "盛开的扁桃树, 加利福尼亚州，美国 (© Jeffrey Lewis/Tandem Stills + Motion)",
+  "time": "2024-03-19"
 }

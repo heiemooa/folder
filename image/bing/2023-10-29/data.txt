@@ -8,5 +8,7 @@
     "Muted": "#7b765e",
     "DarkMuted": "#443f2a",
     "LightMuted": "#b7b7b8"
-  }
+  },
+  "copyright": "博纳温彻墓地，萨凡纳，佐治亚州，美国 (© Kelly vanDellen/Alamy)",
+  "time": "2023-10-29"
 }

@@ -8,5 +8,7 @@
     "Muted": "#9f8064",
     "DarkMuted": "#554a2a",
     "LightMuted": "#c7b7ae"
-  }
+  },
+  "copyright": "班堡城堡，诺森伯兰郡，英格兰 (© Blackbeck/Getty Images)",
+  "time": "2024-02-28"
 }

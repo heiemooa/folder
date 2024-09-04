@@ -8,5 +8,7 @@
     "Muted": "#a78462",
     "DarkMuted": "#55422e",
     "LightMuted": "#b49c77"
-  }
+  },
+  "copyright": "布氏斑马妈妈和小马驹，里特弗雷自然保护区，南非 (© Richard Du Toit/Minden Pictures)",
+  "time": "2024-01-31"
 }

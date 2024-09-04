@@ -8,5 +8,7 @@
     "Muted": "#5989a4",
     "DarkMuted": "#473c37",
     "LightMuted": "#ca898b"
-  }
+  },
+  "copyright": "莫迪卡，西西里岛，意大利 (© Sandro Bisaro/Getty Images)",
+  "time": "2024-03-02"
 }

@@ -8,5 +8,7 @@
     "Muted": "#a56f69",
     "DarkMuted": "#433736",
     "LightMuted": "#a49fd0"
-  }
+  },
+  "copyright": "秋天池塘里的两只绿头鸭 (© sun ok/Shutterstock)",
+  "time": "2023-11-12"
 }

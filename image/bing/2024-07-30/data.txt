@@ -8,5 +8,7 @@
     "Muted": "#927f63",
     "DarkMuted": "#524d31",
     "LightMuted": "#a0bcc5"
-  }
+  },
+  "copyright": "圣吉米尼亚诺，锡耶纳，托斯卡纳大区，意大利亚 (© MNStudio/Shutterstock)",
+  "time": "2024-07-30"
 }

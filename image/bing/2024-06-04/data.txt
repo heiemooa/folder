@@ -8,5 +8,7 @@
     "Muted": "#98a15a",
     "DarkMuted": "#3a4737",
     "LightMuted": "#d3ccb1"
-  }
+  },
+  "copyright": "黑胸蜂虎，巴迪亚国家公园，尼泊尔 (© PACO COMO/Shutterstock)",
+  "time": "2024-06-04"
 }

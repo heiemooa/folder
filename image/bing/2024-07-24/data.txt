@@ -8,5 +8,7 @@
     "Muted": "#989d4e",
     "DarkMuted": "#646d30",
     "LightMuted": "#b0c4d3"
-  }
+  },
+  "copyright": "北约克郡的黑面羊羊群，英格兰 (© R A Kearton/Getty Images)",
+  "time": "2024-07-24"
 }

@@ -8,5 +8,7 @@
     "Muted": "#619895",
     "DarkMuted": "#2c4457",
     "LightMuted": "#8dc1ae"
-  }
+  },
+  "copyright": "座头鲸家族，荷兰港，阿拉斯加州 (© Jude Newkirk/Amazing Aerial Agency)",
+  "time": "2024-06-07"
 }

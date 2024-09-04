@@ -8,5 +8,7 @@
     "Muted": "#9c8958",
     "DarkMuted": "#564931",
     "LightMuted": "#cab79e"
-  }
+  },
+  "copyright": "潘塔纳尔湿地的大白鹭，巴西 (© Geraldi Corsi/Getty Images)",
+  "time": "2024-03-31"
 }

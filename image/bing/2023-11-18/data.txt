@@ -8,5 +8,7 @@
     "Muted": "#6e8590",
     "DarkMuted": "#302e1a",
     "LightMuted": "#b9d0d9"
-  }
+  },
+  "copyright": "北极熊妈妈和幼崽，丘吉尔城，曼尼托巴省，加拿大 (© Thorsten Milse/Getty Images)",
+  "time": "2023-11-18"
 }

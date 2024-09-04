@@ -8,5 +8,7 @@
     "Muted": "#9d9875",
     "DarkMuted": "#2d4e5f",
     "LightMuted": "#d3c8ae"
-  }
+  },
+  "copyright": "巴尔米拉环礁国家野生动物保护区，中太平洋 (© Ian Shive/Tandem Stills + Motion)",
+  "time": "2024-08-26"
 }

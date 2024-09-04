@@ -8,5 +8,7 @@
     "Muted": "#736c91",
     "DarkMuted": "#303350",
     "LightMuted": "#c0aed0"
-  }
+  },
+  "copyright": "北汉山国立公园，韩国 (© TRAVEL TAKE PHOTOS/Shutterstock)",
+  "time": "2024-01-12"
 }

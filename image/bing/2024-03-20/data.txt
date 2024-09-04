@@ -8,5 +8,7 @@
     "Muted": "#a76c7e",
     "DarkMuted": "#653c44",
     "LightMuted": "#d6b5ab"
-  }
+  },
+  "copyright": "鸟瞰春日盛开的樱花，中国 (© outcast85/Getty images)",
+  "time": "2024-03-20"
 }

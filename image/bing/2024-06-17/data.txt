@@ -8,5 +8,7 @@
     "Muted": "#7c9958",
     "DarkMuted": "#646444",
     "LightMuted": "#a8be8a"
-  }
+  },
+  "copyright": "绿顶辉蜂鸟与巨型蓟，穆埃尔特山，哥斯达黎加 (© adrian hepworth/Alamy Stock Photo)",
+  "time": "2024-06-17"
 }

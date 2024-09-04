@@ -8,5 +8,7 @@
     "Muted": "#747484",
     "DarkMuted": "#42444c",
     "LightMuted": "#ccc4ac"
-  }
+  },
+  "copyright": "帽带企鹅，南桑威奇群岛，南大西洋 (© Jan Vermeer/Minden Pictures)",
+  "time": "2023-12-23"
 }

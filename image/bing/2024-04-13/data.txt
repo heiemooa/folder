@@ -8,5 +8,7 @@
     "Muted": "#9d9e5b",
     "DarkMuted": "#3d482e",
     "LightMuted": "#d9d3b8"
-  }
+  },
+  "copyright": "春天的苹果树，德国 (© Smileus/Getty Images)",
+  "time": "2024-04-13"
 }

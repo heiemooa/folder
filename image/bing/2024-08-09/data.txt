@@ -8,5 +8,7 @@
     "Muted": "#4c6896",
     "DarkMuted": "#30415f",
     "LightMuted": "#c2b492"
-  }
+  },
+  "copyright": "库斯科附近的萨克塞华曼印加遗址，秘鲁 (© SL_Photography/Getty Images)",
+  "time": "2024-08-09"
 }

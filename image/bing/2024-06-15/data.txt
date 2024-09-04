@@ -8,5 +8,7 @@
     "Muted": "#b48474",
     "DarkMuted": "#304354",
     "LightMuted": "#b6b4ac"
-  }
+  },
+  "copyright": "在纳扎雷冲浪的冲浪者，葡萄牙 (© Rui Caria/Getty Images)",
+  "time": "2024-06-15"
 }

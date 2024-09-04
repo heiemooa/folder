@@ -8,5 +8,7 @@
     "Muted": "#9f7c4d",
     "DarkMuted": "#4a4a2f",
     "LightMuted": "#8ba5c4"
-  }
+  },
+  "copyright": "奇迹湖附近池塘里的北美海狸，德纳里国家公园，阿拉斯加州，美国 (© Paul Souders/Getty Images)",
+  "time": "2024-04-07"
 }

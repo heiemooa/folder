@@ -8,5 +8,7 @@
     "Muted": "#8b7172",
     "DarkMuted": "#2b3a55",
     "LightMuted": "#bda38e"
-  }
+  },
+  "copyright": "胡德山，俄勒冈州，美国 (© Inigo Cia/Getty Images)",
+  "time": "2024-02-08"
 }

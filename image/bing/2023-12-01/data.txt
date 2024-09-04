@@ -8,5 +8,7 @@
     "Muted": "#64809e",
     "DarkMuted": "#353b50",
     "LightMuted": "#acbcd7"
-  }
+  },
+  "copyright": "罗斯海的冰山，南极洲 (© Michel Roggo/Minden Pictures)",
+  "time": "2023-12-01"
 }

@@ -8,5 +8,7 @@
     "Muted": "#887565",
     "DarkMuted": "#393a3a",
     "LightMuted": "#b1bac6"
-  }
+  },
+  "copyright": "美洲野牛，黄石国家公园，怀俄明州，美国 (© Gary Gray/Getty Images)",
+  "time": "2023-11-04"
 }

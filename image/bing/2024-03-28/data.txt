@@ -8,5 +8,7 @@
     "Muted": "#b25750",
     "DarkMuted": "#474d2e",
     "LightMuted": "#cdb6c1"
-  }
+  },
+  "copyright": "上海的樱花，中国 (© Yaorusheng/Getty Images)",
+  "time": "2024-03-28"
 }

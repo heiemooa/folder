@@ -8,5 +8,7 @@
     "Muted": "#5c7f9a",
     "DarkMuted": "#53522b",
     "LightMuted": "#cfc2ba"
-  }
+  },
+  "copyright": "象鼻湾，维尔京群岛国家公园，圣约翰岛 (© wheatley/Getty Images)",
+  "time": "2024-08-02"
 }

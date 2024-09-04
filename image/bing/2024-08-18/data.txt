@@ -8,5 +8,7 @@
     "Muted": "#a76f59",
     "DarkMuted": "#4c3124",
     "LightMuted": "#c8a5a0"
-  }
+  },
+  "copyright": "日落时的亨廷顿海滩码头，加利福尼亚州，美国 (© Stan Moniz Photography/TANDEM Stills + Motion)",
+  "time": "2024-08-18"
 }

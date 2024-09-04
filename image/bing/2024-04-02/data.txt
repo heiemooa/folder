@@ -8,5 +8,7 @@
     "Muted": "#738f91",
     "DarkMuted": "#4e542f",
     "LightMuted": "#8ea586"
-  }
+  },
+  "copyright": "日德兰半岛的山毛榉树和野生海葵 ，丹麦 (© Nick Brundle Photography/Getty Images)",
+  "time": "2024-04-02"
 }

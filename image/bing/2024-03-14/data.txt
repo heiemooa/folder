@@ -8,5 +8,7 @@
     "Muted": "#b28f5e",
     "DarkMuted": "#655338",
     "LightMuted": "#e8e5da"
-  }
+  },
+  "copyright": "Wat Phra Ngam，大城府历史公园，泰国 (© boonchai wedmakawand/Alamy Stock Photo)",
+  "time": "2024-03-14"
 }

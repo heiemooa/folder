@@ -8,5 +8,7 @@
     "Muted": "#998a7e",
     "DarkMuted": "#67564a",
     "LightMuted": "#aab8ce"
-  }
+  },
+  "copyright": "普通乌鸦坐在树枝上 (© WildMedia/Shutterstock)",
+  "time": "2023-10-30"
 }

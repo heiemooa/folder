@@ -8,5 +8,7 @@
     "Muted": "#607d9e",
     "DarkMuted": "#4a3e24",
     "LightMuted": "#a9bfd0"
-  }
+  },
+  "copyright": "布罗德加环，奥克尼岛，苏格兰 (© Paul Williams - FunkyStock/Getty Images)",
+  "time": "2024-04-19"
 }

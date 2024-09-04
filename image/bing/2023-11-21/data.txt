@@ -8,5 +8,7 @@
     "Muted": "#9c8570",
     "DarkMuted": "#55422b",
     "LightMuted": "#beaa94"
-  }
+  },
+  "copyright": "英国诺福克海滩上的灰海豹幼崽 (© Vince Burton/Minden Pictures)",
+  "time": "2023-11-21"
 }

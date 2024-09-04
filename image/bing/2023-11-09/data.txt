@@ -8,5 +8,7 @@
     "Muted": "#978474",
     "DarkMuted": "#523c2c",
     "LightMuted": "#c2b8a2"
-  }
+  },
+  "copyright": "秋天的白桦树，德拉门，挪威 (© Baac3nes/Getty Images)",
+  "time": "2023-11-09"
 }

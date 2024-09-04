@@ -8,5 +8,7 @@
     "Muted": "#a17c5f",
     "DarkMuted": "#544b30",
     "LightMuted": "#dfd7c7"
-  }
+  },
+  "copyright": "樱花树枝上的灰胸绣眼鸟，韩国 (© TigerSeo/Getty Images)",
+  "time": "2024-03-24"
 }

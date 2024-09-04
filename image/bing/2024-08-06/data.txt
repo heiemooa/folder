@@ -8,5 +8,7 @@
     "Muted": "#b08561",
     "DarkMuted": "#614435",
     "LightMuted": "#76a5b1"
-  }
+  },
+  "copyright": "莫洛基尼，毛伊岛，夏威夷，美国 (© Douglas Peebles/eStock Photo)",
+  "time": "2024-08-06"
 }

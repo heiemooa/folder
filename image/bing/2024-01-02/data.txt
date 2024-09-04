@@ -8,5 +8,7 @@
     "Muted": "#745cac",
     "DarkMuted": "#353c57",
     "LightMuted": "#bcb5c8"
-  }
+  },
+  "copyright": "贾斯旺萨达陵墓和梅兰加尔古堡，焦特布尔，拉贾斯坦邦，印度 (© Twenty47studio/Getty images)",
+  "time": "2024-01-02"
 }

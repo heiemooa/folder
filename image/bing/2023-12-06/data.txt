@@ -8,5 +8,7 @@
     "Muted": "#867c77",
     "DarkMuted": "#483d2d",
     "LightMuted": "#c2b5a4"
-  }
+  },
+  "copyright": "达尔达尼亚瀑布，博洛尼亚，意大利 (© Alberto Ghizzi Panizza/Minden)",
+  "time": "2023-12-06"
 }

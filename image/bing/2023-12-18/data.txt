@@ -8,5 +8,7 @@
     "Muted": "#9e7862",
     "DarkMuted": "#684b3e",
     "LightMuted": "#b0b6c3"
-  }
+  },
+  "copyright": "圆顶礁国家公园，犹他州，美国 (© Jeff Clay/Tandem Stills + Motion)",
+  "time": "2023-12-18"
 }

@@ -8,5 +8,7 @@
     "Muted": "#a6915b",
     "DarkMuted": "#432231",
     "LightMuted": "#af738f"
-  }
+  },
+  "copyright": "一品红 (© Yarygin/Getty Images)",
+  "time": "2023-12-12"
 }

@@ -8,5 +8,7 @@
     "Muted": "#88a95c",
     "DarkMuted": "#3a5d35",
     "LightMuted": "#d3d0b8"
-  }
+  },
+  "copyright": "从洞穴中探出头的土拨鼠 (© Scacciamosche/Getty Images)",
+  "time": "2024-02-02"
 }

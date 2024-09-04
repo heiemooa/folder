@@ -8,5 +8,7 @@
     "Muted": "#a5805c",
     "DarkMuted": "#473c32",
     "LightMuted": "#dac5b1"
-  }
+  },
+  "copyright": "阿西尼博因山省级公园，加拿大 (© matt macpherson/500px/Getty Images)",
+  "time": "2023-11-28"
 }

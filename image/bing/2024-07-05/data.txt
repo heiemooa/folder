@@ -8,5 +8,7 @@
     "Muted": "#987e64",
     "DarkMuted": "#484349",
     "LightMuted": "#b99c80"
-  }
+  },
+  "copyright": "丹翠雨林的诺亚海滩，昆士兰州，澳大利亚 (© bjeayes/Getty Images)",
+  "time": "2024-07-05"
 }

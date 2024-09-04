@@ -8,5 +8,7 @@
     "Muted": "#a99460",
     "DarkMuted": "#504e2b",
     "LightMuted": "#bebfc5"
-  }
+  },
+  "copyright": "点嘴小巨嘴鸟，大西洋森林，巴西 (© aaprophoto/Getty Images)",
+  "time": "2024-01-27"
 }

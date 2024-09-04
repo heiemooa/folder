@@ -8,5 +8,7 @@
     "Muted": "#5a6f98",
     "DarkMuted": "#5d5d2e",
     "LightMuted": "#c3cfe1"
-  }
+  },
+  "copyright": "卡塞里格石圈，湖区国家公园 ，坎布里亚，英国 (© John Finney Photography/Getty Images)",
+  "time": "2023-12-30"
 }

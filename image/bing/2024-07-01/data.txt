@@ -8,5 +8,7 @@
     "Muted": "#325267",
     "DarkMuted": "#433130",
     "LightMuted": "#b6bfc9"
-  }
+  },
+  "copyright": "菲斯加德灯塔，埃斯奎莫尔特港，科尔伍德，不列颠哥伦比亚省，加拿大 (© davemantel/Getty Images)",
+  "time": "2024-07-01"
 }

@@ -8,5 +8,7 @@
     "Muted": "#4b709f",
     "DarkMuted": "#34425d",
     "LightMuted": "#8da0bf"
-  }
+  },
+  "copyright": "罗瓦涅米的圣诞老人公园，拉普兰德，芬兰 (© lukutin77/Getty Images)",
+  "time": "2023-12-15"
 }

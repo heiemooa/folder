@@ -8,5 +8,7 @@
     "Muted": "#8eaa4d",
     "DarkMuted": "#385827",
     "LightMuted": "#d8d5d2"
-  }
+  },
+  "copyright": "越南安沛省木仓寨的水稻梯田 (© Kiatanan Sugsompian/Getty Images)",
+  "time": "2024-07-07"
 }

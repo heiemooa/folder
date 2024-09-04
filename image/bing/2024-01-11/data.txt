@@ -8,5 +8,7 @@
     "Muted": "#7289a9",
     "DarkMuted": "#604e48",
     "LightMuted": "#a4b7d3"
-  }
+  },
+  "copyright": "雪中的欧亚猞猁 (© Jan Stria/Shutterstock)",
+  "time": "2024-01-11"
 }

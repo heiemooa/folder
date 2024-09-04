@@ -8,5 +8,7 @@
     "Muted": "#649c9c",
     "DarkMuted": "#436034",
     "LightMuted": "#c2bbb9"
-  }
+  },
+  "copyright": "正在吃竹子的大熊猫，中国成都 (© Suzi Eszterhas/Minden Pictures)",
+  "time": "2024-03-16"
 }

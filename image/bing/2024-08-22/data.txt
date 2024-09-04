@@ -8,5 +8,7 @@
     "Muted": "#aa6861",
     "DarkMuted": "#614736",
     "LightMuted": "#cea9a7"
-  }
+  },
+  "copyright": "海洋城日出时的鸟瞰图，马里兰州，美国 (© Kevin Olson/Amazing Aerial Agency)",
+  "time": "2024-08-22"
 }

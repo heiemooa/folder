@@ -8,5 +8,7 @@
     "Muted": "#65838c",
     "DarkMuted": "#22404e",
     "LightMuted": "#8bacbd"
-  }
+  },
+  "copyright": "旧西街区，阿姆斯特丹 ，荷兰 (© George Pachantouris/Getty Images)",
+  "time": "2023-12-29"
 }

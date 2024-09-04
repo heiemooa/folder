@@ -8,5 +8,7 @@
     "Muted": "#9e6461",
     "DarkMuted": "#3d3d51",
     "LightMuted": "#c5afcc"
-  }
+  },
+  "copyright": "急流湖的日出，冰川国家公园，蒙大拿州，美国 (© Jason Savage/Tandem Stills + Motion)",
+  "time": "2024-08-25"
 }

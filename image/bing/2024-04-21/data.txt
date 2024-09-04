@@ -8,5 +8,7 @@
     "Muted": "#547cac",
     "DarkMuted": "#354531",
     "LightMuted": "#9db5c6"
-  }
+  },
+  "copyright": "Cades Cove ，大雾山国家公园，田纳西州，美国 (© Richard Bernabe/Shutterstock)",
+  "time": "2024-04-21"
 }

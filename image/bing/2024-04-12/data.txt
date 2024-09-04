@@ -8,5 +8,7 @@
     "Muted": "#7b83a0",
     "DarkMuted": "#602c2c",
     "LightMuted": "#8eabc9"
-  }
+  },
+  "copyright": "拱门国家公园，犹他州，美国 (© Anthony Heflin/Shutterstock)",
+  "time": "2024-04-12"
 }

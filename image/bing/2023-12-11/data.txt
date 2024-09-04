@@ -8,5 +8,7 @@
     "Muted": "#6c7d91",
     "DarkMuted": "#5d4531",
     "LightMuted": "#c2c8cd"
-  }
+  },
+  "copyright": "黄山的冬天，中国 (© Hung Chung Chih/Shutterstock)",
+  "time": "2023-12-11"
 }

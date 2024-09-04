@@ -8,5 +8,7 @@
     "Muted": "#687ea8",
     "DarkMuted": "#304562",
     "LightMuted": "#a1b5cf"
-  }
+  },
+  "copyright": "天鹅堡和旧天鹅堡，巴伐利亚阿尔卑斯山，德国 (© Harald Nachtmann/Getty Images)",
+  "time": "2023-12-05"
 }

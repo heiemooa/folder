@@ -8,5 +8,7 @@
     "Muted": "#5a7863",
     "DarkMuted": "#385846",
     "LightMuted": "#cec6c2"
-  }
+  },
+  "copyright": "马里尼的狂欢节彩珠，新奥尔良，美国 (© Erik Pronske Photography/Getty Images)",
+  "time": "2024-02-13"
 }

@@ -8,5 +8,7 @@
     "Muted": "#aea166",
     "DarkMuted": "#545a2e",
     "LightMuted": "#b7c4d0"
-  }
+  },
+  "copyright": "圣德温教堂的废墟，莫纳岛，威尔士，英国 (© Photos by R A Kearton/Getty Images)",
+  "time": "2024-01-25"
 }

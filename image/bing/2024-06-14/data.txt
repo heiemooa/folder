@@ -8,5 +8,7 @@
     "Muted": "#678dae",
     "DarkMuted": "#5e3c34",
     "LightMuted": "#d7baa7"
-  }
+  },
+  "copyright": "佩姬湾灯塔，新斯科舍省，加拿大 (© Pugalenthi/Getty Images)",
+  "time": "2024-06-14"
 }

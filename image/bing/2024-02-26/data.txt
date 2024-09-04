@@ -8,5 +8,7 @@
     "Muted": "#706da4",
     "DarkMuted": "#30445c",
     "LightMuted": "#c2a6cf"
-  }
+  },
+  "copyright": "大峡谷国家公园，亚利桑那州，美国 (© Jeremy Janus/Getty Images)",
+  "time": "2024-02-26"
 }

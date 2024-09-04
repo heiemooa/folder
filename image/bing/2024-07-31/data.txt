@@ -8,5 +8,7 @@
     "Muted": "#ab6b55",
     "DarkMuted": "#5a4331",
     "LightMuted": "#bf9d88"
-  }
+  },
+  "copyright": "石林，日落点，布莱斯峡谷国家公园，犹他州，美国 (© Tim Fitzharris/Minden Pictures)",
+  "time": "2024-07-31"
 }

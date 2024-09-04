@@ -8,5 +8,7 @@
     "Muted": "#998561",
     "DarkMuted": "#504533",
     "LightMuted": "#c8c1a4"
-  }
+  },
+  "copyright": "蓬德高鸟类公园的大红鹳，卡玛格，法国 (© Yann Guichaoua-Photos/Getty Images)",
+  "time": "2024-06-06"
 }

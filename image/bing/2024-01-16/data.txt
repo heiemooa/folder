@@ -8,5 +8,7 @@
     "Muted": "#6483ab",
     "DarkMuted": "#2f3b59",
     "LightMuted": "#9e859b"
-  }
+  },
+  "copyright": "路易斯湖，班夫国家公园，阿尔伯塔省，加拿大 (© Mr. Simon Paul/Shutterstock)",
+  "time": "2024-01-16"
 }

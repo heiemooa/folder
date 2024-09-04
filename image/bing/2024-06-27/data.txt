@@ -8,5 +8,7 @@
     "Muted": "#5261a3",
     "DarkMuted": "#542f37",
     "LightMuted": "#c19078"
-  }
+  },
+  "copyright": "黄昏时分的圣母百花大教堂，佛罗伦萨，意大利 (© Elena Pueyo/Getty Images)",
+  "time": "2024-06-27"
 }

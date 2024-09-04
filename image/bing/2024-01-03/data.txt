@@ -8,5 +8,7 @@
     "Muted": "#3c5c7c",
     "DarkMuted": "#24384e",
     "LightMuted": "#1a497f"
-  }
+  },
+  "copyright": "明尼汪卡湖，阿尔伯塔省，加拿大 (© Ken Phung/500px/Getty Images)",
+  "time": "2024-01-03"
 }

@@ -8,5 +8,7 @@
     "Muted": "#866c55",
     "DarkMuted": "#305a5f",
     "LightMuted": "#c1b096"
-  }
+  },
+  "copyright": "Coral reef in the Indian Ocean, Mayotte, France (© Gabriel Barathieu/Minden Pictures)",
+  "time": "2024-07-18"
 }

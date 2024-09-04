@@ -8,5 +8,7 @@
     "Muted": "#486282",
     "DarkMuted": "#27455a",
     "LightMuted": "#b7a493"
-  }
+  },
+  "copyright": "教堂山，斯奈山半岛，冰岛 (© Ratnakorn Piyasirisorost/Getty Images)",
+  "time": "2023-12-27"
 }

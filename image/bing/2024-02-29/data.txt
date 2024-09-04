@@ -8,5 +8,7 @@
     "Muted": "#ab806a",
     "DarkMuted": "#504237",
     "LightMuted": "#d6bfb2"
-  }
+  },
+  "copyright": "欧亚红松鼠 (© Westend61/Getty Images)",
+  "time": "2024-02-29"
 }

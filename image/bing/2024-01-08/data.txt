@@ -8,5 +8,7 @@
     "Muted": "#ae7171",
     "DarkMuted": "#43485a",
     "LightMuted": "#b5c3dd"
-  }
+  },
+  "copyright": "贝尔尼纳山口的滑雪场，格劳宾登州，瑞士 (© Francesco Bergamaschi/Getty Images)",
+  "time": "2024-01-08"
 }

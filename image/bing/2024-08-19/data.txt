@@ -8,5 +8,7 @@
     "Muted": "#ac6464",
     "DarkMuted": "#2a3341",
     "LightMuted": "#8fa3c1"
-  }
+  },
+  "copyright": "Bufadero de la Garita，大加那利岛，西班牙 (© Marco Bottigelli/Getty Images)",
+  "time": "2024-08-19"
 }

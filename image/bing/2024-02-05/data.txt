@@ -8,5 +8,7 @@
     "Muted": "#627296",
     "DarkMuted": "#3d4054",
     "LightMuted": "#7d8eb0"
-  }
+  },
+  "copyright": "从奥索伊尼察观景点看日出时的布莱德湖，斯洛文尼亚 (© Rasica/Getty Images)",
+  "time": "2024-02-05"
 }

@@ -8,5 +8,7 @@
     "Muted": "#53759b",
     "DarkMuted": "#314453",
     "LightMuted": "#99b6ca"
-  }
+  },
+  "copyright": "龙舟池日出，集美区，厦门，中国 (© outcast85/Getty images)",
+  "time": "2024-06-10"
 }

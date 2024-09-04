@@ -8,5 +8,7 @@
     "Muted": "#6184a4",
     "DarkMuted": "#3a372a",
     "LightMuted": "#92b9bc"
-  }
+  },
+  "copyright": "富内斯山谷，背景是多洛米蒂山，南蒂罗尔，意大利 (© Achim Thomae/Getty Images)",
+  "time": "2023-11-11"
 }

@@ -8,5 +8,7 @@
     "Muted": "#a6634c",
     "DarkMuted": "#764a3c",
     "LightMuted": "#893e10"
-  }
+  },
+  "copyright": "阿根廷拉里奥哈省塔兰帕亚国家公园 (© Gonzalo Azumendi/Getty Images)",
+  "time": "2024-07-09"
 }

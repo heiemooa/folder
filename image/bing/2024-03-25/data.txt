@@ -8,5 +8,7 @@
     "Muted": "#678eb5",
     "DarkMuted": "#523d25",
     "LightMuted": "#a7c0d7"
-  }
+  },
+  "copyright": "弗雷泽河谷的郁金香田，阿伯兹福德，不列颠哥伦比亚省，加拿大 (© LeonU/Getty Images)",
+  "time": "2024-03-25"
 }

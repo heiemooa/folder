@@ -8,5 +8,7 @@
     "Muted": "#aa795d",
     "DarkMuted": "#644a34",
     "LightMuted": "#ceb4a3"
-  }
+  },
+  "copyright": "上巴尔城堡，阿尔萨斯，法国 (© Andrea Pistolesi/Getty Images)",
+  "time": "2023-11-01"
 }

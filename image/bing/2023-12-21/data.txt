@@ -8,5 +8,7 @@
     "Muted": "#616a9a",
     "DarkMuted": "#383648",
     "LightMuted": "#adb1cd"
-  }
+  },
+  "copyright": "卢布尔雅那，斯洛文尼亚共和国 (© kasto80/Getty images)",
+  "time": "2023-12-21"
 }

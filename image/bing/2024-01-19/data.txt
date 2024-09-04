@@ -8,5 +8,7 @@
     "Muted": "#7f8d94",
     "DarkMuted": "#414043",
     "LightMuted": "#a8c6cd"
-  }
+  },
+  "copyright": "十六湖国家公园，克罗地亚 (© Massimo_S8/Getty Images)",
+  "time": "2024-01-19"
 }

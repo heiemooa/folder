@@ -8,5 +8,7 @@
     "Muted": "#629d83",
     "DarkMuted": "#2c5f54",
     "LightMuted": "#c8ad95"
-  }
+  },
+  "copyright": "卡普泰湖水上市场，兰加马蒂，孟加拉 (© Azim Khan Ronnie/Amazing Aerial Agency)",
+  "time": "2024-08-01"
 }

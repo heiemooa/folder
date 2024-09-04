@@ -8,5 +8,7 @@
     "Muted": "#987c65",
     "DarkMuted": "#5a4436",
     "LightMuted": "#c6beb7"
-  }
+  },
+  "copyright": "驯鹿在雪中奔跑，阿拉斯加，美国 (© Michael Quinton/Minden Pictures)",
+  "time": "2023-12-25"
 }

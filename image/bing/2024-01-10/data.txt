@@ -8,5 +8,7 @@
     "Muted": "#668293",
     "DarkMuted": "#356463",
     "LightMuted": "#9cb8c5"
-  }
+  },
+  "copyright": "米罗伯塔莫斯海岸线上的楼梯，色萨利，希腊 (© Orestis Zoumpos/Amazing Aerial Agency)",
+  "time": "2024-01-10"
 }

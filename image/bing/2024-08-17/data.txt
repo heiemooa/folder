@@ -8,5 +8,7 @@
     "Muted": "#a07160",
     "DarkMuted": "#583b29",
     "LightMuted": "#c1acb2"
-  }
+  },
+  "copyright": "阿尔凡齐纳灯塔，阿尔加维，葡萄牙 (© Andreas Kunz/Getty Images)",
+  "time": "2024-08-17"
 }

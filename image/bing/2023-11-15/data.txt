@@ -8,5 +8,7 @@
     "Muted": "#84806f",
     "DarkMuted": "#433527",
     "LightMuted": "#d0ceca"
-  }
+  },
+  "copyright": "萨雷克国家公园的拉帕谷，瑞典 (© Hans Strand/Getty Images)",
+  "time": "2023-11-15"
 }

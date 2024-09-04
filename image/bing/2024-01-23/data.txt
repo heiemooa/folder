@@ -8,5 +8,7 @@
     "Muted": "#6e9faf",
     "DarkMuted": "#046595",
     "LightMuted": "#b7c3d8"
-  }
+  },
+  "copyright": "印度洋的环礁，马尔代夫 (© Amazing Aerial Premium/Shutterstock)",
+  "time": "2024-01-23"
 }

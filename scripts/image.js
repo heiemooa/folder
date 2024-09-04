@@ -59,9 +59,10 @@ function bing(dir, key = 1) {
           const data = JSON.parse(fs.readFileSync(filePath).toString());
           result.push({
             key: key++,
-            time: path.basename(dir),
             url: {},
+            time: data.time || path.basename(dir),
             title: data.title,
+            copyright: data.copyright,
             color: data.color,
             base64: data.base64,
           });
@@ -69,14 +70,15 @@ function bing(dir, key = 1) {
         if (path.extname(filePath) === ".jpg") {
           result.push({
             key: key++,
-            time: path.basename(dir),
             url: {
               [path.basename(filePath, path.extname(filePath))]: path.join(
                 dir,
                 file
               ),
             },
+            time: path.basename(dir),
             title: "",
+            copyright: "",
             color: {},
             base64: "",
           });

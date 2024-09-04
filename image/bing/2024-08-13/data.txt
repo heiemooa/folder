@@ -8,5 +8,7 @@
     "Muted": "#58649c",
     "DarkMuted": "#666c32",
     "LightMuted": "#a1accc"
-  }
+  },
+  "copyright": "特拉斯契卡自然公园悬崖，杜吉奥托克岛，克罗地亚 (© Ilija Ascic/Shutterstock)",
+  "time": "2024-08-13"
 }

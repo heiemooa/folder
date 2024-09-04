@@ -8,5 +8,7 @@
     "Muted": "#7089b5",
     "DarkMuted": "#776e39",
     "LightMuted": "#a1b9cd"
-  }
+  },
+  "copyright": "斯科讷省海滩上的浴场小屋，瑞典 (© Martin Wahlborg/Getty Images)",
+  "time": "2024-07-28"
 }

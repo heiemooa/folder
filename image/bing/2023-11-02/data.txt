@@ -8,5 +8,7 @@
     "Muted": "#73729b",
     "DarkMuted": "#2b3550",
     "LightMuted": "#b0746d"
-  }
+  },
+  "copyright": "恶水盆地的盐滩，死亡谷国家公园，加利福尼亚州，美国 (© Jim Patterson/Tandem Stills + Motion)",
+  "time": "2023-11-02"
 }

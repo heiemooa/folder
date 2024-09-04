@@ -8,5 +8,7 @@
     "Muted": "#96566a",
     "DarkMuted": "#615234",
     "LightMuted": "#a59489"
-  }
+  },
+  "copyright": "树上的中国小熊猫, 成都, 四川省, 中国 (© Jackyenjoyphotography/Getty Images)",
+  "time": "2024-07-22"
 }

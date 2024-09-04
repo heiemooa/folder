@@ -8,5 +8,7 @@
     "Muted": "#737285",
     "DarkMuted": "#29324c",
     "LightMuted": "#bba190"
-  }
+  },
+  "copyright": "大弯国家公园上空的银河，得克萨斯州，美国 (© wisanuboonrawd/Adobe Stock)",
+  "time": "2024-06-12"
 }

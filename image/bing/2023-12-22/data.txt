@@ -8,5 +8,7 @@
     "Muted": "#6e839f",
     "DarkMuted": "#725264",
     "LightMuted": "#afb9d1"
-  }
+  },
+  "copyright": "天鹅泉湿地公园，伊犁，新疆，中国 (© 500px Asia/Getty images)",
+  "time": "2023-12-22"
 }

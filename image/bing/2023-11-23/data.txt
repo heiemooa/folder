@@ -8,5 +8,7 @@
     "Muted": "#88657b",
     "DarkMuted": "#392b46",
     "LightMuted": "#a48c9c"
-  }
+  },
+  "copyright": "泰德国家公园的日落，特内里费岛，加那利群岛, 西班牙 (© Javier Martínez Morán/Alamy)",
+  "time": "2023-11-23"
 }

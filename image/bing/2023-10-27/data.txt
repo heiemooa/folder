@@ -8,5 +8,7 @@
     "Muted": "#5e748a",
     "DarkMuted": "#1f2d3e",
     "LightMuted": "#8da7c4"
-  }
+  },
+  "copyright": "斯利加坎老桥，苏格兰斯凯岛 (© Aliaume Chapelle/Tandem Stills + Motion)",
+  "time": "2023-10-27"
 }

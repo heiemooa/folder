@@ -8,5 +8,7 @@
     "Muted": "#aaa954",
     "DarkMuted": "#4e492e",
     "LightMuted": "#c7aed2"
-  }
+  },
+  "copyright": "德国草地上的蝴蝶 (© Albert Fertl/Getty Images)",
+  "time": "2024-03-01"
 }

@@ -8,5 +8,7 @@
     "Muted": "#a3555f",
     "DarkMuted": "#553d51",
     "LightMuted": "#b7788f"
-  }
+  },
+  "copyright": "冬季日出，沃尔顿灯塔，圣克鲁斯, 加利福尼亚州, 美国 (© Jeff Lewis/Tandem Stills + Motion)",
+  "time": "2024-01-22"
 }

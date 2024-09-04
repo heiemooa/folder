@@ -8,5 +8,7 @@
     "Muted": "#5a77a0",
     "DarkMuted": "#464f33",
     "LightMuted": "#c3c1b6"
-  }
+  },
+  "copyright": "从康威河眺望康威城堡，威尔士 (© David Chapman/Alamy Stock Photo)",
+  "time": "2024-07-06"
 }

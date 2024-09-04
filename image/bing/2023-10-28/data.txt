@@ -8,5 +8,7 @@
     "Muted": "#7e7a7d",
     "DarkMuted": "#345444",
     "LightMuted": "#d7cab4"
-  }
+  },
+  "copyright": "卡斯蒂利亚-拉曼恰的风车，西班牙 (© Getty Images)",
+  "time": "2023-10-28"
 }

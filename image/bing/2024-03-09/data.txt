@@ -8,5 +8,7 @@
     "Muted": "#a3735a",
     "DarkMuted": "#303452",
     "LightMuted": "#abadc1"
-  }
+  },
+  "copyright": "比斯第恶土，新墨西哥州，美国 (© Ian Shive/Tandem Stills + Motion)",
+  "time": "2024-03-09"
 }

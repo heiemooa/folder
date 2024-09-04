@@ -8,5 +8,7 @@
     "Muted": "#8e4f48",
     "DarkMuted": "#4b413e",
     "LightMuted": "#ccacac"
-  }
+  },
+  "copyright": "冬天，雄性苍头燕雀栖息在海棠果树上 (© Mark Hamblin/2020VISION/Minden Pictures)",
+  "time": "2024-01-06"
 }

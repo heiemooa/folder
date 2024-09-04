@@ -8,5 +8,7 @@
     "Muted": "#8a6c5c",
     "DarkMuted": "#2a3445",
     "LightMuted": "#aa9892"
-  }
+  },
+  "copyright": "女王花园群岛的镰形真鲨，古巴 (© Christian Vizl/Tandem Stills + Motion)",
+  "time": "2024-07-14"
 }

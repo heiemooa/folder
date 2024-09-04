@@ -8,5 +8,7 @@
     "Muted": "#9d7a5e",
     "DarkMuted": "#77563d",
     "LightMuted": "#d2bda6"
-  }
+  },
+  "copyright": "热带稀树草原上的南非剑羚，博茨瓦纳大草原 (© Karine Aigner/Tandem Stills + Motion)",
+  "time": "2024-06-11"
 }

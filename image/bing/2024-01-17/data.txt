@@ -8,5 +8,7 @@
     "Muted": "#a57657",
     "DarkMuted": "#4f4a39",
     "LightMuted": "#bbc4cc"
-  }
+  },
+  "copyright": "巴伐利亚森林国家公园里睡觉的狼，德国 (© Raimund Linke/Getty Images)",
+  "time": "2024-01-17"
 }

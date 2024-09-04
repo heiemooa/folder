@@ -8,5 +8,7 @@
     "Muted": "#62809f",
     "DarkMuted": "#835a5f",
     "LightMuted": "#b4b4d4"
-  }
+  },
+  "copyright": "吕根岛的萨斯尼茨灯塔，德国 (© Christian Back/eStock)",
+  "time": "2024-02-01"
 }

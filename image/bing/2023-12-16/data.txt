@@ -8,5 +8,7 @@
     "Muted": "#6255a7",
     "DarkMuted": "#483257",
     "LightMuted": "#cab6b6"
-  }
+  },
+  "copyright": "大广场，布鲁塞尔，比利时 (© Richard Taylor/Sime/eStock Photo)",
+  "time": "2023-12-16"
 }

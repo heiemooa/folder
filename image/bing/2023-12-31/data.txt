@@ -8,5 +8,7 @@
     "Muted": "#8d7755",
     "DarkMuted": "#4d3b36",
     "LightMuted": "#6a442f"
-  }
+  },
+  "copyright": "帕那空奇里上空的烟花，碧武里府,泰国 (© noomcpk/Shutterstock)",
+  "time": "2023-12-31"
 }

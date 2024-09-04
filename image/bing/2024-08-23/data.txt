@@ -8,5 +8,7 @@
     "Muted": "#b48a60",
     "DarkMuted": "#4d3827",
     "LightMuted": "#b4c8dc"
-  }
+  },
+  "copyright": "帕侬蓝寺，武里南府，泰国 (© Banjongseal324/Getty Images)",
+  "time": "2024-08-23"
 }

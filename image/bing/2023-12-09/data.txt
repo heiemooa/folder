@@ -8,5 +8,7 @@
     "Muted": "#6c738c",
     "DarkMuted": "#33456d",
     "LightMuted": "#acc1d2"
-  }
+  },
+  "copyright": "原驼，冰川国家公园，阿根廷 (© Yva Momatiuk and John Eastcott/Minden Pictures)",
+  "time": "2023-12-09"
 }

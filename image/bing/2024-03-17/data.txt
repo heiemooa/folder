@@ -8,5 +8,7 @@
     "Muted": "#7a95a0",
     "DarkMuted": "#414826",
     "LightMuted": "#adbfbc"
-  }
+  },
+  "copyright": "圣菲尼安湾，凯里郡，爱尔兰 (© Atlantide Phototravel/Getty Images)",
+  "time": "2024-03-17"
 }

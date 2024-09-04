@@ -8,5 +8,7 @@
     "Muted": "#626681",
     "DarkMuted": "#373e58",
     "LightMuted": "#8b630e"
-  }
+  },
+  "copyright": "灯光秀点亮夜幕中的西安城墙，中国春节 (© Eastimages/Getty Images)",
+  "time": "2024-02-09"
 }

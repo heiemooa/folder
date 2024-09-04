@@ -8,5 +8,7 @@
     "Muted": "#8f6a68",
     "DarkMuted": "#283a4b",
     "LightMuted": "#9cacb4"
-  }
+  },
+  "copyright": "艾纳, 塞古拉山脉, 阿尔瓦塞特, 西班牙 (© Juan Maria Coy Vergara/Getty Images)",
+  "time": "2024-01-30"
 }

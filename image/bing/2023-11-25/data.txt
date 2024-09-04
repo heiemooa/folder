@@ -8,5 +8,7 @@
     "Muted": "#6b91ab",
     "DarkMuted": "#2d455e",
     "LightMuted": "#8cb0c5"
-  }
+  },
+  "copyright": "托莱多，西班牙 (© Carlos Fernandez/Getty Images)",
+  "time": "2023-11-25"
 }

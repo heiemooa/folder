@@ -8,5 +8,7 @@
     "Muted": "#af6988",
     "DarkMuted": "#2c273d",
     "LightMuted": "#b7a6ba"
-  }
+  },
+  "copyright": "圣约瑟夫北码头内灯和外灯，密歇根州，美国 (© Kenneth Keifer/Getty Images)",
+  "time": "2024-08-07"
 }

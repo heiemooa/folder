@@ -8,5 +8,7 @@
     "Muted": "#6494ac",
     "DarkMuted": "#685032",
     "LightMuted": "#9ccccc"
-  }
+  },
+  "copyright": "纳斯卡鲣鸟，沃尔夫岛，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures)",
+  "time": "2024-08-21"
 }

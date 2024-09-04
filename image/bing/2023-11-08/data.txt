@@ -8,5 +8,7 @@
     "Muted": "#80788f",
     "DarkMuted": "#524028",
     "LightMuted": "#adb5d1"
-  }
+  },
+  "copyright": "黄山的日落，安徽省，中国 (© Nantapon Pattamakijsakul/Getty Images)",
+  "time": "2023-11-08"
 }

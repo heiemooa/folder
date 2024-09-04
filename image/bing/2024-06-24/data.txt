@@ -8,5 +8,7 @@
     "Muted": "#a58950",
     "DarkMuted": "#4d402a",
     "LightMuted": "#d0bdb3"
-  }
+  },
+  "copyright": "克里穆图的火山口湖，弗洛勒斯岛，印度尼西亚 (© Shane P. White/Minden Pictures)",
+  "time": "2024-06-24"
 }

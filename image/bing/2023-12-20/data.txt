@@ -8,5 +8,7 @@
     "Muted": "#5250a6",
     "DarkMuted": "#372f5d",
     "LightMuted": "#bc8ea0"
-  }
+  },
+  "copyright": "圣诞节期间的瓦尔加迪纳山谷的村庄，多洛米蒂山，意大利 (© Ingus Kruklitis/Getty Images)",
+  "time": "2023-12-20"
 }

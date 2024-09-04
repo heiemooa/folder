@@ -8,5 +8,7 @@
     "Muted": "#a76e53",
     "DarkMuted": "#6f4938",
     "LightMuted": "#d4bcb5"
-  }
+  },
+  "copyright": "科奇城堡，Tongwynlais，卡迪夫，威尔士，英国，欧洲 (© Billy Stock/robertharding/Alamy Stock Photo)",
+  "time": "2023-11-20"
 }

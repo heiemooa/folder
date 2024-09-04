@@ -8,5 +8,7 @@
     "Muted": "#5a8797",
     "DarkMuted": "#324d56",
     "LightMuted": "#d5c1b5"
-  }
+  },
+  "copyright": "雷吉斯坦广场的外立面马赛克，撒马尔罕，乌兹别克斯坦撒 (© da-kuk/Getty Images)",
+  "time": "2024-06-13"
 }

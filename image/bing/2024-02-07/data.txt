@@ -8,5 +8,7 @@
     "Muted": "#5a9186",
     "DarkMuted": "#2c5158",
     "LightMuted": "#9abcb5"
-  }
+  },
+  "copyright": "圣詹姆斯潮汐池，开普敦，南非 (© AmazingAerialAgency/Adobe)",
+  "time": "2024-02-07"
 }

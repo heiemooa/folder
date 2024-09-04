@@ -8,5 +8,7 @@
     "Muted": "#6774a5",
     "DarkMuted": "#493f3d",
     "LightMuted": "#c3aeb8"
-  }
+  },
+  "copyright": "韦尔东峡谷的雾蒙蒙的早晨，普罗旺斯-阿尔卑斯-蓝色海岸大区，法国 (© Hemis/Alamy)",
+  "time": "2023-12-07"
 }

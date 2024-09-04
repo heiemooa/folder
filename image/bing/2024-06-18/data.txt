@@ -8,5 +8,7 @@
     "Muted": "#535782",
     "DarkMuted": "#4f3c2e",
     "LightMuted": "#d0bcb3"
-  }
+  },
+  "copyright": "日出时的羽扇豆田和教堂，斯奈山半岛，冰岛 (© Matteo Colombo/Getty Images)",
+  "time": "2024-06-18"
 }

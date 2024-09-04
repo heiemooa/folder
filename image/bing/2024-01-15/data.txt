@@ -8,5 +8,7 @@
     "Muted": "#5c7ba6",
     "DarkMuted": "#303b55",
     "LightMuted": "#9fb0cc"
-  }
+  },
+  "copyright": "瓦茨曼山脚下的冰教堂，巴伐利亚，德国 (© Christian Bäck/eStock Photo)",
+  "time": "2024-01-15"
 }

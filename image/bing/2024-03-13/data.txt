@@ -8,5 +8,7 @@
     "Muted": "#617186",
     "DarkMuted": "#2c3c4d",
     "LightMuted": "#a99eaa"
-  }
+  },
+  "copyright": "小红鹳飞越马加迪湖,肯尼亚 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)",
+  "time": "2024-03-13"
 }

@@ -8,5 +8,7 @@
     "Muted": "#7c5a4a",
     "DarkMuted": "#513726",
     "LightMuted": "#915a08"
-  }
+  },
+  "copyright": "非洲象，肯尼亚安博塞利国家公园 (© Ruzdi Ekenheim/Getty Images)",
+  "time": "2024-08-12"
 }

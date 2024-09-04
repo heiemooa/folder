@@ -8,5 +8,7 @@
     "Muted": "#ad865e",
     "DarkMuted": "#573c2c",
     "LightMuted": "#aca4a2"
-  }
+  },
+  "copyright": "黑斑羚和红嘴牛椋鸟，南非 (© Matrishva Vyas/Getty Images)",
+  "time": "2024-08-04"
 }

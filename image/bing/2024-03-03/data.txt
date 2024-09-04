@@ -8,5 +8,7 @@
     "Muted": "#979253",
     "DarkMuted": "#4e522d",
     "LightMuted": "#bab47c"
-  }
+  },
+  "copyright": "树上的豹子，克鲁格国家公园，南非 (© Tonino De Marco/Minden Pictures)",
+  "time": "2024-03-03"
 }

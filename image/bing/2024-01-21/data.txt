@@ -8,5 +8,7 @@
     "Muted": "#948d6b",
     "DarkMuted": "#5c6b3f",
     "LightMuted": "#bbc58d"
-  }
+  },
+  "copyright": "欧亚红松鼠，荷兰 (© Ernst Dirksen/Minden Pictures)",
+  "time": "2024-01-21"
 }

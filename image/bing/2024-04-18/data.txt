@@ -8,5 +8,7 @@
     "Muted": "#9c7457",
     "DarkMuted": "#3f4325",
     "LightMuted": "#cbb19b"
-  }
+  },
+  "copyright": "中世纪城墙，阿维拉，西班牙 (© Scott Suriano/Getty Images)",
+  "time": "2024-04-18"
 }

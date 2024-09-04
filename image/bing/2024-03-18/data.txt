@@ -8,5 +8,7 @@
     "Muted": "#9e746b",
     "DarkMuted": "#4f3431",
     "LightMuted": "#c5a08f"
-  }
+  },
+  "copyright": "大象岩，古城欧拉，沙特阿拉伯 (© Lubo Ivanko/Shutterstock)",
+  "time": "2024-03-18"
 }

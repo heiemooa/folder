@@ -8,5 +8,7 @@
     "Muted": "#79535a",
     "DarkMuted": "#323c57",
     "LightMuted": "#8e8994"
-  }
+  },
+  "copyright": "桑佩伦山上的菲泽尔城堡，匈牙利 (© ZGPhotography/Alamy)",
+  "time": "2023-10-24"
 }

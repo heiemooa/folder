@@ -8,5 +8,7 @@
     "Muted": "#8c8678",
     "DarkMuted": "#4a482f",
     "LightMuted": "#bbc0ae"
-  }
+  },
+  "copyright": "Wahclella Falls，哥伦比亚河峡谷，俄勒冈州，美国 (© Eric Vogt/Tandem Stills + Motion)",
+  "time": "2024-03-06"
 }

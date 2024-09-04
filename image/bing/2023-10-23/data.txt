@@ -8,5 +8,7 @@
     "Muted": "#3c6c4c",
     "DarkMuted": "#4e4c32",
     "LightMuted": "#856314"
-  }
+  },
+  "copyright": "塞勒斯堡的玉米迷宫，宾夕法尼亚州，美国 (© Alex Potemkin/Getty Images)",
+  "time": "2023-10-23"
 }

@@ -8,5 +8,7 @@
     "Muted": "#647c9c",
     "DarkMuted": "#202235",
     "LightMuted": "#c8b7a7"
-  }
+  },
+  "copyright": "波西米亚太平鸟栖息在树枝上，加拿大 (© Jim Cumming/Shutterstock)",
+  "time": "2023-12-17"
 }

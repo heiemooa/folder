@@ -8,5 +8,7 @@
     "Muted": "#a96554",
     "DarkMuted": "#593d36",
     "LightMuted": "#c7a3b4"
-  }
+  },
+  "copyright": "砂岩岩层，红悬崖国家保护区，亚利桑那州，美国 (© Yva Momatiuk and John Eastcott/Minden Pictures)",
+  "time": "2023-12-03"
 }

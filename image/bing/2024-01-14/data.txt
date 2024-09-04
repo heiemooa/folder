@@ -8,5 +8,7 @@
     "Muted": "#5c7c9c",
     "DarkMuted": "#553d34",
     "LightMuted": "#b3becf"
-  }
+  },
+  "copyright": "屈斜路湖的天鹅，日本 (© Darrell Gulin/DanitaDelimont.com)",
+  "time": "2024-01-14"
 }

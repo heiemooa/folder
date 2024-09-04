@@ -8,5 +8,7 @@
     "Muted": "#8bb158",
     "DarkMuted": "#386c3c",
     "LightMuted": "#aea194"
-  }
+  },
+  "copyright": "铜瀑布州立公园的巴德河，威斯康星州，美国 (© Big Joe/Getty Images)",
+  "time": "2023-11-17"
 }

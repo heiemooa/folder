@@ -8,5 +8,7 @@
     "Muted": "#5877b4",
     "DarkMuted": "#383623",
     "LightMuted": "#aab2c7"
-  }
+  },
+  "copyright": "大阶梯埃斯卡兰特国家纪念区中的棉白杨树，犹他州，美国 (© Jeff Foott/Minden Pictures)",
+  "time": "2023-10-25"
 }

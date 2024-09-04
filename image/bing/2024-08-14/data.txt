@@ -8,5 +8,7 @@
     "Muted": "#aa945b",
     "DarkMuted": "#7f6a46",
     "LightMuted": "#bb9d79"
-  }
+  },
+  "copyright": "澳洲魔蜥，瓦塔卡国家公园，澳大利亚 (© Yva Momatiuk and John Eastcott/Minden Pictures)",
+  "time": "2024-08-14"
 }

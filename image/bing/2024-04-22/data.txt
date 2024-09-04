@@ -8,5 +8,7 @@
     "Muted": "#5a9691",
     "DarkMuted": "#504e2f",
     "LightMuted": "#c2ba9c"
-  }
+  },
+  "copyright": "绿海龟，圣地亚哥，加利福尼亚，美国 (© Ralph Pace/Minden Pictures)",
+  "time": "2024-04-22"
 }

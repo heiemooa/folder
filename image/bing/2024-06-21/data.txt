@@ -8,5 +8,7 @@
     "Muted": "#a75a60",
     "DarkMuted": "#664466",
     "LightMuted": "#b0ccd6"
-  }
+  },
+  "copyright": "蓝色水面上的渔船航拍图，郴州市，湖南省，中国 (© Haitong Yu/Getty images)",
+  "time": "2024-06-21"
 }

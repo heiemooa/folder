@@ -8,5 +8,7 @@
     "Muted": "#607e9c",
     "DarkMuted": "#3b4652",
     "LightMuted": "#cbab8e"
-  }
+  },
+  "copyright": "海水从古老的珊瑚礁上倾泻而下，杭莱，越南 (© Thang Tat Nguyen/Getty Images)",
+  "time": "2024-03-26"
 }

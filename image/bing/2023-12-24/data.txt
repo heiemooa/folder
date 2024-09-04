@@ -8,5 +8,7 @@
     "Muted": "#7e729e",
     "DarkMuted": "#583434",
     "LightMuted": "#c5a9d1"
-  }
+  },
+  "copyright": "市政厅广场，塔尔图，爱沙尼亚 (© Westend61/Getty Images)",
+  "time": "2023-12-24"
 }

@@ -8,5 +8,7 @@
     "Muted": "#a0634b",
     "DarkMuted": "#5c3037",
     "LightMuted": "#a6bfce"
-  }
+  },
+  "copyright": "达卡环形交叉路口的鸟瞰图，孟加拉国 (© Azim Khan Ronnie/Amazing Aerial Agency)",
+  "time": "2024-06-23"
 }

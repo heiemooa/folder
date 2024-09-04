@@ -8,5 +8,7 @@
     "Muted": "#a5705c",
     "DarkMuted": "#6e493e",
     "LightMuted": "#a0bacd"
-  }
+  },
+  "copyright": "大运河与安康圣母大教堂，威尼斯，意大利 (© Rudy Balasko/Getty Images)",
+  "time": "2024-02-03"
 }

@@ -8,5 +8,7 @@
     "Muted": "#688687",
     "DarkMuted": "#664f37",
     "LightMuted": "#c2c3b7"
-  }
+  },
+  "copyright": "北方猫头鹰，萨斯喀彻温省，加拿大 (© Nick Saunders/Minden Pictures)",
+  "time": "2023-12-14"
 }

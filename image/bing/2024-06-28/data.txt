@@ -8,5 +8,7 @@
     "Muted": "#659490",
     "DarkMuted": "#544b39",
     "LightMuted": "#d4c0b0"
-  }
+  },
+  "copyright": "诺曼底海岸的绍塞群岛，法国 (© Tuul & Bruno Morandi/Getty Images)",
+  "time": "2024-06-28"
 }

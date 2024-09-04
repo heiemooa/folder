@@ -8,5 +8,7 @@
     "Muted": "#a87d51",
     "DarkMuted": "#5b3f2e",
     "LightMuted": "#9fbbd0"
-  }
+  },
+  "copyright": "瓜廖尔堡，中央邦，印度 (© Dmitry Rukhlenko-Photos of India/Alamy)",
+  "time": "2023-12-02"
 }

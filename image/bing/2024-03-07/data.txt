@@ -8,5 +8,7 @@
     "Muted": "#6084b4",
     "DarkMuted": "#674e31",
     "LightMuted": "#cfbdb5"
-  }
+  },
+  "copyright": "Roques de Benet，埃尔斯港自然公园，加泰罗尼亚，西班牙 (© Sergi Boixader/Alamy Stock Photo)",
+  "time": "2024-03-07"
 }

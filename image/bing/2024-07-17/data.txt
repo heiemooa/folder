@@ -8,5 +8,7 @@
     "Muted": "#806174",
     "DarkMuted": "#362f4b",
     "LightMuted": "#045a95"
-  }
+  },
+  "copyright": "德国中世纪城市罗滕堡 (© kanuman/Getty Images)",
+  "time": "2024-07-17"
 }

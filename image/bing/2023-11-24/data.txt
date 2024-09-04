@@ -8,5 +8,7 @@
     "Muted": "#6a935a",
     "DarkMuted": "#475325",
     "LightMuted": "#a6a0a1"
-  }
+  },
+  "copyright": "奥林匹克国家公园霍河雨林中的苔藓大厅 ，华盛顿州，美国 (© James Randklev/Getty Images)",
+  "time": "2023-11-24"
 }

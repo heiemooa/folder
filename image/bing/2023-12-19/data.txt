@@ -8,5 +8,7 @@
     "Muted": "#a87765",
     "DarkMuted": "#4c3336",
     "LightMuted": "#d0aaa1"
-  }
+  },
+  "copyright": "城堡广场的圣诞树，华沙古城，波兰 (© Panther Media GmbH/Alamy Stock Photo)",
+  "time": "2023-12-19"
 }

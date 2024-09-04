@@ -8,5 +8,7 @@
     "Muted": "#a35f4f",
     "DarkMuted": "#62372e",
     "LightMuted": "#a2a4c0"
-  }
+  },
+  "copyright": "布莱斯峡谷国家公园，犹他州，美国 (© Jim Patterson/Tandem Stills + Motion)",
+  "time": "2024-03-12"
 }

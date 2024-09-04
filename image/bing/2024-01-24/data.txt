@@ -8,5 +8,7 @@
     "Muted": "#6c79aa",
     "DarkMuted": "#303045",
     "LightMuted": "#b8bcdb"
-  }
+  },
+  "copyright": "钻石冰沙滩，冰岛 (© Rachid Dahnoun/Tandem Stills + Motion)",
+  "time": "2024-01-24"
 }

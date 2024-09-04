@@ -8,5 +8,7 @@
     "Muted": "#6d56a6",
     "DarkMuted": "#3b3465",
     "LightMuted": "#c7bcd7"
-  }
+  },
+  "copyright": "曼谷的交通圈和高速公路，泰国 (© Avigator Fortuner/Shutterstock)",
+  "time": "2024-03-05"
 }

@@ -8,5 +8,7 @@
     "Muted": "#b0925d",
     "DarkMuted": "#453c26",
     "LightMuted": "#aab689"
-  }
+  },
+  "copyright": "暮色中的曼哈顿下城联合广场，纽约，美国 (© Sean Pavone/Getty Images)",
+  "time": "2024-04-16"
 }

@@ -8,5 +8,7 @@
     "Muted": "#6653ac",
     "DarkMuted": "#2e2c53",
     "LightMuted": "#ce90c3"
-  }
+  },
+  "copyright": "盆景岩，太浩湖，内华达州，美国 (© Jim Patterson/Tandem Stills + Motion)",
+  "time": "2024-02-06"
 }

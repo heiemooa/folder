@@ -8,5 +8,7 @@
     "Muted": "#7b8586",
     "DarkMuted": "#343e44",
     "LightMuted": "#b6c6cd"
-  }
+  },
+  "copyright": "月球 (© Victor Blum/Getty Images)",
+  "time": "2024-07-20"
 }
