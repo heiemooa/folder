@@ -3,5 +3,16 @@
   "routes": [
     { "handle": "filesystem" },
     { "src": "/(.*)", "status": 404, "dest": "/404.html" }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "Link",
+          "value": "<https://avatars.githubusercontent.com/u/23737468?s=20&v=4>; rel=icon"
+        }
+      ]
+    }
   ]
 }
